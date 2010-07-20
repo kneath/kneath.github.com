@@ -1,4 +1,5 @@
 ---
+layout: link
 title: "Optimizing asset bundling and serving with Rails"
 type: link
 link:
