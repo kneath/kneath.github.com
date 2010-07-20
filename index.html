@@ -8,14 +8,14 @@ title: "Warpspire: Web, Design &amp; Code Geekery"
   {% if post.type == 'link' %}
     <div class="post other link">
       <span class="icon" title="This is a link elsewhere"></span>
-      <h2><a href="{{{ link }}}">{{ title }}</a></h2>
-      {{{ formatted_body }}}
+      <h2><a href="{{ post.link }}">{{ post.title }}</a></h2>
+      <p>{{ post.content }}</p>
     </div>
   {% else %}
     <div class="post">
       <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.excerpt }}&hellip; <a href="{{ post.url }}" class="continue">Continue Reading</a></p>
     </div>
   {% endif %}
 {% endfor %}
