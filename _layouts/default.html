@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>{{ page.title }}</title>
+	<title>
+	  {% if page.title %}
+	    {{ page.title }} &mdash; Warpspire
+	  {% else %}
+	    Warpspire: Web, Design &amp; Code Geekery
+	  {% endif %}
+	</title>
 	<link rel="stylesheet" href="/css/base.css" type="text/css" />
 	{{ page.head_content }}
 </head>
