@@ -16,7 +16,7 @@ head_content:
     <div class="post">
       <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}&hellip; <a href="{{ post.url }}" class="continue">Continue Reading</a></p>
+      <p>{{ post.excerpt }} <a href="{{ post.url }}" class="continue">Continue Reading</a></p>
     </div>
   {% endif %}
 {% endfor %}
