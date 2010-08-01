@@ -36,6 +36,7 @@ body{
   font-family: Helvetica, Arial, sans-serif;
   font-size:12px;
   -webkit-font-smoothing:antialiased;
+  background:#fff;
 }
 
 a{
@@ -51,13 +52,17 @@ a:hover{
 
 .sidebar{
   float:left;
-  margin:0 40px 0 30px;
+  padding:0 40px 0 30px;
   width:240px;
 }
 .main{
   float:left;
   padding-bottom:50px;
   width:560px;
+}
+
+.sidebar, .main{
+  border-top:2px solid #333;
 }
 
 /* @end */
@@ -131,7 +136,7 @@ ul.nav li a:hover{
 }
 
 .listing .post p.date{
-  margin:0 0 -3px 0;
+  margin:0 0 -1px 0;
 }
 
 .listing .post h2{
@@ -181,12 +186,12 @@ ul.nav li a:hover{
 
 .main{
   color:#333;
-  line-height:1.5;
+  line-height:19px;
 }
 
 .main p.date{
   color:#666;
-  margin:20px 0 -22px 0;
+  margin:20px 0 -20px 0;
 }
 
 h1{
@@ -196,16 +201,16 @@ h1{
 }
 
 h2{
-  margin:1em 0 -0.5em 0;
+  margin:2.0em 0 -0.5em 0;
   font-size:1em;
   color:#000;
   border-bottom:1px dotted #BBB;
 }
 
 h3{
-  margin:12px 0 -15px 0;
+  margin:15px 0 -10px 0;
   font-size:12px;
-  color:#000;
+  color:#333;
 }
 h3 a, h3 a:visited{ color:#000; }
 h3 a:hover{ color:#000; border:none; }
