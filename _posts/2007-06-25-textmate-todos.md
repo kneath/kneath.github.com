@@ -2,9 +2,9 @@
 layout: post
 title: Using TextMate's TODO bundle
 excerpt:
-  If you use TextMate, you should really think about using the TODO bundle more often.  It's a pretty simple, low-maintenance bundle that adds tremendous value to your code.
+  If you use TextMate, you should really think about using the TODO bundle more often.  It's a simple, low-maintenance bundle that adds tremendous value to your code.
 ---
-If you use TextMate, you should really think about using the TODO bundle more often.  It's a pretty simple, low-maintenance bundle that adds tremendous value to your code.
+If you use TextMate, you should really think about using the TODO bundle more often.  It's a simple, low-maintenance bundle that adds tremendous value to your code.
 
 ## Setting TODO, FIXME, and CHANGELOG
 

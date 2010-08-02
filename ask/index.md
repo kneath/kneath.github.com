@@ -5,7 +5,7 @@ title: Ask me something
 
 # Ask me something
 
-So here's the deal: I think comments on the internet have failed for a number of reasons. But I think interacting with my audience is awesome. So I've decided to go back to a "letters to the editor" type of model.
+Here's the deal: Comments on the internet suck. But I think you're all pretty awesome pople and I want to talk with you about what I post here. So I've decided to go back to a "letters to the editor" type of model.
 
 Send me a message. If it's not dumb and a response is reasonable, I'll respond back. And if I think it's something my audience might be intersted in, I'll post it to the site for all to see.
 
