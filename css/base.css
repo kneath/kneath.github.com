@@ -46,6 +46,7 @@ strong{
 a{
   color:#2382c8;
   text-decoration:none;
+  -webkit-font-smoothing:subpixel;
 }
 a:visited{
   color:#457289;
@@ -220,8 +221,8 @@ h3{
   font-size:12px;
   color:#333;
 }
-h3 a, h3 a:visited{ color:#000; }
-h3 a:hover{ color:#000; border:none; }
+h3 a, h3 a:visited, h2 a, h2 a:visited{ color:#000; }
+h3 a:hover, h2 a:hover{ color:#000; border:none; }
 
 h4{
   font-size:1em;
@@ -481,5 +482,64 @@ code.html span.doctype{
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+/* @end */
+
+/*------------------------------------------------------------------------------
+  @group Half Court
+------------------------------------------------------------------------------*/
+
+.hcs{
+	overflow:hidden;
+	text-align: left;
+}
+.hcs ul,
+.hcs *{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	outline: 0;
+	list-style-type: none;
+}
+.hcs ul{
+	margin: 0 -5px;
+}
+.hcs ul li{
+	width: 120px;
+	height:90px;
+	position: relative;
+	display: block;
+	padding: 5px;
+	margin: 5px 5px 0 5px;
+	background: rgba(0,0,0,0.075);
+	-webkit-transition:background 0.2s linear;
+	-moz-transition:background 0.2s linear;
+	transition:background 0.2s linear;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#14000000, endColorstr=#14000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#14000000, endColorstr=#14000000)";
+	display: table;
+	float:left;
+	vertical-align:middle;
+}
+.hcs ul li a{
+	width:120px;
+	height:90px;
+	text-align:center;
+	vertical-align:middle;
+	display: table-cell;
+}
+.hcs ul li:hover{
+	background: #2382c8;
+}
+.hcs img{
+	width:auto;
+	height: auto;
+	max-width: 120px;
+	max-height:90px;
+	border: 0;
+	-ms-interpolation-mode:bicubic;
+	font-size:0;
+	float:left;
+}
 
 /* @end */
