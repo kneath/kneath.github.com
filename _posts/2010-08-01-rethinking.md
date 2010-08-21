@@ -19,7 +19,7 @@ Anyways, it got me to thinking about sites that I continue to enjoy reading in t
 
 <div class="figure"><img src="http://assets.warpspire.com/images/rethinking/warpspire_screen.jpg" alt="Screenshot of Warpspire" /></div>
 
-This new layout is the simplist layout I've ever had on one of my sites. The goal was to create a focused place for my ideas.
+This new layout is the simplest layout I've ever had on one of my sites. The goal was to create a focused place for my ideas.
 
 ## Abandoning old baggage
 
