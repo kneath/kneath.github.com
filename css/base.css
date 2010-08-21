@@ -39,6 +39,10 @@ body{
   background:#fff;
 }
 
+strong{
+  font-weight:bold;
+}
+
 a{
   color:#2382c8;
   text-decoration:none;
@@ -48,6 +52,14 @@ a:visited{
 }
 a:hover{
   text-decoration:underline;
+}
+
+hr{
+  margin:15px 0;
+  height:1px;
+  padding:none;
+  background:#ddd;
+  border:none;
 }
 
 .sidebar{
@@ -301,6 +313,28 @@ table.data th, table.data td{
 .main ol li{
   margin-left:32px;
   margin-bottom:5px;
+}
+
+a.askme{
+  display:block;
+  padding:10px 12px;
+  font-size:14px;
+  text-decoration:none;
+  color:#666;
+  background:#eee;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border-radius:5px;
+}
+a.askme strong{
+  color:#000;
+}
+a.askme:hover strong{
+  text-decoration:underline;
+}
+
+p.note{
+  color:#666;
 }
 
 /* @end */
