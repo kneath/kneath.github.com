@@ -1,15 +1,15 @@
 ---
 layout: post
-title: XCode window management sucks
+title: Xcode window management sucks
 excerpt:
-  I posted some thoughts to twitter last night about how much the xCode window management drives me insane.  What I got back was a huge reaction of "it's perfect" and "this is how OSX works"  Suddenly I was wondering, am I just insane for thinking the window management is absolutely horrible?
+  I posted some thoughts to twitter last night about how much the Xcode window management drives me insane.  What I got back was a huge reaction of "it's perfect" and "this is how OSX works"  Suddenly I was wondering, am I just insane for thinking the window management is absolutely horrible?
 ---
 
 <div class="infobox">
-<p><strong>Hi, did you come here to tell me that XCode offers "all-in-one" editing?</strong> Please, don't send me an email. This is addressed in this article if you take time to read it.</p>
+<p><strong>Hi, did you come here to tell me that Xcode offers "all-in-one" editing?</strong> Please, don't send me an email. This is addressed in this article if you take time to read it.</p>
 </div>
 
-I posted some thoughts to twitter last night about how much the xCode window management drives me insane.  What I got back was a huge reaction of "it's perfect" and "this is how OSX works"  Suddenly I was wondering, am I just insane for thinking the window management is absolutely horrible?
+I posted some thoughts to twitter last night about how much the Xcode window management drives me insane.  What I got back was a huge reaction of "it's perfect" and "this is how OSX works"  Suddenly I was wondering, am I just insane for thinking the window management is absolutely horrible?
 
 No, no. I'm not. It's horrible.  Just because Apple built it, does not make it perfect.
 
@@ -45,14 +45,14 @@ Some points on why this works so well:
 * Windows provide a way to group files in a meaningful manner. Each window is a unique project. Remember, the project is the important thing -- when coding in Cocoa, you'll need to edit multiple files at once to make them work with one another.
 * I can quickly move between individual files via the keyboard. Considering coding is almost purely typing, keeping my hands on the keyboard is *killer*.
 
-### Case #3: WTF-based management FTL, xCode
+### Case #3: WTF-based management FTL, Xcode
 
 <div class="figure">
   <a href="http://assets.warpspire.com/images/xcode-windows/xcode_full.jpg"><img src="http://assets.warpspire.com/images/xcode-windows/xcode.jpg" /></a>
-  <small>Example of window management in xCode</small>
+  <small>Example of window management in Xcode</small>
 </div>
 
-Window management for xCode is handled via a combination of this thing called a Project window, which morphs depending on it's toolbar state, windows for each document, and windows for ancillary programs (like the model editor).  Please note I have the same number of windows open in this screenshot as I did in Textmate (7).  It's actually a pretty small program,  but completely overwhelming.
+Window management for Xcode is handled via a combination of this thing called a Project window, which morphs depending on it's toolbar state, windows for each document, and windows for ancillary programs (like the model editor).  Please note I have the same number of windows open in this screenshot as I did in Textmate (7).  It's actually a pretty small program,  but completely overwhelming.
 
 Some points on why this doesn't work so well:
 
@@ -61,19 +61,19 @@ Some points on why this doesn't work so well:
 * All the code looks the same. There is no unique identifier in Exposé mode. I must selectively hover over each file and read it's filename. Or, I can exposé to try and find the project window (which can look much like a code window too), and then open a new document.
 * If I accidentally Cmd-W the Project window, I have to start from scratch, opening the whole project and each document again. This often happens as you accidentally open windows and want to immediately close them.
 
-Some may counter, telling me that xCode offers editing inside the project window. Sure, this works, but offers just as many frustrations.
+Some may counter, telling me that Xcode offers editing inside the project window. Sure, this works, but offers just as many frustrations.
 
 * You *must* single click on files to open them. Double-clicking them still opens them in a new document.
 * Because of the above, and the last bullet on the previous list, I constantly find myself accidentally closing the project because I was trying to close an accidentally opened window.
 * Unless I choose not to run my program, I constantly have to switch out of debug mode and back into editing mode via the toolbar.
-* Every single time I open xCode I have to force it into editor mode.
+* Every single time I open Xcode I have to force it into editor mode.
 * There is a delay in single clicking a document.  You click the file on the sidebar, the sidebar highlights, but the new document doesn't open in the editing window for a second or two. When trying to scan documents for some code, this results in endless confusion.
 * There's no idea of "open files" in this mode. No context for which I'm working. I can't say, work on the View Controllers by opening each of them. Each time I must select the unique view controller in the sidebar, ordered alphabetically.
 
 ## It's a shame
 
-It's a shame, because other than the window management, xCode is really an awesome IDE. The actual text editing is great as is debugging, scriptability, and file management. It really helps solve all the problems that Cocoa apps force upon mere text editors (long method names, class names, files being in one directory, different types of files in the same directory, etc).
+It's a shame, because other than the window management, Xcode is really an awesome IDE. The actual text editing is great as is debugging, scriptability, and file management. It really helps solve all the problems that Cocoa apps force upon mere text editors (long method names, class names, files being in one directory, different types of files in the same directory, etc).
 
 It's the program's fatal flaw in my mind.  It isn't that it's sub-par, or not good enough -- it's downright infuriating to use. I want to do mean things to cute kittens whenever I use it.  So I don't. I use TextMate. Which actually is very good at Cocoa & Objective-C. But it means much more typing (especially with the shift key) since TextMate favors tab-triggers rather than tab-completion.
 
-At the end of the day, this is the kind of stuff I hope Mac developers care about.  It's about making the user experience the #1 priority in software development.  And it's something that I'm confident Apple knows about and intends to fix in future versions of xCode. Because they care about the user experience.
+At the end of the day, this is the kind of stuff I hope Mac developers care about.  It's about making the user experience the #1 priority in software development.  And it's something that I'm confident Apple knows about and intends to fix in future versions of Xcode. Because they care about the user experience.
