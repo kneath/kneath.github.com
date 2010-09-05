@@ -16,8 +16,12 @@ layout: nil
 
  {% for post in site.posts %}
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://warpspire.com{{ post.url }}"/>
+   <title>{{ post.title | xml_escape }}</title>
+   {% if post.type == 'link' %}
+     <link href="{{ post.link }}" />
+   {% else %}
+     <link href="http://warpspire.com{{ post.url }}" />
+   {% endif %}
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://warpspire.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
