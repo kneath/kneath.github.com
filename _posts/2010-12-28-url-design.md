@@ -101,9 +101,9 @@ It's fairly simple to do this with a quick conditional inside your click handler
 
 {% highlight javascript %}
 
-$('a.ajaxylink').click(function(){
+$('a.ajaxylink').click(function(e){
   // Fallback for browser that don't support the history API
-  if ('replaceState' in window.history) return true
+  if (!('replaceState' in window.history)) return true
 
   // Ensure middle, control and command clicks act normally
   if (e.which == 2 || e.metaKey || e.ctrlKey){
