@@ -119,7 +119,7 @@ $('a.ajaxylink').click(function(e){
 
 ## Post-specific URLs need to die
 
-In the past, the development community used to love creating URLs which could never be re-used. I like to call them POST-specific URLs — they're the URLs you see in your address bar after you submit a form, but when you try to copy & pasting the url into a new tab you get an error.
+In the past, the development community loved to create URLs which could never be re-used. I like to call them POST-specific URLs — they're the URLs you see in your address bar after you submit a form, but when you try to copy & pasting the url into a new tab you get an error.
 
 There's no excuse for these URLs at all. Post-specific URLs are for redirects and APIs — not end-users.
 
@@ -129,7 +129,7 @@ There's no excuse for these URLs at all. Post-specific URLs are for redirects an
 
 1. ASCII-only user generated URL parts (defunkt, resque).
 
-2. "pulls" is a short version of "pull requests" — single word, easily associated to the origin word.
+2. "pull" is a short version of "pull request" — single word, easily associated to the origin word.
 
 3. The pull request number is scoped to defunkt/resque (starts at **one** there).
 
