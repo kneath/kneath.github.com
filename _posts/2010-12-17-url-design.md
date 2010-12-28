@@ -5,7 +5,7 @@ excerpt:
   Blah
 ---
 
-**You should take time to design your URL structure.** I don't care if you're a designer, a developer, or a street performer — take time to design  your URLs.
+**You should take time to design your URL structure.** If there's one thing I hope you remember after reading this article it's to take time to design your URL structure. Don't leave it up to your framework. Don't leave it up to chance. Think about it and craft an experience.
 
 I tried for a long time to make this post cohesive, but I think after much editing it was simply meant to be a collection of ideas centered around designing URLs. After much editing, I've realized why this is: designing URLs is a complex subject. It's just as complex as designing a command line client or even a website.
 
@@ -13,11 +13,31 @@ I tried for a long time to make this post cohesive, but I think after much editi
 
 Any regular semi-technical user of your site should be able to navigate 90% of your app based off memory of the URL structure. In order to achieve this, your URLs will need to be *pragmatic.* Almost like they were a math equation — many simple rules combined in a strategic fashion to get to the page they want.
 
-### Top level directories are golden
+### Top level directories are gold
 
-### Use namespaces to re-use numbers
+The most valuable aspect of any URL is what lies at the top level directory. In my opinion, it should be the first discussion of any startup directly after the idea is solidified. Long before any technology discussion. Long before any code is written. This is top-level directory is going to change the fundementals of how your site functions.
+
+Do I seem dramatic? It may seem that way — but come 1,000,000 users later think about how big of an impact it will be. Think about how big of a deal Facebook's rollout of usernames was. Available URLs are a lot like real estate, and the top level directory is the best property out there.
+
+### Namespaces are great
+
+Namespaces can be a great way to build up a pragmatic URL structure that's easy to remember with continued usage. What do I mean by a namespace? I mean a portion of a URL that dictates unique content. An example:
+
+<pre><code>https://github.com/<strong>defunkt/resque</strong>/issues</code></pre>
+
+In the URL above, **`defunkt/resque`** is the namespace. Why is this useful? Because anything after that URL suddenly becomes a new top level directory. So you can go to any **`<user>/<repo>`** and then tack on `/issues` or maybe `/wiki` and get the same page, but under a different namespace.
+
+Keep that namespace clean. Don't start throwing some content under <code>/feature/<strong>&lt;user&gt;/&lt;repo&gt;</strong></code> and some under <code>/<strong>&lt;user&gt;/&lt;repo&gt;</strong>/feature</code>. For a namespace to be effective it has to be universal.
 
 ### Querystrings are great for filters and sorts
+
+If you look back in time at URL structures, the web started off sane — then as dynamic pages grew in popularity, the absue of the querystring was rapant. Many sites served everything off of one URL with the querystring dictating what to show. Now we seem to have progressed too far away from this — hardly anyone uses querystrings at all anymore.
+
+But querystrings can be great! Remember that talk of namespacing? The same can go for querystrings – they give users a chance to start over on a URL. That's why it's so great for filtering and sorting actions. That's because those actions can be used on many different URLs (pretty much anything that's a listing). So long as you provide a uniform pattern (`sort=alpha&dir=desc` for instance) — you make sorting and filtering via the URL bar easy and rememberable.
+
+### Non-ASCII URLs are terrible for English sites
+
+The world is a complicated place, filled with ümlåts and êñyés and all sorts of awesome characters ☄. These characters have no place in the URL of any English site. They're complicated to type with English keyboards and often times expand into confusing characters in some browsers (ever see `xn--n3h` in a url?).
 
 ## URLs are for humans — not for search engines
 
