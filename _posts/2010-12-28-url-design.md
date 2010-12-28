@@ -9,7 +9,7 @@ excerpt:
 
 URL Design is a complex subject. I can't say there are any "right" solutions — it's much like the rest of design. There's good URL design, there's bad URL design, and there's everything in between — it's subjective.
 
-But that doesn't mean there aren't best practices or methods to creating great URLs. So I hope to impress upon you some of the best practices in URL design I've learned over the years and perhaps dispell a few myths along the way.
+But that doesn't mean there aren't best practices or methods to creating great URLs. I hope to impress upon you some of the best practices in URL design I've learned over the years and explain why I think new HTML5 javascript history APIs are so exciting to work with.
 
 ## Why you need to be designing your URLs
 
@@ -121,8 +121,22 @@ There is a horrible movement in the development community to create URLs which c
 
 There's no excuse for these URLs at all. Post-specific URLs are for redirects and APIs — not end-users.
 
-## Wrapping it up
+## A great example
 
-I hope that as usage of the new Javascript APIs, developers and designers take time to design their URLs.  It's an important part of any web site's usability and too often I see people ignore the idea completely. Worse yet — while it's easy to redesign the look & feel of a site, it's *much* more difficult to redesign the URL structure.
+<div class="figure"><img src="http://assets.warpspire.com/images/urldesign/urlparts.1.gif" alt="Example URL" /></div>
 
-But personally, I'm excited. I've watched URL design ebb and flow over the past few years — at times hard-linking was sacraficed at the altar of AJAX, while other times performance was sacrificed to generate real URLs for users. We're finally at a point in time where we can have the performance and usability benefits of client-side rendering and design a coherent and refined URL experience at the same time.
+1. ASCII-only user generated URL parts (defunkt, resque)
+
+2. "pulls" is a short version of "pull requests" — single word, easily associated to the origin word
+
+3. Issue number namespaced to defunkt/resque (starts at zero there)
+
+4. Anchor points to a scrolling position, not hidden content
+
+**Bonus points:** This URL has many different formats as well — check out the [patch](https://github.com/defunkt/resque/pull/175.patch) and [diff](https://github.com/defunkt/resque/pull/175.diff) versions.
+
+## The begining of an era
+
+I hope that as usage of new Javascript APIs increases, designers and developers take time to design URLs.  It's an important part of any site's usability and too often I URLs ignored. Keep in mind that while it's easy to redesign the look & feel of a site, it's *much* more difficult to redesign the URL structure.
+
+But I'm excited. I've watched URLs change over the years. At times hard-linking was sacraficed at the altar of AJAX, while other times performance was sacrificed to generate real URLs for users. We're finally at a point in time where we can have the performance and usability benefits of partial page rendering and design a coherent and refined URL experience at the same time.
