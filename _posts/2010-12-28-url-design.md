@@ -15,7 +15,7 @@ But that doesn't mean there aren't best practices for creating great URLs. I hop
 
 <div class="figure"><img src="http://assets.warpspire.com/images/urldesign/chrome.jpg" alt="Chrome's URL bar" /></div>
 
-The URL bar has become a main attraction of modern browsers. And it's not just a simple URL bar anymore — you can type partial URLs and the browser will autocomplete it. When I type in **`resque issues`** into my URL bar, the first result is `https://github.com/defunkt/resque/issues`.
+The URL bar has become a main attraction of modern browsers. And it's not just a simple URL bar anymore — you can type partial URLs and browsers use dark magic to seemingly conjure up exactly the full URL you were looking for. When I type in **`resque issues`** into my URL bar, the first result is `https://github.com/defunkt/resque/issues`.
 
 URLs are *universal*. They work in Firefox, Chrome, Safari, Internet Explorer, cURL, wget, your iPhone, Android and even written down on sticky notes. They are the one universal syntax of the web. Don't take that for granted.
 
