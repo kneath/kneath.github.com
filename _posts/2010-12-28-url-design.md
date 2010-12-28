@@ -23,7 +23,7 @@ Any regular semi-technical user of your site should be able to navigate 90% of y
 
 ## Top level sections are gold
 
-The most valuable aspect of any URL is what lies at the top level section. In my opinion, it should be the first discussion of any startup directly after the idea is solidified. Long before any technology discussion. Long before any code is written. This is top-level section is going to change the fundementals of how your site functions.
+The most valuable aspect of any URL is what lies at the top level section. In my opinion, it should be the first discussion of any startup directly after the idea is solidified. Long before any technology discussion. Long before any code is written. This is top-level section is going to change the fundamentals of how your site functions.
 
 Do I seem dramatic? It may seem that way — but come 1,000,000 users later think about how big of an impact it will be. Think about how big of a deal Facebook's rollout of usernames was. Available URLs are a lot like real estate and the top level section is the best property out there.
 
@@ -137,8 +137,8 @@ There's no excuse for these URLs at all. Post-specific URLs are for redirects an
 
 **Bonus points:** This URL has many different formats as well — check out the [patch](https://github.com/defunkt/resque/pull/175.patch) and [diff](https://github.com/defunkt/resque/pull/175.diff) versions.
 
-## The begining of an era
+## The beginning of an era
 
 I hope that as usage of new Javascript APIs increases, designers and developers take time to design URLs.  It's an important part of any site's usability and too often I see URLs ignored. While it's easy to redesign the look & feel of a site, it's *much* more difficult to redesign the URL structure.
 
-But I'm excited. I've watched URLs change over the years. At times hard-linking was sacraficed at the altar of AJAX while other times performance was sacrificed to generate real URLs for users. We're finally at a point in time where we can have the performance and usability benefits of partial page rendering while designing a coherent and refined URL experience at the same time.
+But I'm excited. I've watched URLs change over the years. At times hard-linking was sacrificed at the altar of AJAX while other times performance was sacrificed to generate real URLs for users. We're finally at a point in time where we can have the performance and usability benefits of partial page rendering while designing a coherent and refined URL experience at the same time.
