@@ -18,6 +18,7 @@ title: Documentation is freaking awesome
 * [RDoc](http://rdoc.sourceforge.net)
 * [YARD](http://yardoc.org)
 * [TomDoc](http://tomdoc.org)
+  * [TomDoc.rb](https://github.com/defunkt/tomdoc)
 * [docco](http://jashkenas.github.com/docco/)
   * [rocco](http://rtomayko.github.com/rocco/)
   * [shocco](http://rtomayko.github.com/shocco/)
