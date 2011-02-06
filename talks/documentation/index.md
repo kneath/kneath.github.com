@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 title: Documentation is freaking awesome
 ---
 
