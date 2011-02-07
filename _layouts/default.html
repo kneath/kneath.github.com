@@ -9,6 +9,8 @@
 	  {% endif %}
 	</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	<link rel="stylesheet" href="/css/base.css" type="text/css" />
 	<link rel="alternate" href="http://feeds.feedburner.com/warpspire" type="application/rss+xml" />
 	<script type="text/javascript">
@@ -41,5 +43,25 @@
   <div class="main">
     {{ content }}
   </div><!-- /.main -->
+
+  <script type="text/javascript">
+  var _sf_async_config={uid:2599,domain:"warpspire.com"};
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+         "js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+
+  </script>
 </body>
 </html>
