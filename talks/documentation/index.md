@@ -5,11 +5,9 @@ title: Documentation is freaking awesome
 
 # Documentation is freaking awesome
 
-<div class="figure">
-  <img src="http://assets.warpspire.com/images/talks/documentation.png" alt="Documentation is freaking awesome" />
-</div>
+<script src="http://speakerdeck.com/embed/4d51eed25753083721000005.js?size=preview"></script>
 
-**[Download the presentation](/talks/documentation/documentation.pdf)**
+**[Download the presentation](/talks/documentation/documentation.pdf)** (6MB PDF)
 
 ## References
 
