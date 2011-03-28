@@ -9,6 +9,11 @@ title: Documentation is freaking awesome
 
 **[Download the presentation](/talks/documentation/documentation.pdf)** (6MB PDF)
 
+I have a confession: I love documentation — and I don't just mean code comments. I mean documentation of every form. I want to introduce you to the breadth of documentation styles and forms. I want to show you how to produce beautiful generated documentation. I want to explain what makes an awesome README. How to build an amazing marketing website for your library. I want to gush about why I think writing TomDoc is going to make you write better code.
+
+Ruby is such an expressive language that your code can end up looking like anything you can imagine. Documentation is paramount in helping others understand why and how they should be using your code.
+
+
 ## References
 
 ### Documentation Formats
