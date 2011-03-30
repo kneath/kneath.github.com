@@ -2,7 +2,7 @@
 layout: post
 title: Product design at GitHub
 excerpt:
-  Product design is easily the hardest aspect of building software today. I happen to think we do a pretty good job of this at GitHub, and I'd like to give you a bit of an insight into our process and hopefully shed some light why it works so well.
+  Product design is easily the hardest aspect of building software today. I happen to think we do a pretty good job of this at GitHub, and I'd like to give you a bit of an insight into our process and hopefully shed some light on why it works so well.
 ---
 
 Product design is easily the hardest aspect of building software today. Technology, hiring, funding, aesthetic design, and press are all minuscule in comparison. When I talk about product design I'm referring to the process by which you decide what your product does and does not do. I happen to think we do a pretty good job of this at GitHub, and I'd like to give you a bit of an insight into our process and hopefully shed some light why it works so well.
