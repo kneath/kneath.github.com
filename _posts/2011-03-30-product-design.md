@@ -50,7 +50,7 @@ Shipping features because you spent time or money on them is a coward's excuse. 
 
 We do not have a quiet workplace. We argue in bars, in Campfire and in email. New hires and CEOs alike. But it's not personal — it's about making our product better. If you're not forced to rationalize your product  choices, who's to say you're making good decisions?
 
-Arguing with your co-workers isn't a bad thing. It's not creating a negative work enviornment — it's a tool to help you make good decisions. Being an empty cheerleader and telling everyone that their idea is great is harmful and short-sighted. Argue and make good decisions.
+Arguing with your co-workers isn't a bad thing. It's not creating a negative work environment — it's a tool to help you make good decisions. Being an empty cheerleader and telling everyone that their idea is great is harmful and short-sighted. Argue and make good decisions.
 
 ## Talk to your customers
 
