@@ -13,7 +13,7 @@ I should warn you that I am not a "Product Designer." We don't have titles at Gi
 
 Every employee at GitHub is a product designer. We only hire smart people we  trust to make our product better. We don't have managers dictating what to work on. We don't require executive signoff to ship features. Executives, system administrators, developers, and designers concieve, ship, and remove features alike.
 
-Having the role of "Product Designer" or having a CEO who says they're going to "focus on product design now" never made much sense to me. Aren't you hiring smart people who use your product? Don't you trust your employees? Doesn't everyone at your company want to make your product better? Doesn't that make you all product designers, all of the time?
+Having the role of "Product Designer" or having a CEO who says they're going to "focus on product design now" never made much sense to me. Aren't you hiring smart people who use your product? Don't you trust your employees? Doesn't everyone at your company want to make your product better? Doesn't that make everyone product designers all of the time?
 
 Along these lines, my two favorite questions to ask in an interview (or to people who don't know they're interviewing) are:
 
