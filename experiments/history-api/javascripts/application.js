@@ -6,7 +6,6 @@
         tweets: $('.js-tweets')
       };
       this.twitterTimeline = new TwitterTimeline(this.elements.tweets);
-      this.twitterTimeline.request;
     }
     return Application;
   })();

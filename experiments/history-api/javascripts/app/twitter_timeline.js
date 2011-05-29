@@ -6,8 +6,10 @@
   window.TwitterTimeline = (function() {
     TwitterTimeline.prototype.infiniteScrollThreshold = 300;
     TwitterTimeline.prototype.permalinkScrollThreshold = 500;
+    TwitterTimeline.prototype.earlierTweetsPossible = false;
+    TwitterTimeline.prototype.laterTweetsPossible = true;
     function TwitterTimeline(wrapperElement) {
-      var url;
+      var params, url;
       this.elements = {
         wrapper: wrapperElement,
         lastTweet: wrapperElement.find('.tweet:last-child')
@@ -21,7 +23,14 @@
       every(250, __bind(function() {
         return this.didScroll();
       }, this));
+      this.shouldScrollDown = false;
+      params = getUrlVars();
       url = this.elements.wrapper.attr('data-url') + "&callback=?";
+      if (params.max_id) {
+        url += "&max_id=" + params.max_id;
+        this.shouldScrollDown = true;
+        this.earlierTweetsPossible = true;
+      }
       $.getJSON(url, twitterTimelineCallback);
     }
     TwitterTimeline.prototype.receivedData = function(tweets) {
@@ -43,7 +52,11 @@
         }
         return _results;
       }).call(this);
-      return this.elements.lastTweet = this.elements.wrapper.find('.tweet:last-child');
+      this.elements.lastTweet = this.elements.wrapper.find('.tweet:last-child');
+      if (this.shouldScrollDown) {
+        $(window).scrollTop($(window).height() - this.infiniteScrollThreshold - 200);
+        return this.shouldScrollDown = false;
+      }
     };
     TwitterTimeline.prototype.didScroll = function() {
       var bottomOfLastTweet, tweet, url, visibleBottom, _i, _len, _ref, _results;
@@ -64,7 +77,7 @@
         for (_i = 0, _len = _ref.length; _i < _len; _i++) {
           tweet = _ref[_i];
           tweet = $(tweet);
-          if (tweet.offset().top >= this.lastPermalinkPosition - this.infiniteScrollThreshold) {
+          if (tweet.offset().top >= (this.lastPermalinkPosition - this.infiniteScrollThreshold)) {
             this.permalink(tweet);
             break;
           }
