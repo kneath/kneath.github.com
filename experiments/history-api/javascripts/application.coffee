@@ -6,9 +6,6 @@ class Application
 
     @twitterTimeline = new TwitterTimeline(@elements.tweets)
 
-    url = @elements.tweets.attr('data-url') + "&callback=?"
-    $.getJSON(url, twitterTimelineCallback)
-
     # Figure out what params to send to the twitter API
 
     # Send API request

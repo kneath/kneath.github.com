@@ -17,6 +17,9 @@ class window.TwitterTimeline
     every 250, =>
       @didScroll()
 
+    url = @elements.wrapper.attr('data-url') + "&callback=?"
+    $.getJSON(url, twitterTimelineCallback)
+
   # Got some data back from the server, time to parse it!
   #
   # Returns nothing.

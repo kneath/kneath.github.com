@@ -6,6 +6,7 @@
   window.TwitterTimeline = (function() {
     TwitterTimeline.prototype.infiniteScrollThreshold = 300;
     function TwitterTimeline(wrapperElement) {
+      var url;
       this.elements = {
         wrapper: wrapperElement,
         lastTweet: wrapperElement.find('.tweet:last-child')
@@ -18,6 +19,8 @@
       every(250, __bind(function() {
         return this.didScroll();
       }, this));
+      url = this.elements.wrapper.attr('data-url') + "&callback=?";
+      $.getJSON(url, twitterTimelineCallback);
     }
     TwitterTimeline.prototype.receivedData = function(tweets) {
       var context, rendered, tweet;
