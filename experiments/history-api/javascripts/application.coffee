@@ -16,8 +16,5 @@ class Application
 
     # Render tweets on return
 
-window.twitterTimelineCallback = (data) ->
-  window.app.twitterTimeline.receivedData(data)
-
 # Let's start this baby up
 $ -> window.app = new Application

@@ -13,9 +13,6 @@
     }
     return Application;
   })();
-  window.twitterTimelineCallback = function(data) {
-    return window.app.twitterTimeline.receivedData(data);
-  };
   $(function() {
     return window.app = new Application;
   });

@@ -1,0 +1,99 @@
+/*----------------------------------------------------------------------------
+  @group Lock in place
+----------------------------------------------------------------------------*/
+
+#experiments-header{
+  position:fixed;
+  width:100%;
+  padding-left:0;
+  padding-right:0;
+}
+
+.column.navigation{
+  position:fixed;
+  top:60px;
+}
+
+.column.main{
+  margin-top:60px;
+}
+
+/* @end */
+
+/*----------------------------------------------------------------------------
+  @group Tweet Style
+----------------------------------------------------------------------------*/
+
+.tweets{
+  margin-top:30px;
+  border:1px solid #ddd;
+  -webkit-border-top-left-radius: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  -moz-border-radius-topright: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.tweets .tweet{
+  padding:10px 10px 10px 92px;
+  background:#fefef9;
+  filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#fefef9', endColorstr='#f7f7f2');
+  background:-webkit-gradient(linear, left top, left bottom, from(#fefef9), to(#f7f7f2));
+  background:-moz-linear-gradient(top,  #fefef9,  #f7f7f2);
+  border-top:1px solid #deded9;
+  border-bottom:1px solid #fff;
+}
+.tweets .tweet:first-child{
+  border-top:none;
+  -webkit-border-top-left-radius: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  -moz-border-radius-topright: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.tweet{
+  font-size:14px;
+  font-weight:300;
+}
+.tweet p{
+  margin:5px 0;
+}
+
+.tweet .avatar{
+  float:left;
+  margin-left:-82px;
+  border-radius:4px;
+  -webkit-border-radius:4px;
+}
+
+.tweet h4.author{
+  margin:2px 0 0 0;
+  font-size:12px;
+}
+.tweet a.handle{
+  color:#000;
+  text-decoration:none;
+}
+.tweet a.name{
+  color:#888;
+  font-weight:normal;
+  text-decoration:none;
+}
+
+.tweet p.meta{
+  margin-bottom:0;
+  font-size:12px;
+}
+.tweet a.timestamp{
+  color:#999;
+  text-decoration:none;
+}
+
+.tweet a:hover{
+  text-decoration:underline;
+}
+
+/* @end */

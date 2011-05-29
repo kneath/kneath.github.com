@@ -7,6 +7,7 @@
   <link rel="stylesheet" type="text/css" href="css/history_api.css" />
   <script src="../javascripts/lib/jquery-1.5.1.min.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/lib/handlebars.js" type="text/javascript" charset="utf-8"></script>
+  <script src="javascripts/lib/helpers.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/app/twitter_timeline.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/application.js" type="text/javascript" charset="utf-8"></script>
 </head>
@@ -33,16 +34,16 @@
         clicking a tweet, then press the back button.
       </p>
 
-
       <script id="tweet-template" type="text/x-handlebars-template">
-        <div class="tweet">
+        <div class="tweet" data-id="{{id}}">
+          <img src="{{avatar}}" class="avatar" width="72" height="72" />
           <h4 class="author"><a href="#" class="handle">@{{handle}}</a> <a href="#" class="name">{{name}}</a></h4>
           <p>{{body}}</p>
           <p class="meta"><a href="#" class="timestamp">{{timestamp}}</a></p>
         </div>
       </script>
 
-      <div id="tweets" class="js-tweets" data-url="https://api.twitter.com/1/statuses/user_timeline.json?screen_name=WWDCGlobalPR">
+      <div id="tweets" class="js-tweets tweets" data-url="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=github">
       </div><!-- /.tweets -->
 
     </div><!-- /.column.main -->
