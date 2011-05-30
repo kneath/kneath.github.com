@@ -1,7 +1,10 @@
 (function() {
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
-  window.twitterTimelineCallback = function(data) {
-    return window.app.twitterTimeline.receivedData(data);
+  window.twitterTimelineLaterCallback = function(data) {
+    return window.app.twitterTimeline.receivedData(data, false);
+  };
+  window.twitterTimelineEarlierCallback = function(data) {
+    return window.app.twitterTimeline.receivedData(data, true);
   };
   window.TwitterTimeline = (function() {
     TwitterTimeline.prototype.infiniteScrollThreshold = 300;
@@ -12,6 +15,7 @@
       var params, url;
       this.elements = {
         wrapper: wrapperElement,
+        firstTweet: wrapperElement.find('.tweet:first-child'),
         lastTweet: wrapperElement.find('.tweet:last-child')
       };
       this.template = Handlebars.compile($('#tweet-template').html());
@@ -31,10 +35,10 @@
         this.shouldScrollDown = true;
         this.earlierTweetsPossible = true;
       }
-      $.getJSON(url, twitterTimelineCallback);
+      $.getJSON(url, twitterTimelineLaterCallback);
     }
-    TwitterTimeline.prototype.receivedData = function(tweets) {
-      var context, rendered, tweet;
+    TwitterTimeline.prototype.receivedData = function(tweets, prepend) {
+      var context, rendered, scrollOffset, tweet;
       rendered = (function() {
         var _i, _len, _results;
         _results = [];
@@ -48,27 +52,37 @@
             body: tweet.text,
             timestamp: tweet.created_at
           };
-          _results.push(this.elements.wrapper.append(this.template(context)));
+          _results.push(prepend ? this.elements.wrapper.prepend(this.template(context)) : this.elements.wrapper.append(this.template(context)));
         }
         return _results;
       }).call(this);
+      if (prepend) {
+        scrollOffset = $(window).scrollTop() + this.elements.firstTweet.offset().top - this.elements.wrapper.find('.tweet:first-child').offset().top;
+        $(window).scrollTop(scrollOffset);
+      }
       this.elements.lastTweet = this.elements.wrapper.find('.tweet:last-child');
+      this.elements.firstTweet = this.elements.wrapper.find('.tweet:first-child');
       if (this.shouldScrollDown) {
-        $(window).scrollTop($(window).height() - this.infiniteScrollThreshold - 200);
+        $(window).scrollTop($(window).height() - this.infiniteScrollThreshold);
         return this.shouldScrollDown = false;
       }
     };
     TwitterTimeline.prototype.didScroll = function() {
-      var bottomOfLastTweet, tweet, url, visibleBottom, _i, _len, _ref, _results;
+      var bottomOfLastTweet, topOfFirstTweet, tweet, url, visibleBottom, _i, _len, _ref, _results;
       if (!this.shouldCheckScroll) {
         return;
       }
       this.shouldCheckScroll = false;
       visibleBottom = $(document).scrollTop() + $(window).height();
+      topOfFirstTweet = this.elements.firstTweet.offset().top;
       bottomOfLastTweet = this.elements.lastTweet.outerHeight() + this.elements.lastTweet.offset().top;
-      if ((bottomOfLastTweet - visibleBottom) < this.infiniteScrollThreshold) {
+      if (this.laterTweetsPossible && ((bottomOfLastTweet - visibleBottom) < this.infiniteScrollThreshold)) {
         url = this.elements.wrapper.attr('data-url') + "&callback=?&max_id=" + this.elements.lastTweet.attr('data-id');
-        $.getJSON(url, twitterTimelineCallback);
+        $.getJSON(url, twitterTimelineLaterCallback);
+      }
+      if (this.earlierTweetsPossible && (topOfFirstTweet >= $(document).scrollTop())) {
+        url = this.elements.wrapper.attr('data-url') + "&callback=?&since_id=" + this.elements.firstTweet.attr('data-id');
+        $.getJSON(url, twitterTimelineEarlierCallback);
       }
       if (($(document).scrollTop() > (this.lastPermalinkPosition + this.permalinkScrollThreshold)) || ($(document).scrollTop() < (this.lastPermalinkPosition - this.permalinkScrollThreshold))) {
         this.lastPermalinkPosition = $(document).scrollTop();
