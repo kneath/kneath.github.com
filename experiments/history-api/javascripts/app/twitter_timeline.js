@@ -39,6 +39,9 @@
     }
     TwitterTimeline.prototype.receivedData = function(tweets, prepend) {
       var context, rendered, scrollOffset, tweet;
+      if (prepend) {
+        tweets = tweets.reverse();
+      }
       rendered = (function() {
         var _i, _len, _results;
         _results = [];
@@ -49,7 +52,7 @@
             handle: tweet.user.screen_name,
             name: tweet.user.name,
             avatar: tweet.user.profile_image_url.replace('_normal', '_reasonably_small'),
-            body: tweet.text,
+            body: twttr.txt.autoLink(tweet.text),
             timestamp: tweet.created_at
           };
           _results.push(prepend ? this.elements.wrapper.prepend(this.template(context)) : this.elements.wrapper.append(this.template(context)));

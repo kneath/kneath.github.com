@@ -49,13 +49,16 @@ class window.TwitterTimeline
   #
   # Returns nothing.
   receivedData: (tweets, prepend) ->
+    # Since we're prepending data, we need to build from the bottom up
+    tweets = tweets.reverse() if prepend
+
     rendered = for tweet in tweets
       context =
         id: tweet.id_str
         handle: tweet.user.screen_name
         name: tweet.user.name
         avatar: tweet.user.profile_image_url.replace('_normal', '_reasonably_small')
-        body: tweet.text
+        body: twttr.txt.autoLink(tweet.text)
         timestamp: tweet.created_at
 
       if prepend
