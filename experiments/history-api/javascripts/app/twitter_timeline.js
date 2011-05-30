@@ -7,8 +7,8 @@
     return window.app.twitterTimeline.receivedData(data, true);
   };
   window.TwitterTimeline = (function() {
-    TwitterTimeline.prototype.infiniteScrollThreshold = 300;
-    TwitterTimeline.prototype.permalinkScrollThreshold = 500;
+    TwitterTimeline.prototype.infiniteScrollThreshold = 375;
+    TwitterTimeline.prototype.permalinkScrollThreshold = 100;
     TwitterTimeline.prototype.earlierTweetsPossible = false;
     TwitterTimeline.prototype.laterTweetsPossible = true;
     function TwitterTimeline(wrapperElement) {

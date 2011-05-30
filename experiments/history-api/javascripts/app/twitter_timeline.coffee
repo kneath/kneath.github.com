@@ -7,10 +7,10 @@ window.twitterTimelineEarlierCallback = (data) ->
 class window.TwitterTimeline
   # Distance from the bottom that we ask for more tweets, distance from the
   # top that we preload if getting an existing permalink.
-  infiniteScrollThreshold: 300
+  infiniteScrollThreshold: 375
 
   # How many pixels do we have to scroll before we permalink the page?
-  permalinkScrollThreshold: 500
+  permalinkScrollThreshold: 100
 
   # Are there tweets earlier than the ones we've shown?
   earlierTweetsPossible: false
@@ -75,8 +75,6 @@ class window.TwitterTimeline
     @elements.firstTweet = @elements.wrapper.find('.tweet:first-child')
 
     if @shouldScrollDown
-      # Where does 200 come from? Trial and error to restore tweets to where
-      # you were before.
       $(window).scrollTop($(window).height() - @infiniteScrollThreshold)
       @shouldScrollDown = false
 
