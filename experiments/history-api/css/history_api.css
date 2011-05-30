@@ -62,8 +62,11 @@
   margin:5px 0;
 }
 .tweet p a{
-  color:#000;
   font-weight:bold;
+  text-decoration:none;
+}
+.tweet p a.username{
+  color:#000;
   text-decoration:none;
 }
 
