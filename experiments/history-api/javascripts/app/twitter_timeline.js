@@ -38,7 +38,7 @@
       $.getJSON(url, twitterTimelineLaterCallback);
     }
     TwitterTimeline.prototype.receivedData = function(tweets, prepend) {
-      var context, rendered, scrollOffset, tweet;
+      var context, created_at, rendered, scrollOffset, tweet;
       if (prepend) {
         tweets = tweets.reverse();
       }
@@ -47,13 +47,14 @@
         _results = [];
         for (_i = 0, _len = tweets.length; _i < _len; _i++) {
           tweet = tweets[_i];
+          created_at = new Date(tweet.created_at);
           context = {
             id: tweet.id_str,
             handle: tweet.user.screen_name,
             name: tweet.user.name,
             avatar: tweet.user.profile_image_url.replace('_normal', '_reasonably_small'),
             body: twttr.txt.autoLink(tweet.text),
-            timestamp: tweet.created_at,
+            timestamp: $.timeago(created_at),
             author_url: "https://twitter.com/" + tweet.user.screen_name,
             permalink: "https://twitter.com/" + tweet.user.screen_name + "/status/" + tweet.id_str
           };

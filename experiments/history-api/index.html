@@ -7,6 +7,7 @@
   <link rel="stylesheet" type="text/css" href="css/history_api.css" />
   <script src="../javascripts/lib/jquery-1.5.1.min.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/lib/handlebars.js" type="text/javascript" charset="utf-8"></script>
+  <script src="javascripts/lib/jquery.timeago.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/lib/twitter_text.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/lib/helpers.js" type="text/javascript" charset="utf-8"></script>
   <script src="javascripts/app/twitter_timeline.js" type="text/javascript" charset="utf-8"></script>
@@ -40,7 +41,7 @@
           <img src="{{avatar}}" class="avatar" width="72" height="72" />
           <h4 class="author"><a href="{{author_url}}" class="handle">@{{handle}}</a> <a href="{{author_url}}" class="name">{{name}}</a></h4>
           <p>{{{body}}}</p>
-          <p class="meta"><a href="{{permalink}}" class="timestamp">{{timestamp}}</a></p>
+          <p class="meta"><a href="{{permalink}}" class="timestamp" title="{{timestamp}}">{{timestamp}}</a></p>
         </div>
       </script>
 
