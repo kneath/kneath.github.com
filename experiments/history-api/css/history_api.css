@@ -61,6 +61,11 @@
 .tweet p{
   margin:5px 0;
 }
+.tweet p a{
+  color:#000;
+  font-weight:bold;
+  text-decoration:none;
+}
 
 .tweet .avatar{
   float:left;
