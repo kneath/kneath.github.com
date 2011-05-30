@@ -110,14 +110,23 @@ class window.TwitterTimeline
       for tweet in @elements.wrapper.find('.tweet')
         tweet = $(tweet)
         if tweet.offset().top >= (@lastPermalinkPosition - @infiniteScrollThreshold)
-          @permalink(tweet)
+          if tweet.is(':first-child') && !@earlierTweetsPossible
+            @permalink(false)
+          else
+            @permalink(tweet)
           break
 
+  # Permalink the page.
+  #
+  # tweet - A <div.tweet> jQuery collection to permalink to. If false, the
+  #         permalink is cleared.
+  #
   permalink: (tweet) ->
     # Only give the good stuff to newer folks
     return if !window.history || !window.history.pushState
 
     # This is totally cheating and specific to my use, you'd probably have to
     # be smarter in the real world.
-    url = window.location.pathname + "?max_id=" + tweet.attr('data-id')
+    url = window.location.pathname
+    url += "?max_id=" + tweet.attr('data-id') if tweet
     window.history.replaceState({}, document.title, url)

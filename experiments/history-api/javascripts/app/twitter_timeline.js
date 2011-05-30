@@ -98,7 +98,11 @@
           tweet = _ref[_i];
           tweet = $(tweet);
           if (tweet.offset().top >= (this.lastPermalinkPosition - this.infiniteScrollThreshold)) {
-            this.permalink(tweet);
+            if (tweet.is(':first-child') && !this.earlierTweetsPossible) {
+              this.permalink(false);
+            } else {
+              this.permalink(tweet);
+            }
             break;
           }
         }
@@ -110,7 +114,10 @@
       if (!window.history || !window.history.pushState) {
         return;
       }
-      url = window.location.pathname + "?max_id=" + tweet.attr('data-id');
+      url = window.location.pathname;
+      if (tweet) {
+        url += "?max_id=" + tweet.attr('data-id');
+      }
       return window.history.replaceState({}, document.title, url);
     };
     return TwitterTimeline;
