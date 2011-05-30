@@ -84,7 +84,7 @@ class window.TwitterTimeline
 
 
     # Permalink?
-    if $(document).scrollTop() > (@lastPermalinkPosition + @permalinkScrollThreshold)
+    if ($(document).scrollTop() > (@lastPermalinkPosition + @permalinkScrollThreshold)) || ($(document).scrollTop() < (@lastPermalinkPosition - @permalinkScrollThreshold))
       @lastPermalinkPosition = $(document).scrollTop()
       for tweet in @elements.wrapper.find('.tweet')
         tweet = $(tweet)

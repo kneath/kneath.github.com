@@ -70,7 +70,7 @@
         url = this.elements.wrapper.attr('data-url') + "&callback=?&max_id=" + this.elements.lastTweet.attr('data-id');
         $.getJSON(url, twitterTimelineCallback);
       }
-      if ($(document).scrollTop() > (this.lastPermalinkPosition + this.permalinkScrollThreshold)) {
+      if (($(document).scrollTop() > (this.lastPermalinkPosition + this.permalinkScrollThreshold)) || ($(document).scrollTop() < (this.lastPermalinkPosition - this.permalinkScrollThreshold))) {
         this.lastPermalinkPosition = $(document).scrollTop();
         _ref = this.elements.wrapper.find('.tweet');
         _results = [];
