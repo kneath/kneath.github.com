@@ -1,6 +1,8 @@
+# JSONP callback for tweets fetched later than current (max_id)
 window.twitterTimelineLaterCallback = (data) ->
   window.app.twitterTimeline.receivedData(data, false)
 
+# JSONP callback for tweets fetched earlier than current (since_id)
 window.twitterTimelineEarlierCallback = (data) ->
   window.app.twitterTimeline.receivedData(data, true)
 
@@ -18,6 +20,15 @@ class window.TwitterTimeline
   # Are there tweets later than the ones we've shown?
   laterTweetsPossible: true
 
+  # Figures out what kind of request to make (is there a max_id present?),
+  # makes the request to the API, and activates the scroll event handlers
+  # that make infinite scrolling possible.
+  #
+  # wrapperElement - The HTML element to insert the tweets into. It should
+  #                  have a data-url attribute pointing to the desired API
+  #                  endpoint.
+  #
+  # Returns nothing.
   constructor: (wrapperElement) ->
     @elements =
       wrapper: wrapperElement
@@ -47,8 +58,13 @@ class window.TwitterTimeline
 
   # Got some data back from the server, time to parse it!
   #
+  #  tweets - Array of Tweet Objects returned from the Twitter API.
+  #           http://dev.twitter.com/doc/get/statuses/user_timeline
+  # prepend - Boolean indicating whether we should prepend the tweets to the
+  #           timeline
+  #
   # Returns nothing.
-  receivedData: (tweets, prepend) ->
+  receivedData: (tweets, prepend=false) ->
     # Since we're prepending data, we need to build from the bottom up
     tweets = tweets.reverse() if prepend
 
@@ -122,6 +138,7 @@ class window.TwitterTimeline
   # tweet - A <div.tweet> jQuery collection to permalink to. If false, the
   #         permalink is cleared.
   #
+  # Returns nothing.
   permalink: (tweet) ->
     # Only give the good stuff to newer folks
     return if !window.history || !window.history.pushState

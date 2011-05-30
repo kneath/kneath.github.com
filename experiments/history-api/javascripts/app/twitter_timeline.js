@@ -39,6 +39,9 @@
     }
     TwitterTimeline.prototype.receivedData = function(tweets, prepend) {
       var context, created_at, rendered, scrollOffset, tweet;
+      if (prepend == null) {
+        prepend = false;
+      }
       if (prepend) {
         tweets = tweets.reverse();
       }
