@@ -53,7 +53,9 @@
             name: tweet.user.name,
             avatar: tweet.user.profile_image_url.replace('_normal', '_reasonably_small'),
             body: twttr.txt.autoLink(tweet.text),
-            timestamp: tweet.created_at
+            timestamp: tweet.created_at,
+            author_url: "https://twitter.com/" + tweet.user.screen_name,
+            permalink: "https://twitter.com/" + tweet.user.screen_name + "/status/" + tweet.id_str
           };
           _results.push(prepend ? this.elements.wrapper.prepend(this.template(context)) : this.elements.wrapper.append(this.template(context)));
         }

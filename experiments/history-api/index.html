@@ -38,9 +38,9 @@
       <script id="tweet-template" type="text/x-handlebars-template">
         <div class="tweet" data-id="{{id}}">
           <img src="{{avatar}}" class="avatar" width="72" height="72" />
-          <h4 class="author"><a href="#" class="handle">@{{handle}}</a> <a href="#" class="name">{{name}}</a></h4>
+          <h4 class="author"><a href="{{author_url}}" class="handle">@{{handle}}</a> <a href="{{author_url}}" class="name">{{name}}</a></h4>
           <p>{{{body}}}</p>
-          <p class="meta"><a href="#" class="timestamp">{{timestamp}}</a></p>
+          <p class="meta"><a href="{{permalink}}" class="timestamp">{{timestamp}}</a></p>
         </div>
       </script>
 
