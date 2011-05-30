@@ -88,7 +88,8 @@ class window.TwitterTimeline
    # Preserve the scroll position if we're adding stuff above
     if prepend
       @earlierTweetsPossible = tweets.length > 0
-      scrollOffset = $(window).scrollTop() + @elements.firstTweet.offset().top - @elements.wrapper.find('.tweet:first-child').offset().top
+      scrollOffset = $(window).scrollTop() + @elements.firstTweet.offset().top
+      scrollOffset -= @elements.wrapper.find('.tweet:first-child').offset().top
       $(window).scrollTop(scrollOffset)
 
     @elements.lastTweet = @elements.wrapper.find('.tweet:last-child')
@@ -112,17 +113,23 @@ class window.TwitterTimeline
     topOfFirstTweet = @elements.firstTweet.offset().top
     bottomOfLastTweet = @elements.lastTweet.outerHeight() + @elements.lastTweet.offset().top
 
+    url = @elements.wrapper.attr('data-url')
+
+    # Get more tweets for infinite scroll downwards?
     if @laterTweetsPossible && ((bottomOfLastTweet - visibleBottom) < @infiniteScrollThreshold)
-      url = @elements.wrapper.attr('data-url') + "&callback=?&max_id=" + @elements.lastTweet.attr('data-id')
+      url += "&callback=?&max_id=" + @elements.lastTweet.attr('data-id')
       $.getJSON(url, twitterTimelineLaterCallback)
 
+    # Get more tweets for infinite scroll upwards?
     if (@earlierTweetsPossible && (topOfFirstTweet >= $(document).scrollTop()))
-      url = @elements.wrapper.attr('data-url') + "&callback=?&since_id=" + @elements.firstTweet.attr('data-id')
+      url += "&callback=?&since_id=" + @elements.firstTweet.attr('data-id')
       $.getJSON(url, twitterTimelineEarlierCallback)
 
 
     # Permalink?
-    if ($(document).scrollTop() > (@lastPermalinkPosition + @permalinkScrollThreshold)) || ($(document).scrollTop() < (@lastPermalinkPosition - @permalinkScrollThreshold))
+    scrolledDownEnough = $(document).scrollTop() > (@lastPermalinkPosition + @permalinkScrollThreshold)
+    scrolledUpEnough = $(document).scrollTop() < (@lastPermalinkPosition - @permalinkScrollThreshold)
+    if (scrolledDownEnough || scrolledUpEnough)
       @lastPermalinkPosition = $(document).scrollTop()
       for tweet in @elements.wrapper.find('.tweet')
         tweet = $(tweet)

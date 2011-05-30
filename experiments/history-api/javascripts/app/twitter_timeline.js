@@ -67,7 +67,8 @@
       }).call(this);
       if (prepend) {
         this.earlierTweetsPossible = tweets.length > 0;
-        scrollOffset = $(window).scrollTop() + this.elements.firstTweet.offset().top - this.elements.wrapper.find('.tweet:first-child').offset().top;
+        scrollOffset = $(window).scrollTop() + this.elements.firstTweet.offset().top;
+        scrollOffset -= this.elements.wrapper.find('.tweet:first-child').offset().top;
         $(window).scrollTop(scrollOffset);
       }
       this.elements.lastTweet = this.elements.wrapper.find('.tweet:last-child');
@@ -78,7 +79,7 @@
       }
     };
     TwitterTimeline.prototype.didScroll = function() {
-      var bottomOfLastTweet, topOfFirstTweet, tweet, url, visibleBottom, _i, _len, _ref, _results;
+      var bottomOfLastTweet, scrolledDownEnough, scrolledUpEnough, topOfFirstTweet, tweet, url, visibleBottom, _i, _len, _ref, _results;
       if (!this.shouldCheckScroll) {
         return;
       }
@@ -86,15 +87,18 @@
       visibleBottom = $(document).scrollTop() + $(window).height();
       topOfFirstTweet = this.elements.firstTweet.offset().top;
       bottomOfLastTweet = this.elements.lastTweet.outerHeight() + this.elements.lastTweet.offset().top;
+      url = this.elements.wrapper.attr('data-url');
       if (this.laterTweetsPossible && ((bottomOfLastTweet - visibleBottom) < this.infiniteScrollThreshold)) {
-        url = this.elements.wrapper.attr('data-url') + "&callback=?&max_id=" + this.elements.lastTweet.attr('data-id');
+        url += "&callback=?&max_id=" + this.elements.lastTweet.attr('data-id');
         $.getJSON(url, twitterTimelineLaterCallback);
       }
       if (this.earlierTweetsPossible && (topOfFirstTweet >= $(document).scrollTop())) {
-        url = this.elements.wrapper.attr('data-url') + "&callback=?&since_id=" + this.elements.firstTweet.attr('data-id');
+        url += "&callback=?&since_id=" + this.elements.firstTweet.attr('data-id');
         $.getJSON(url, twitterTimelineEarlierCallback);
       }
-      if (($(document).scrollTop() > (this.lastPermalinkPosition + this.permalinkScrollThreshold)) || ($(document).scrollTop() < (this.lastPermalinkPosition - this.permalinkScrollThreshold))) {
+      scrolledDownEnough = $(document).scrollTop() > (this.lastPermalinkPosition + this.permalinkScrollThreshold);
+      scrolledUpEnough = $(document).scrollTop() < (this.lastPermalinkPosition - this.permalinkScrollThreshold);
+      if (scrolledDownEnough || scrolledUpEnough) {
         this.lastPermalinkPosition = $(document).scrollTop();
         _ref = this.elements.wrapper.find('.tweet');
         _results = [];
