@@ -94,6 +94,7 @@
 }
 .tweet a.timestamp{
   color:#999;
+  font-weight:normal;
   text-decoration:none;
 }
 
