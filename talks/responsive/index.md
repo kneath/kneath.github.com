@@ -22,5 +22,5 @@ Responsive web design is about a lot more than the size of your screen. This tal
 
 ### Examples
 
-* [GitHub Issues 2.0 (rails/rails)](https://github.com/rails/rails)
+* [GitHub Issues 2.0 (rails/rails)](https://github.com/rails/rails/issues)
 * [Infinite Scroll + HTML5 History API Example](http://warpspire.com/experiments/history-api/)
