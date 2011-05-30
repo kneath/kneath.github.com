@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>History API / Code — Warpspire Experiments</title>
+  <link rel="stylesheet" type="text/css" href="../css/base.css" />
+  <link rel="stylesheet" type="text/css" href="css/history_api.css" />
+</head>
+<body>
+  <div id="experiments-header">
+    <div class="inner">
+      <h2 class="logo"><a href="/experiments/">Warpspire Experiments</a></h2>
+      <p class="back">In relation to <a href="#">Responsive web design from the future</a></p>
+    </div>
+  </div><!-- /#experiments-header -->
+
+  <div id="content" class="columns typical">
+    <ul class="column navigation">
+      <li><a href="/experiments/history-api/" class="overview-style">Overview</a></li>
+      <li><a href="/experiments/history-api/explanation" class="explanation-style">Explanation</a></li>
+      <li><a href="/experiments/history-api/code" class="code-style selected">See the Code</a></li>
+    </ul><!-- /.column.navigation -->
+
+    <div class="column main">
+      <h1>The Code</h1>
+      <p>
+        You can see the full code for this example <a href="https://github.com/kneath/kneath.github.com/tree/master/experiments/history-api">on
+        the GitHub repo for this blog</a>. Most of the code is supporting Javascript —
+        I'm using jQuery to do DOM Manipulation, JSONP (via <a href="http://api.jquery.com/jQuery.getJSON/">$.getJSON</a>) to retreive the tweets from
+        <a href="http://dev.twitter.com/doc/get/statuses/user_timeline">Twitter's API</a>,
+        <a href="http://handlebars.strobeapp.com/">handlebars.js</a> to format the tweets, and
+        <a href="https://github.com/twitter/twitter-text-js">twiter_text.js</a> to
+        autolink usernames, links and hashtags.
+      </p>
+
+      <p>The interesting bits are in <a href="https://github.com/kneath/kneath.github.com/blob/master/experiments/history-api/javascripts/app/twitter_timeline.coffee">twitter_timeline.coffee</a>:</p>
+
+      <script src="https://gist.github.com/998549.js?file=twitter_timeline.coffee"></script>
+
+      <p>
+        In particular, the <code>didScroll</code> method should be interesting. As we
+        scroll, we're checking to see if we should permalink the page. When we call
+        <code>permalink</code>, we use the History API <code>replaceState</code>
+        method to change the URL.
+      </p>
+      <p>
+        When you return, the <code>TwitterTimeline</code> constructor is called
+        and we parse out any <code>max_id</code> in the URL and fetch tweets from
+        that point onward. This allows us to show the same tweets you were looking
+        at when you left the page.
+      </p>
+
+    </div><!-- /.column.main -->
+  </div><!-- /#content -->
+</body>
+</html>

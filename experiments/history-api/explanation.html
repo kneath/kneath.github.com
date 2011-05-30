@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>History API / Explanation — Warpspire Experiments</title>
+  <link rel="stylesheet" type="text/css" href="../css/base.css" />
+  <link rel="stylesheet" type="text/css" href="css/history_api.css" />
+</head>
+<body>
+  <div id="experiments-header">
+    <div class="inner">
+      <h2 class="logo"><a href="/experiments/">Warpspire Experiments</a></h2>
+      <p class="back">In relation to <a href="#">Responsive web design from the future</a></p>
+    </div>
+  </div><!-- /#experiments-header -->
+
+  <div id="content" class="columns typical">
+    <ul class="column navigation">
+      <li><a href="/experiments/history-api/" class="overview-style">Overview</a></li>
+      <li><a href="/experiments/history-api/explanation" class="explanation-style selected">Explanation</a></li>
+      <li><a href="/experiments/history-api/code" class="code-style">See the Code</a></li>
+    </ul><!-- /.column.navigation -->
+
+    <div class="column main">
+      <h1>What’s the point?</h1>
+      <p>
+        I built this example to serve a few purposes.  First, I wanted to show
+        off the <strong>power of the HTML5 History API</strong>.  By using
+        <code>replaceState</code> — I'm able to change the full URL as you
+        scroll. Additionally, since <code>replaceState</code> doesn't add to
+        the back button stack, the back/forward buttons work as expected.
+      </p>
+      <p>
+        Secondly, I wanted to show how <strong>infinite scrolling can be awesome</strong>.
+        Page numbers don’t make sense in infinite scrolling — but incremental updates do.
+        That's why this example uses <code>max_id</code> to mark your position
+        and not a page number.
+      </p>
+      <p>
+        What this adds up to is a <strong>utopian paging example</strong>
+        Users never have to click "more", "next page", "previous page" or any
+        buttons — new content just streams in as they'd expect. But when they
+        share the URL with other people, they see the same thing they've seen.
+        They can also close their browser, re-open it on the same page, refresh
+        the page, or arrive via the back/forward buttons and see the same content.
+      </p>
+
+    </div><!-- /.column.main -->
+  </div><!-- /#content -->
+</body>
+</html>
