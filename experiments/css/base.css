@@ -153,6 +153,27 @@ h1{
   color:#333;
 }
 
+small{
+  font-size:12px;
+  color:#999;
+}
+
+pre{
+  margin:16px 0;
+  padding-left:10px;
+  border-left:1px solid #eee;
+  overflow:auto;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+pre code{
+  display:block;
+}
+code{
+  font-family:"Courier New", Courier, sans-serif;
+  font-size:13px;
+  color:#000;
+}
+
 /* @end */
 
 /*----------------------------------------------------------------------------
@@ -213,6 +234,28 @@ ul.navigation a.explanation-style{
 }
 ul.navigation a.explanation-style.selected{
   background-position:0 -100px;
+}
+
+/* @end */
+
+/*----------------------------------------------------------------------------
+  @group External Services
+----------------------------------------------------------------------------*/
+
+body .gist-highlight{
+  font-size:12px;
+}
+
+body .gist .gist-file .gist-meta{
+  background:#fff;
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:13px;
+  font-weight:300;
+  color:#000;
+}
+body .gist .gist-file .gist-meta a{
+  color:#000;
+  font-weight:bold;
 }
 
 /* @end */
