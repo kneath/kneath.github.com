@@ -71,6 +71,7 @@ class window.TwitterTimeline
 
    # Preserve the scroll position if we're adding stuff above
     if prepend
+      @earlierTweetsPossible = tweets.length > 0
       scrollOffset = $(window).scrollTop() + @elements.firstTweet.offset().top - @elements.wrapper.find('.tweet:first-child').offset().top
       $(window).scrollTop(scrollOffset)
 

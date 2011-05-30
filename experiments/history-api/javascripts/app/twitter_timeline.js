@@ -63,6 +63,7 @@
         return _results;
       }).call(this);
       if (prepend) {
+        this.earlierTweetsPossible = tweets.length > 0;
         scrollOffset = $(window).scrollTop() + this.elements.firstTweet.offset().top - this.elements.wrapper.find('.tweet:first-child').offset().top;
         $(window).scrollTop(scrollOffset);
       }
