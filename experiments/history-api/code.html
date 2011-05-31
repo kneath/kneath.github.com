@@ -58,10 +58,9 @@
         method to change the URL.
       </p>
       <p>
-        When you return, the <code>TwitterTimeline</code> constructor is called
-        and we parse out any <code>max_id</code> in the URL and fetch tweets from
-        that point onward. This allows us to show the same tweets you were looking
-        at when you left the page.
+        On the first page load the <code>TwitterTimeline</code> constructor is called
+        and I parse out any <code>max_id</code> in the URL to fetch tweets later than that point in time.
+        This makes the page "sticky" when you exit the page and come back to it via the back button.
       </p>
 
     </div><!-- /.column.main -->
