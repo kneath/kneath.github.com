@@ -7,7 +7,7 @@ title: Responsive web design from the future
 
 <script src="http://speakerdeck.com/embed/4d51eed25753083721000005.js?size=preview"></script>
 
-**[Download the presentation](/talks/responsive/responsive.pdf)** (20MB PDF)
+**[Download the presentation](/talks/responsive/responsive.pdf)** (13MB PDF)
 
 pushState. replaceState. Hashbangs. AJAX. PJAX. Beets. Bears. Battlestar Galactica.
 
