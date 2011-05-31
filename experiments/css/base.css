@@ -253,9 +253,13 @@ body .gist .gist-file .gist-meta{
   font-weight:300;
   color:#000;
 }
-body .gist .gist-file .gist-meta a{
+body .gist .gist-file .gist-meta a, body .gist .gist-file .gist-meta a:visited{
   color:#000;
   font-weight:bold;
+  text-decoration:none;
+}
+body .gist .gist-file .gist-meta a:hover{
+  text-decoration:underline;
 }
 
 /* @end */
