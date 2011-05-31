@@ -5,7 +5,7 @@ title: Responsive web design from the future
 
 # Responsive web design from the future
 
-<script <script src="http://speakerdeck.com/embed/4de55b8d5753082e3c000002.js?size=preview"></script>
+<script src="http://speakerdeck.com/embed/4de55b8d5753082e3c000002.js?size=preview"></script>
 
 **[Download the presentation](/talks/responsive/responsive.pdf)** (13MB PDF)
 
