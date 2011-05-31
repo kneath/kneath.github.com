@@ -7,6 +7,14 @@ title: "Talks & Presentations"
 
 Every now and then I get up on stage and embarass myself trying to share a little bit of my ignorance at conferences. Like my style? I think conferences are awesome and would love to hear about any speaking opportunities you might have.
 
+## [Responsive web design from the future](/talks/responsive)
+
+pushState. replaceState. Hashbangs. AJAX. PJAX. Beets. Bears. Battlestar Galactica.
+
+Responsive web design is about a lot more than the size of your screen. This talk is about about how GitHub handles links, the url bar, partial page updates, and explains why I think the HTML5 history API is the most important thing to happen to front end development since Firebug.
+
+[Slides & notes](/talks/responsive) from this presentation given at *Twitter HQ* in San Francisco, CA.
+
 ## [Design hacks for the pragmatic minded](/talks/designhacks)
 
 A lot of developers think they either can't or don't need to design. But that's just a myth — everyone can benefit from a few simple design concepts. Learn some simple design hacks you can apply to your documentation, presentations and products to make them just a little bit prettier.
