@@ -7,7 +7,7 @@ excerpt:
 
 Living in San Francisco and working in tech right now is absolutely insane. Employers and recruiters battle for employees while VCs rain down millions of dollars [without meeting founders or even knowing what kind of company they're building](http://techcrunch.com/2011/01/28/yuri-milner-sv-angel-offer-every-new-y-combinator-startup-150k/). It's a crazy world to live in and can feel like money *is* growing on trees and the only spending limit is your imagination. If you have just a little bit of initiative, you can take any idea and start a company with absolutely zero personal risk.
 
-And that's one of the biggest reasons San Francisco is so special to me. Everyone out here *knows* they can do anything. Spend a few weeks hanging out in bars and cafes asking what people do and you'll hear some of the most idiotic business ideas in the world. A lot of journalists use this argument to call San Francisco an echo chamber who's sole purpose is burning money. And you know, they're right.
+And that's one of the biggest reasons San Francisco is so special to me. Everyone out here *knows* they can do anything. Spend a few weeks hanging out in bars and cafes asking what people do and you'll hear some of the most idiotic business ideas in the world. A lot of journalists use this argument to call San Francisco an echo chamber whose sole purpose is burning money. And you know, they're right.
 
 This city does burn through money on terrible ideas. But that's a tradeoff for fostering a city of people who believe they can do anything. And that spawns an incredible number of amazing companies — so it doesn't bother me. What does bother me is the *lack of imagination* most startup founders have.
 
