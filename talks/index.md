@@ -28,10 +28,3 @@ I have a confession: I love documentation — and I don't just mean code comment
 Ruby is such an expressive language that your code can end up looking like anything you can imagine. Documentation is paramount in helping others understand why and how they should be using your code.
 
 [Slides & notes](/talks/documentation) from this presentation given at *MagicRuby 2011* in Orlando, FL.
-
-
-<hr />
-
-<p class="note">Got a question or a comment? Send me an email. Be polite, be reasonable, and I'll respond back.</p>
-
-<a href="mailto:kneath+ask@gmail.com" class="askme">Ask me anything, just send an email to <strong>kneath+ask@gmail.com</strong></a>
