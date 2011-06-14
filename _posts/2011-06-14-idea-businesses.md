@@ -47,7 +47,7 @@ People want to be part of ideas. Being part of a company who builds a successful
 
 The trouble is that founding a company around an idea doesn't actually work. Apple <del>Computer</del> is a great example. They take bleeding edge technology, marry it with exceptional design, and sell it at a premium price. But the company wasn't always like that. It was founded around a product — the personal computer. Yet in 2011, Apple's biggest business is mobile phones.
 
-You have to ask… how did a company founded around building personal computers come to generate most of it's revenue from mobile phones? They *evolved*. They found their strengths (design, technology), and evolved the company around those values. This manifested itself into new products — the iPod, iPhone, iPad, TV, MobileMe, Airport Expresses, Cinema Displays, etc. Some successes. Some failures.
+You have to ask… how did a company founded around building personal computers come to generate most of its revenue from mobile phones? They *evolved*. They found their strengths (design, technology), and evolved the company around those values. This manifested itself into new products — the iPod, iPhone, iPad, TV, MobileMe, Airport Expresses, Cinema Displays, etc. Some successes. Some failures.
 
 The core component of all these products is that they are manifestations of an idea. When the iPod took off in popularity, Apple didn't rearrange the company around portable music devices. They kept focusing on building exceptionally designed hi-tech gadgets with bleeding edge technology.
 
