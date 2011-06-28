@@ -131,7 +131,7 @@ Remember web development in 2004? When you had to create pixel-perfect comps bec
 <small>Remember these days?</small>
 </div>
 
-This meant my Photoshop files had to be a *lot* more flushed out than I've been accustomed to in recent years. I usually get about 80% complete in Photoshop (using tons of screenshotting & layer flattening), then jump into code and tweak to completion. But with Cocoa, I ended up flushing out that last 20% in Photoshop.
+This meant my Photoshop files had to be a *lot* more fleshed out than I've been accustomed to in recent years. I usually get about 80% complete in Photoshop (using tons of screenshotting & layer flattening), then jump into code and tweak to completion. But with Cocoa, I ended up flushing out that last 20% in Photoshop.
 
 ### Change is painful
 
