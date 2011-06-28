@@ -17,7 +17,7 @@ For a long time I assumed OS X developers would see the immense market for an aw
 
 Clients claiming to be "simple" choose to redefine "simple" as fewer supported Git commands rather than simplifying the interaction with Git.
 
-It blows my mind that no one tried to do anything special. Git (and it's  DVCS cousins like Mercurial & Bazaar) provide an amazing platform to build next generation clients — and it's like the entire OS X ecosystem left their imagination at home.
+It blows my mind that no one tried to do anything special. Git (and its  DVCS cousins like Mercurial & Bazaar) provide an amazing platform to build next generation clients — and it's like the entire OS X ecosystem left their imagination at home.
 
 Eventually, I (well, many of us) decided that better native clients (OSX, Windows, Linux, Eclipse, Visual Studio, etc) was the best way to grow GitHub. And since we all use Macs — we should start off with an OS X application. Build what you know/use, expand from there.
 
