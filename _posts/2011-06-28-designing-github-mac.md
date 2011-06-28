@@ -89,7 +89,7 @@ After the first round of comps, I started writing down how I imagined everything
   <a href="http://share.kyleneath.com/secrets/08bce2/"><img src="http://assets.warpspire.com/images/githubmac/styleguide.png" alt="The styleguide" /></a>
 </div>
 
-My plan was to fully flush out this styleguide — but as it happened, [Josh](https://twitter.com/#!/joshaber) was able to implement my designs faster than I could explain them. Still, I think it was a good exercise to explain my thinking for the designs — if anything for my own personal benefit.
+My plan was to fully flesh out this styleguide — but as it happened, [Josh](https://twitter.com/#!/joshaber) was able to implement my designs faster than I could explain them. Still, I think it was a good exercise to explain my thinking for the designs — if anything for my own personal benefit.
 
 ## The aesthetic
 
@@ -131,7 +131,7 @@ Remember web development in 2004? When you had to create pixel-perfect comps bec
 <small>Remember these days?</small>
 </div>
 
-This meant my Photoshop files had to be a *lot* more fleshed out than I've been accustomed to in recent years. I usually get about 80% complete in Photoshop (using tons of screenshotting & layer flattening), then jump into code and tweak to completion. But with Cocoa, I ended up flushing out that last 20% in Photoshop.
+This meant my Photoshop files had to be a *lot* more fleshed out than I've been accustomed to in recent years. I usually get about 80% complete in Photoshop (using tons of screenshotting & layer flattening), then jump into code and tweak to completion. But with Cocoa, I ended up fleshing out that last 20% in Photoshop.
 
 ### Change is painful
 
