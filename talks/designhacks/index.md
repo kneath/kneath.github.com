@@ -9,6 +9,8 @@ title: Design Hacks for the Pragmatic Minded
 
 **[Download the presentation](/talks/designhacks/designhacks.pdf)** (18MB PDF)
 
+**[Watch the video of this presentation](http://confreaks.net/videos/522-roa2011-design-hacks-for-the-pragmatic-minded)**
+
 A lot of developers think they either can't or don't need to design. But that's just a myth — everyone can benefit from a few simple design concepts. Learn some simple design hacks you can apply to your documentation, presentations and products to make them just a little bit prettier.
 
 ## References
