@@ -5,7 +5,13 @@ title: "Talks & Presentations"
 
 # Talks & Presentations
 
-Every now and then I get up on stage and embarass myself trying to share a little bit of my ignorance at conferences. Like my style? I think conferences are awesome and would love to hear about any speaking opportunities you might have.
+Every now and then I get up on stage and embarass myself trying to share a little bit of my ignorance at conferences. Like my style? I think conferences are awesome and would love to hear about any speaking opportunities you might have — just throw an email to <kneath@gmail.com>.
+
+## Cash Rules Everything Around Design
+
+No slides from this one — a brief history of how I got into design by way of poisonous monsters, why I think it's important to align revenue with customer happiness, why cash rules everything around design, and how to become a better designer because of it.
+
+Given at *Funconf II - 2011* at Lismore Castle, Ireland.
 
 ## [Responsive web design from the future](/talks/responsive)
 
@@ -13,7 +19,7 @@ pushState. replaceState. Hashbangs. AJAX. PJAX. Beets. Bears. Battlestar Galacti
 
 Responsive web design is about a lot more than the size of your screen. This talk is about about how GitHub handles links, the url bar, partial page updates, and explains why I think the HTML5 history API is the most important thing to happen to front end development since Firebug.
 
-[Slides & notes](/talks/responsive) from this presentation given at *Twitter HQ* in San Francisco, CA.
+[Slides & notes](/talks/responsive) from this presentation given at *Twitter HQ* May 31, 2011 in San Francisco, CA.
 
 ## [Design hacks for the pragmatic minded](/talks/designhacks)
 
