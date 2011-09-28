@@ -7,7 +7,7 @@ title: "Talks & Presentations"
 
 Every now and then I get up on stage and embarass myself trying to share a little bit of my ignorance at conferences. Like my style? I think conferences are awesome and would love to hear about any speaking opportunities you might have — just throw an email to <kneath@gmail.com>.
 
-## Cash Rules Everything Around Design
+## D.R.E.A.M - How the Wu-Tang taught me to design
 
 No slides from this one — a brief history of how I got into design by way of poisonous monsters, why I think it's important to align revenue with customer happiness, why cash rules everything around design, and how to become a better designer because of it.
 
