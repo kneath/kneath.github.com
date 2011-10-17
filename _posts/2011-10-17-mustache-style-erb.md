@@ -53,7 +53,7 @@ I thought I loved Mustache a year ago, but over time I've learned just how revol
 
 For all this talk, the application I spend most of my time working on is still ERB. In fact, the rails app that powers [GitHub](https://github.com) has over **500 erb templates**. We have dozens of people throwing hundreds of commits a day at the codebase in over **150 branches**. Switching to Mustache would be a disaster requiring everyone to stop development, switch patterns, and introduce an unknown number of bugs to our customers. A shitty trade.
 
-I don't want to stop new feature development, but I do want better templates. And I know that Mustache is the direction I'd like to go. Luckily for me, I work with the smartest people in the world. A little while ago [Simon](https://github.com/sr) introduced a new templating strategy that I realy like.
+I don't want to stop new feature development, but I do want better templates. And I know that Mustache is the direction I'd like to go. Luckily for me, I work with the smartest people in the world. A little while ago [Simon](https://github.com/sr) introduced a new templating strategy that I really like.
 
 ## Mustache-style ERB templates
 
