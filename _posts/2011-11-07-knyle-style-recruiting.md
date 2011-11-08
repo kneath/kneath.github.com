@@ -8,14 +8,6 @@ Otherwise known as Kyle Neath's guide to hiring the best people in the world: an
 
 Too harsh? Most likely. But here's the thing: recruiters do not give a fuck about doing good in the world. They do not care about making people happy. They do not care about building a good company. They do not care about treating email addresses as human beings. They only care about their percentage.
 
-## The current state of recruiting
-
-My name is Kyle Neath and I am a designer at GitHub. This takes about 30 seconds to find out. Yet about 3/4 of the emails and calls I receive offer someone named Keith, Knyle, Kenneth, or Keneath a Rails / node.js job. The only node.js I've written is a [Hubot](http://hubot.github.com) script to put [clown noses on someone's face](https://github.com/github/hubot-scripts/commit/22a29ac320f94079539662b52b6d155c7fcfbd44). [I'm not alone](https://gist.github.com/1285068) with these experiences — it's common practice for tech recruiters to not give .00005 fucks about their leads.
-
-<div class="figure"><img src="http://assets.warpspire.com/images/recruiting/clownface.jpg" alt="Clown nose" /></div>
-
-My name is **Kyle Neath** and I'm a fucking **designer**. Treat me like a human being. Google my name / username. My information is public. This is a matter of respect.
-
 ## Employees are the best recruiters
 
 At its core, the idea of a recruiter never made sense. Are they going to be working with their hire? Are they a designer, developer, copywriter or someone who knows what kind of skills and personality traits to look for?
