@@ -18,4 +18,4 @@ I'm taking the high tech approach and asking people to email me instead.  No mor
 
 <a href="mailto:kneath+ask@gmail.com" class="askme">Ask me anything, just send an email to <strong>kneath+ask@gmail.com</strong></a>
 
-Be polite, be reasonable and I'll respond back. And if I think it's something my audience might be intersted in, I'll post it to the site for all to see.
+Be polite, be reasonable and I'll respond back. And if I think it's something my audience might be interested in, I'll post it to the site for all to see.
