@@ -7,6 +7,12 @@ title: "Talks & Presentations"
 
 Every now and then I get up on stage and embarass myself trying to share a little bit of my ignorance at conferences. Like my style? I think conferences are awesome and would love to hear about any speaking opportunities you might have — just throw an email to <kneath@gmail.com>.
 
+## [Choose Your Adventure!](/talks/chooseyouradventure)
+
+Designers can't be developers and companies who build web apps can't build desktop apps. Well, maybe in 1997 — but it's 2012. Things done changed. It's time to focus on building amazing companies full of fantastic people. Build amazing apps that people love to use. Screw false specialization, iOS shops, and mobile-only products. We're people building apps for other people to use on technofantastical devices of tomorrow.
+
+[Slides](/talks/chooseyouradventure) from this presentation given at *Úll* April 28, 2012 in Dublin, Ireland.
+
 ## D.R.E.A.M - How the Wu-Tang taught me to design
 
 No slides from this one — a brief history of how I got into design by way of poisonous monsters, why I think it's important to align revenue with customer happiness, why cash rules everything around design, and how to become a better designer because of it.
