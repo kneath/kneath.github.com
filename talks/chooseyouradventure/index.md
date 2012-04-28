@@ -5,7 +5,7 @@ title: Choose Your Adventure!
 
 # Choose Your Adventure!
 
-<script src="http://speakerdeck.com/embed/4d8b7a80575308709d000002.js?size=preview"></script>
+<script src="http://speakerdeck.com/embed/4f9c026c242e840022030578.js?size=preview"></script>
 
 **[Download the presentation](/talks/chooseyouradventure/chooseyouradventure.pdf)** (12MB PDF)
 
