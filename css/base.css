@@ -1,6 +1,7 @@
-/*------------------------------------------------------------------------------------
-  @group Global Reset
-------------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------
+  Global Reset
+----------------------------------------------------------------------------*/
+
 * {
   padding:0;
   margin:0;
@@ -22,17 +23,15 @@ a img{ border:none; }
     clear: both;
     visibility: hidden;
 }
-* html .clearfix {height: 1%;}
-.clearfix {display:inline-block;}
-.clearfix {display: block;}
+* html .clearfix { height: 1%; }
+.clearfix { display:inline-block; }
+.clearfix { display: block; }
 
-/* @end */
+/*----------------------------------------------------------------------------
+  Main Layout
+----------------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------------------
-  @group Main Layout
-------------------------------------------------------------------------------*/
-
-body{
+body {
   font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
   font-size: 17px;
   line-height: 1.4;
@@ -42,19 +41,19 @@ body{
   border-top: 4px solid #556270;
 }
 
-strong{
-  font-weight:bold;
+strong {
+  font-weight: bold;
 }
 
-a{
-  color:#2382c8;
-  text-decoration:none;
+a {
+  color: #2382c8;
+  text-decoration: none;
 }
-a:visited{
-  color:#457289;
+a:visited {
+  color: #457289;
 }
-a:hover{
-  text-decoration:underline;
+a:hover {
+  text-decoration: underline;
 }
 
 hr {
@@ -74,55 +73,18 @@ hr:before {
   width: 680px;
 }
 
-/* @end */
-
 /*------------------------------------------------------------------------------
-  @group Sidebar
+  Home Page
 ------------------------------------------------------------------------------*/
 
-.logo{
-  display:block;
-  margin:20px 0;
+.listing .post {
+  margin: 40px 0;
+}
+.listing .post:first-child {
+  margin-top: 22px;
 }
 
-ul.nav{
-  margin:20px 0;
-  border-top:1px solid #ddd;
-}
-ul.nav li{
-  list-style-type:none;
-  margin:0;
-  padding:8px 0;
-  border-bottom:1px solid #ddd;
-}
-ul.nav li a{
-  color:#333;
-  font-weight:bold;
-  text-decoration:none;
-}
-ul.nav li a:hover{
-  color:#000;
-}
-
-.sidebar p{
-  color:#666;
-  line-height:1.5;
-}
-
-/* @end */
-
-/*------------------------------------------------------------------------------
-  @group Home Page
-------------------------------------------------------------------------------*/
-
-.listing .post{
-  margin:40px 0;
-}
-.listing .post:first-child{
-  margin-top:22px;
-}
-
-.listing .post p.date{
+.listing .post p.date {
   font-size: 13px;
 }
 
@@ -136,42 +98,39 @@ ul.nav li a:hover{
   text-decoration: none;
 }
 
-.listing .post .continue{
-  font-weight:bold;
+.listing .post .continue {
+  font-weight: bold;
 }
 
-.listing .post.other{
-  margin-left:24px;
-  padding-left:10px;
-  color:#666;
-  border-left:1px solid #ddd;
+.listing .post.other {
+  margin-left: 24px;
+  padding-left: 10px;
+  color: #666;
+  border-left: 1px solid #ddd;
 }
-.listing .post.other h2{
-  margin-bottom:-3px;
-  font-size:14px;
-  line-height:14px;
+.listing .post.other h2 {
+  font-size: 14px;
+  line-height: 14px;
 }
 .listing .post.other h2 a {
   color: #000;
 }
-.listing .post.other p:last-child{
-  margin-bottom:0;
+.listing .post.other p:last-child {
+  margin-bottom: 0;
 }
 
-.listing .post.other .icon{
-  float:left;
-  margin-left:-35px;
-  width:20px;
-  height:20px;
+.listing .post.other .icon {
+  float: left;
+  margin-left: -35px;
+  width: 20px;
+  height: 20px;
 }
-.listing .post.link .icon{
-  background:url(/images/icon_link.png) 0 0 no-repeat;
+.listing .post.link .icon {
+  background: url(/images/icon_link.png) 0 0 no-repeat;
 }
-
-/* @end */
 
 /*------------------------------------------------------------------------------
-  @group Post Styles
+  Post Styles
 ------------------------------------------------------------------------------*/
 
 p.date {
@@ -202,125 +161,93 @@ h3 {
 h3 a, h3 a:visited, h2 a, h2 a:visited{ color:#000; }
 h3 a:hover, h2 a:hover{ color:#000; border:none; }
 
-h4{
-  font-size:1em;
-  font-weight:normal;
-  color:#000;
+h4 {
+  font-size: 1em;
+  font-weight: normal;
+  color: #000;
 }
 
-.figure{
-  margin:19px 0 19px 0;
-  padding:2px;
-  text-align:center;
-  border:1px solid #ddd;
-  background:#f5f5f5;
-  line-height:0;
+.figure {
+  margin: 19px 0 19px 0;
+  padding: 2px;
+  text-align: center;
+  border: 1px solid #ddd;
+  background: #f5f5f5;
+  line-height: 0;
 }
-.fig-a{
-  float:right;
-  margin-left:15px;
+.fig-a {
+  float: right;
+  margin-left: 15px;
 }
-.figure small{
-  margin:2px 0 0 0;
-  padding:5px 7px;
-  display:block;
-  font-size:11px;
-  line-height:12px;
-  text-align:left;
-  color:#666;
-  background:#ddd;
-  text-shadow:1px 1px 0 rgba(255,255,255,0.3);
+.figure small {
+  margin: 2px 0 0 0;
+  padding: 5px 7px;
+  display: block;
+  font-size: 11px;
+  line-height: 12px;
+  text-align: left;
+  color: #666;
+  background: #ddd;
+  text-shadow: 1px 1px 0 rgba(255,255,255,0.3);
 }
-.figure small strong{
-  text-transform:uppercase;
-}
-
-blockquote{
-  margin:1em 0;
-  padding:0 35px;
-  font-size:14px;
-  border:1px dotted #ddd;
-  border-left:none;
-  border-right:none;
-  background:url(../images/blockquote_open.gif) 0 12px no-repeat;
-}
-blockquote p{
-  margin:12px 0;
-  color:#666;
+.figure small strong {
+  text-transform: uppercase;
 }
 
-table{
-	width:100%;
-	border-top:1px solid #CCCCCC;
-	border-bottom:2px solid #CCC;
-	color:#000000;
-	background:#FFFFFF;
-	border-collapse:separate;
-	font-size:11px;
+blockquote {
+  margin: 1em 0;
+  padding: 0 35px;
+  font-size: 14px;
+  border: 1px dotted #ddd;
+  border-left: none;
+  border-right: none;
+  background: url(../images/blockquote_open.gif) 0 12px no-repeat;
 }
-caption{
-	padding:10px 10px 5px 0;
-	text-align:left;
-	font-size:11px;
-	text-transform:uppercase;
-	font-weight:bold;
-}
-th{
-	text-align:center;
-	padding:5px;
-}
-td{
-	text-align:center;
-	padding:3px 5px;
-}
-.odd td{
-	background:#F0F1F2;
-}
-table.data th, table.data td{
-  text-align:left;
+blockquote p {
+  margin: 12px 0;
+  color: #666;
 }
 
-.main ul, .main ol{
-  margin:16px 0;
-}
-.main ul li{
-  list-style-type:none;
-  margin-left:10px;
-  margin-bottom:5px;
-  padding-left:15px;
-  background:url(../images/icon_li.gif) 0 5px no-repeat;
-}
-.main ol li{
-  margin-left:32px;
-  margin-bottom:5px;
+table {
+	width: 100%;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 2px solid #CCC;
+	color: #000;
+	background: #fff;
+	border-collapse: separate;
+	font-size: 11px;
 }
 
-a.askme{
-  display:block;
-  padding:10px 12px;
-  font-size:14px;
-  text-decoration:none;
-  color:#666;
-  background:#eee;
-  -webkit-border-radius:5px;
-  -moz-border-radius:5px;
-  border-radius:5px;
-}
-a.askme strong{
-  color:#000;
-}
-a.askme:hover strong{
-  text-decoration:underline;
+caption {
+	padding: 10px 10px 5px 0;
+	text-align: left;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
-p.note{
-  color:#666;
+th {
+	text-align: center;
+	padding: 5px;
 }
 
-/* @end */
+td {
+	text-align: center;
+	padding: 3px 5px;
+}
+.odd td {
+	background: #F0F1F2;
+}
+table.data th, table.data td {
+  text-align: left;
+}
+
+p.note {
+  color: #666;
+}
 
 /*----------------------------------------------------------------------------
-  @group Follow Box
+  Follow Box
 ----------------------------------------------------------------------------*/
 
 .keep-in-touch {
@@ -337,11 +264,9 @@ p.note{
   color: #666;
 }
 
-/* @end */
-
-/*------------------------------------------------------------------------------------
+/*----------------------------------------------------------------------------
   Code Styles
-------------------------------------------------------------------------------------*/
+----------------------------------------------------------------------------*/
 
 pre {
   margin: 16px 0;
@@ -367,52 +292,50 @@ pre code {
   background: inherit;
   border-radius: 0;
 }
-code span.global{
-  color:#3388DD;
+code span.global {
+  color: #3388DD;
 }
-code span.brackets{
-  color:#777777;
+code span.brackets {
+  color: #777777;
 }
 code span.string {
-  color:blue;
+  color: #BC6710;
 }
-code span.symbol, code span.selectors{
-  color:#1199EE;
+code span.symbol, code span.selectors {
+  color: #1199EE;
 }
-code span.properties{
-  color:#BB4411;
+code span.properties {
+  color: #BB4411;
 }
-code span.keywords{
-  color:#44BB22;
+code span.keywords {
+  color: #44BB22;
 }
-code span.comment{
-  color:#999;
+code span.comment {
+  color: #BCBCBC;
 }
-code span.shell{
+code span.shell {
   background:#f1f1f1;
 }
 
-code.html span.tag, code.xaml span.tag{
-  color:#BB4411;
+code.html span.tag, code.xaml span.tag {
+  color: #BB4411;
 }
-code.html span.attribute, code.xaml span.attribute{
-  color:#44BB22;
+code.html span.attribute, code.xaml span.attribute {
+  color: #44BB22;
 }
-code.html span.string, code.xaml span.string{
-  color:blue;
+code.html span.string, code.xaml span.string {
+  color: blue;
 }
-code.html span.comment, code.xaml span.comment{
-  color:#999999;
+code.html span.comment, code.xaml span.comment {
+  color: #999999;
 }
-code.html span.doctype{
-  color:#D7FF80;
+code.html span.doctype {
+  color: #D7FF80;
 }
 
-/* @end */
-
-/*------------------------------------------------------------------------------
-  @group Default Pygments Styles
-------------------------------------------------------------------------------*/
+/*----------------------------------------------------------------------------
+  Default Pygments Styles
+----------------------------------------------------------------------------*/
 
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
@@ -473,64 +396,5 @@ code.html span.doctype{
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
-
-/* @end */
-
-/*------------------------------------------------------------------------------
-  @group Half Court
-------------------------------------------------------------------------------*/
-
-.hcs{
-	overflow:hidden;
-	text-align: left;
-}
-.hcs ul,
-.hcs *{
-	padding: 0;
-	margin: 0;
-	border: 0;
-	outline: 0;
-	list-style-type: none;
-}
-.hcs ul{
-	margin: 0 -5px;
-}
-.hcs ul li{
-	width: 120px;
-	height:90px;
-	position: relative;
-	display: block;
-	padding: 5px;
-	margin: 5px 5px 0 5px;
-	background: rgba(0,0,0,0.075);
-	-webkit-transition:background 0.2s linear;
-	-moz-transition:background 0.2s linear;
-	transition:background 0.2s linear;
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#14000000, endColorstr=#14000000);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#14000000, endColorstr=#14000000)";
-	display: table;
-	float:left;
-	vertical-align:middle;
-}
-.hcs ul li a{
-	width:120px;
-	height:90px;
-	text-align:center;
-	vertical-align:middle;
-	display: table-cell;
-}
-.hcs ul li:hover{
-	background: #2382c8;
-}
-.hcs img{
-	width:auto;
-	height: auto;
-	max-width: 120px;
-	max-height:90px;
-	border: 0;
-	-ms-interpolation-mode:bicubic;
-	font-size:0;
-	float:left;
-}
 
 /* @end */
