@@ -49,9 +49,6 @@ a {
   color: #2382c8;
   text-decoration: none;
 }
-a:visited {
-  color: #457289;
-}
 a:hover {
   text-decoration: underline;
 }
@@ -74,12 +71,18 @@ hr:before {
   padding: 0 20px;
 }
 
-ul.nav {
+header {
   margin: 0 0 20px 0;
-  padding: 10px 0;
-  list-style-type: none;
   text-align: center;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #fff;
+}
+
+ul.nav {
+  margin: 0;
+  padding: 12px 0 10px 0;
+  list-style-type: none;
+  line-height: 30px;
+  border-bottom: 1px solid #dfe4ea;
 }
 ul.nav li {
   margin: 0 20px;
@@ -102,6 +105,8 @@ ul.nav li.logo {
   text-transform: none;
 }
 ul.nav li.logo a {
+  position: relative;
+  top: -2px;
   display: inline-block;
   width: 27px;
   height: 27px;
@@ -178,12 +183,33 @@ p.date {
   margin: 20px 0 0 0;
 }
 
+p.intro {
+  font-size: 28px;
+  line-height: 1.2;
+  color: #aaa;
+  text-align: justify;
+}
+@media only screen and (max-width: 520px) {
+  p.intro {
+    font-size: 20px;
+  }
+}
+
 h1 {
   margin: 10px 0 20px 0;
   font-size: 72px;
   line-height: 0.8;
   letter-spacing: -1px;
+  color: #000;
+}
+h1.words {
   color: #DB2C17;
+}
+@media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 48px;
+    letter-spacing: 0;
+  }
 }
 
 h2 {
