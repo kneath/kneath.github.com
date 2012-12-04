@@ -1,6 +1,7 @@
 ---
 layout: post
 title: URL Design
+summary: A pragmatic approach to designing the glue of the web.
 excerpt:
   You should take time to design your URL structure. If there's one thing I hope you remember after reading this article it's to take time to design your URL structure. Don't leave it up to your framework. Don't leave it up to chance. Think about it and craft an experience.
 ---

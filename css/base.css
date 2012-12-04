@@ -123,19 +123,20 @@ ul.nav li.logo a {
 ------------------------------------------------------------------------------*/
 
 .listing .post {
-  margin: 40px 0;
+  margin: 60px 0;
 }
 .listing .post:first-child {
   margin-top: 22px;
 }
 
 .listing .post p.date {
-  font-size: 13px;
+  font-size: 14px;
+  color: #bbb;
 }
 
 .listing .post h2 {
-  margin: 0 0 -5px 0;
-  font-size: 20px;
+  margin: 0 0 -20px 0;
+  font-size: 30px;
   border: none;
 }
 .listing .post h2 a {
@@ -143,8 +144,9 @@ ul.nav li.logo a {
   text-decoration: none;
 }
 
-.listing .post .continue {
-  font-weight: bold;
+.listing .post .post-summary {
+  font-size: 20px;
+  color: #777;
 }
 
 .listing .post.other {
@@ -166,12 +168,12 @@ ul.nav li.logo a {
 
 .listing .post.other .icon {
   float: left;
+  margin-top: -5px;
   margin-left: -35px;
   width: 20px;
   height: 20px;
-}
-.listing .post.link .icon {
-  background: url(/images/icon_link.png) 0 0 no-repeat;
+  font-size: 24px;
+  color: #ddd;
 }
 
 /*------------------------------------------------------------------------------

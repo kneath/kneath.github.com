@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mustache, ERB and the future of templating"
+summary: The best of mustache, all in ERB.
 excerpt:
   A little story about why I love Mustache, and how to bring that awesomeness to a legacy ERB app.
 ---
