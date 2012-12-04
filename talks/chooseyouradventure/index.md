@@ -3,8 +3,6 @@ layout: talk
 title: Choose Your Adventure!
 ---
 
-# Choose Your Adventure!
-
 <script src="http://speakerdeck.com/embed/4f9c026c242e840022030578.js?size=preview"></script>
 
 **[Download the presentation](/talks/chooseyouradventure/chooseyouradventure.pdf)** (12MB PDF)
