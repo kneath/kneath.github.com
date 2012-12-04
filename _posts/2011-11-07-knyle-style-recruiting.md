@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Knyle style recruiting"
+summary: A better way to hire people.
 excerpt:
   Otherwise known as Kyle Neath's guide to hiring the best people in the world: an examination into why recruiters are useless piles of humanflesh hellbent on destroying the souls of good designers and developers across the world.
 ---

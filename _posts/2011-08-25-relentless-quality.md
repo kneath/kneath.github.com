@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Relentless Quality
+summary: Musings on a culture of relentless quality.
 excerpt:
   If there's one thing I'll remember about Alex Mahernia, it's footer spacing. Here we are at 10pm in the office and we'd be trying to launch a site. The only thing left is an A-OK from the creative director. And without fail, he'd yell at me to come into his office and point at his screen. "The footer spacing is too big on this page." So I'd go back to battle the CSS until every single page on the site had consistent footer spacing in every browser.
 ---

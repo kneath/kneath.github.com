@@ -3,9 +3,9 @@
 <head>
 	<title>
 	  {% if page.title %}
-	    {{ page.title }} &mdash; Warpspire
+	    {{ page.title }} &middot; by Kyle Neath
 	  {% else %}
-	    Warpspire: Web, Design &amp; Code Geekery
+	    Warpspire: Design &amp; Code by Kyle Neath
 	  {% endif %}
 	</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -13,6 +13,9 @@
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 	<link rel="stylesheet" href="/css/base.css" type="text/css" />
 	<link rel="alternate" href="http://feeds.feedburner.com/warpspire" type="application/rss+xml" />
+
+  <script type="text/javascript" src="//use.typekit.net/oih2jiw.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<script type="text/javascript">
 
     var _gaq = _gaq || [];
@@ -28,21 +31,18 @@
   </script>
 </head>
 <body>
-  <div class="sidebar">
-    <a href="/" class="logo"><img src="/images/logo.gif" alt="Warpspire" width="203" height="63" /></a>
 
-    <ul class="nav">
-      <li><a href="/">Home</a></li>
-      <li><a href="/talks">Talks</a></li>
-      <li><a href="/experiments">Experiments</a></li>
-      <li><a href="/ask">Ask me a question</a></li>
-    </ul>
+  <div class="container">
+    <header>
+      <ul class="nav">
+        <li><a href="/">Words</a></li>
+        <li><a href="/talks">Talks</a></li>
+        <li class="logo"><a href="/">w</a></li>
+        <li><a href="/experiments">Experiments</a></li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </header>
 
-    <p>My name is Kyle Neath. I'm a ~designer at <a href="http://github.com" target="_blank">GitHub</a> in San Francisco.</p>
-    <p>You can find me as <strong>@kneath</strong> on <a href="http://twitter.com/kneath" class="twitter">Twitter</a>, <a href="https://github.com/kneath">GitHub</a>, <a href="http://dribbble.com/players/kneath">Dribbble</a> and pretty much everywhere else.</p>
-  </div><!-- /.sidebar -->
-
-  <div class="main">
     {{ content }}
   </div><!-- /.main -->
 
