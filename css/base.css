@@ -32,7 +32,7 @@ a img{ border:none; }
 ----------------------------------------------------------------------------*/
 
 body {
-  font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+  font-family: "proxima-nova-1", "proxima-nova-2", Arial, sans-serif;
   font-size: 17px;
   line-height: 1.4;
   color: #333;
@@ -167,12 +167,13 @@ ul.nav li.logo a {
 }
 
 .listing .post.other .icon {
+  font-family: Helvetica, Arial, sans-serif;
   float: left;
-  margin-top: -5px;
+  margin-top: -3px;
   margin-left: -35px;
   width: 20px;
   height: 20px;
-  font-size: 24px;
+  font-size: 20px;
   color: #ddd;
 }
 
