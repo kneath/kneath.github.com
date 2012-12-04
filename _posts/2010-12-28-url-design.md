@@ -1,6 +1,7 @@
 ---
 layout: post
 title: URL Design
+summary: A pragmatic approach to designing the glue of the web.
 excerpt:
   You should take time to design your URL structure. If there's one thing I hope you remember after reading this article it's to take time to design your URL structure. Don't leave it up to your framework. Don't leave it up to chance. Think about it and craft an experience.
 ---
@@ -62,6 +63,7 @@ That kind of URL used to be great for SEO purposes. Fortunately Google's hurrica
 Some additional points to keep in mind:
 
 * Underscores are just bad. Stick to dashes.
+
 * Use short, full, and commonly known words. If a section has a dash or special character in it, the word is probably too long.
 
 URLs are for humans. **Design them for humans.**
@@ -77,6 +79,7 @@ A URL is an agreement to serve something from a predictable location for as long
 In an ideal world, every single screen on your site should result in a URL that can be copy & pasted to reproduce the same screen in another tab/browser. In fairness, this wasn't completely possible until very recently with some of the new HTML5 browser history Javascript APIs. Notably, there are two new methods:
 
 * **`onReplaceState`** — This method replaces the current URL in the browser history, leaving the back button unaffected.
+
 * **`onPushState`** - This method pushes a new URL onto the browser's history, replacing the URL in the URL bar *and* adding it to the browser's history stack (affecting the back button).
 
 ### When to use `onReplaceState` and when to use `onPushState`
@@ -86,6 +89,7 @@ These new methods allow us to change the *entire* path in the URL bar, not just 
 To determine which to use, ask yourself this question: *Does this action produce new content or is it a different display of the same content?*
 
 1. **Produces new content** — you should use `onPushState` (ex: pagination links)
+
 2. **Produces a different display of the same content** — you should use `onReplaceState` (ex: sorting and filtering)
 
 Use your own judgement, but these two rules should get you 80% there. Think about what you want to see when you click the back button and make it happen.
@@ -95,6 +99,7 @@ Use your own judgement, but these two rules should get you 80% there. Think abou
 There's a lot of awesome functionality built into linking elements like `<a>` and `<button>`.  If you middle click or command-click on them they'll open in new windows. When you hover over an `<a>` your browser tells you the URL in the status bar.  Don't break this behavior when playing with `onReplaceState` and `onPushState`.
 
 * Embed the location of AJAX requests in the `href` attributes of anchor elements.
+
 * `return true` from Javascript click handlers when people middle or command click.
 
 It's fairly simple to do this with a quick conditional inside your click handlers. Here's an example jQuery compatible snippet:

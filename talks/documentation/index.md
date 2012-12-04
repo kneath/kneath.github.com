@@ -3,8 +3,6 @@ layout: talk
 title: Documentation is freaking awesome
 ---
 
-# Documentation is freaking awesome
-
 <script src="http://speakerdeck.com/embed/4d51eed25753083721000005.js?size=preview"></script>
 
 **[Download the presentation](/talks/documentation/documentation.pdf)** (6MB PDF)

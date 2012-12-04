@@ -3,10 +3,6 @@ layout: default
 title: "Talks & Presentations"
 ---
 
-# Talks & Presentations
-
-Every now and then I get up on stage and embarass myself trying to share a little bit of my ignorance at conferences. Like my style? I think conferences are awesome and would love to hear about any speaking opportunities you might have — just throw an email to <kneath@gmail.com>.
-
 ## [Choose Your Adventure!](/talks/chooseyouradventure)
 
 Designers can't be developers and companies who build web apps can't build desktop apps. Well, maybe in 1997 — but it's 2012. Things done changed. It's time to focus on building amazing companies full of fantastic people. Build amazing apps that people love to use. Screw false specialization, iOS shops, and mobile-only products. We're people building apps for other people to use on technofantastical devices of tomorrow.

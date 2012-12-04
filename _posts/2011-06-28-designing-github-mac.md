@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Designing GitHub for Mac
+summary: An analysis of my process.
 excerpt:
   A few days ago we lifted the curtains on a project I've been deep into for a long time now — <a href="http://mac.github.com">GitHub for Mac</a>. This is the first OS X app I've designed and thought it might be interesting to share some of the process and things I learned throughout development.
 ---

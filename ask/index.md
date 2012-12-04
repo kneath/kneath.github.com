@@ -3,8 +3,6 @@ layout: default
 title: Ask me something
 ---
 
-# Ask me something
-
 Here's the deal: comments on the internet **suck**.  You know what I mean. Between the [trolls](http://www.isthereaproblem.com/), the spam, the idiots, and general fuckwads — the experience sucks for everyone involved.
 
 <div class="figure">

@@ -3,8 +3,6 @@ layout: talk
 title: Design Hacks for the Pragmatic Minded
 ---
 
-# Design Hacks for the Pragmatic Minded
-
 <script src="http://speakerdeck.com/embed/4d8b7a80575308709d000002.js?size=preview"></script>
 
 **[Download the presentation](/talks/designhacks/designhacks.pdf)** (18MB PDF)
