@@ -10,7 +10,7 @@ There is a beauty to dumb software. These things like HTML, CSS and JavaScript. 
 
 But wait until you see the light! Software today is intelligent! Asynchronous front ends generated from esoteric scripting languages running on clusters of distributed virtual machines around the globe! Death to repetition! It's more productive! It's scalable! It's fault tolerant!
 
-I followed the light and it only ended in dark.
+I followed the light and it only ended in darkness.
 
 ----
 
