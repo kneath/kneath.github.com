@@ -92,8 +92,19 @@ ul.nav li {
   font-weight: 600;
 }
 @media only screen and (max-width: 520px) {
+  ul.nav {
+    position: relative;
+    padding-top: 40px;
+  }
   ul.nav li {
-    margin: 0 7px;
+    margin: 0 4px;
+    font-size: 13px;
+  }
+  ul.nav li.logo {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    margin-left: -14px;
   }
 }
 ul.nav li a {
@@ -139,6 +150,7 @@ ul.nav li.logo a {
   font-size: 30px;
   border: none;
 }
+
 .listing .post h2 a {
   color: #DB2C17;
   text-decoration: none;
@@ -175,6 +187,20 @@ ul.nav li.logo a {
   height: 20px;
   font-size: 20px;
   color: #ddd;
+}
+
+@media only screen and (max-width: 520px) {
+  .listing .post {
+    margin: 30px 0;
+  }
+
+  .listing .post h2 {
+    font-size: 24px;
+  }
+
+  .listing .post .post-summary {
+    font-size: 18px;
+  }
 }
 
 /*------------------------------------------------------------------------------
@@ -322,6 +348,14 @@ p.note {
   padding: 10px 0;
 }
 
+@media only screen and (max-width: 520px) {
+  h1 {
+    font-size: 30px;
+    line-height: 1.0;
+    letter-spacing: 0;
+  }
+}
+
 /*----------------------------------------------------------------------------
   Follow Box
 ----------------------------------------------------------------------------*/
@@ -338,6 +372,12 @@ p.note {
 }
 .keep-in-touch a {
   color: #666;
+}
+
+@media only screen and (max-width: 520px) {
+  .keep-in-touch {
+    font-size: 14px;
+  }
 }
 
 /*----------------------------------------------------------------------------
