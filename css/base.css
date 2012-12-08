@@ -354,6 +354,10 @@ p.note {
     line-height: 1.0;
     letter-spacing: 0;
   }
+
+  .container .twitter-tweet-rendered.tw-align-center {
+    width: 100% !important;
+  }
 }
 
 /*----------------------------------------------------------------------------
