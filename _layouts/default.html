@@ -47,6 +47,13 @@
     {{ content }}
   </div><!-- /.main -->
 
+  <script type="text/javascript" src="/js/fastclick.js"></script>
+  <script type="text/javascript">
+    window.addEventListener('load', function() {
+        new FastClick(document.body);
+    }, false);
+  </script>
+
   <script type="text/javascript">
     (function() {
       var t   = document.createElement('script');
