@@ -189,6 +189,10 @@ ul.nav li.logo a {
   color: #ddd;
 }
 
+.listing blockquote {
+  border-left-color: #ddd;
+}
+
 @media only screen and (max-width: 520px) {
   .listing .post {
     margin: 30px 0;
@@ -293,17 +297,14 @@ h4 {
 }
 
 blockquote {
-  margin: 1em 0;
-  padding: 0 35px;
-  font-size: 14px;
-  border: 1px dotted #ddd;
-  border-left: none;
-  border-right: none;
-  background: url(../images/blockquote_open.gif) 0 12px no-repeat;
+  margin: 1.0em 0;
+  padding: 0 0 0 15px;
+  font-size: 16px;
+  border-left: 2px solid #aaa;
 }
 blockquote p {
   margin: 12px 0;
-  color: #666;
+  color: #999;
 }
 
 table {
@@ -319,7 +320,7 @@ table {
 caption {
 	padding: 10px 10px 5px 0;
 	text-align: left;
-	font-size: 11px;
+	font-size: 12px;
 	text-transform: uppercase;
 	font-weight: bold;
 }
