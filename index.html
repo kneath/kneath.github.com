@@ -14,7 +14,7 @@ head_content:
 {% for post in site.posts %}
   {% if post.type == 'link' %}
     <div class="post other link">
-      <span class="icon" title="This is a link elsewhere">★</span>
+      <a class="icon" href="{{ post.url }}" title="This is a link elsewhere">★</a>
       <h2><a href="{{ post.link }}">{{ post.title }}</a></h2>
       <p>{{ post.content }}</p>
     </div>

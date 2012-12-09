@@ -188,6 +188,10 @@ ul.nav li.logo a {
   font-size: 20px;
   color: #ddd;
 }
+.listing .post.other .icon:hover {
+  text-decoration: none;
+  color: #bbb;
+}
 
 .listing blockquote {
   border-left-color: #ddd;
@@ -236,10 +240,17 @@ h1 {
   font-size: 72px;
   line-height: 0.8;
   letter-spacing: -1px;
-  color: #000;
+  color: #00000;
 }
 h1.words {
   color: #DB2C17;
+}
+h1.link {
+  font-size: 32px;
+}
+h1.link .desc {
+  font-weight: normal;
+  color: #000;
 }
 @media only screen and (max-width: 700px) {
   h1 {
