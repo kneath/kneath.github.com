@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "What I learned about building software in 2012"
+title: "What I've learned about building software so far"
 summary: In which the entire situation is just fucked. Let's make it better.
 excerpt:
   In which the entire situation is just fucked. Let's make it better.
 ---
 
-2012 was the year I started to discover a better way to build software.
+Generally speaking, software companies all work the same way — based in hierarchy, delegation, siloing, hours, and deadlines. This is not a bad way to build software. But it's only one way.
 
-I've worked with hundreds of organizations that build software over my life (yay fast paced agency work?). Generally speaking, they all work the same way — based in hierarchy, delegation, siloing, hours, and deadlines.
+The art and science of **building software** is an interesting one, and one that's near and dear to my heart. It's my job to build software every day, so it's obvious that I care about it. But more importantly, it's my job to figure out the best *way* to build software. GitHub may be a website or a collection of features to some people, but to me it's a tool that lets you build software in the ***GitHub Way***.
 
-This is not a bad way to build software. But it's only one way.
+In this persuit I've learned a lot about what it means to build high quality software efficiently. All of this has worked out really well for me so far, but as with anything GitHub: everything changes.
 
 ## Open source
 
-Open source works dramatically different than these organizations. Open source, which powers much of our world. Open source, which produces astonishingly high quality software. Open source, which produces software at a faster rate than any other organization on Earth.
+Open source works dramatically different than almost all software companies. Open source, which powers much of our world. Open source, which produces astonishingly high quality software. Open source, which produces software at a faster rate than any other organization on Earth.
 
-Open source, which has no financial incentive to produce software at all.
+Open source, which has no financial incentive to produce software at all. Yet does so better than anyone else.
 
 ## Structure
 
