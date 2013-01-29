@@ -46,7 +46,7 @@ We were working on code, on Photoshop documents — pixels. The pixels didn’t 
 
 In a strange sense, it was a bit of a utopian work environment. How could the internet know you were gay? 80 years old? Hispanic? Transgender? Karl Rove? It just didn’t matter. Respect was earned through actions and the words you actually said (hard to squeeze rumor out of publicly logged chat).
 
-It took me until early 2009 for me to realize the real value of this network. I was miserable at my job and  I sent a long-winded email to [court3nay](https://twitter.com/court3nay) inquiring about working with [ENTP](https://entp.com). ENTP was a half-product, half-consulting agency at this point comprised almost solely of caboosers. All of whom had never met me or ever heard my voice. About 30 seconds later I got a response:
+It took me until early 2009 for me to realize the real value of this network. I was miserable at my job and  I sent a long-winded email to [court3nay](https://twitter.com/court3nay) inquiring about working with [ENTP](http://entp.com). ENTP was a half-product, half-consulting agency at this point comprised almost solely of caboosers. All of whom had never met me or ever heard my voice. About 30 seconds later I got a response:
 
 > Hey Kyle,
 >
