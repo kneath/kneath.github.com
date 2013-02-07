@@ -12,7 +12,7 @@ People will finally stop caring about web standards. It’s just how you make we
 
 ## Automattic will change the shape of blogging
 
-I see an extremely bright future for Automattic. With a guy like Matt at the reigns great things are bound to come out. Change the face of blogging? Hell yea. How? I don?t know — and that’s why it’s going to be so big. I’m sure these guys have at least one more killer idea in the oven just waiting to come out.
+I see an extremely bright future for Automattic. With a guy like Matt at the reigns great things are bound to come out. Change the face of blogging? Hell yea. How? I don't know — and that’s why it’s going to be so big. I’m sure these guys have at least one more killer idea in the oven just waiting to come out.
 
 Many people may balk at that statement and wonder what reasoning I have for it.
 
