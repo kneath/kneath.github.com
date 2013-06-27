@@ -130,7 +130,7 @@ There's no excuse for these URLs at all. Post-specific URLs are for redirects an
 
 ## A great example
 
-<div class="figure"><a href="https://github.com/defunkt/resque/pull/175#issuecomment-619615"><img src="http://assets.warpspire.com/images/urldesign/urlparts.1.gif" alt="Example URL" /></a></div>
+<div class="figure"><a href="https://github.com/resque/resque/pull/175#issuecomment-619615"><img src="http://assets.warpspire.com/images/urldesign/urlparts.1.gif" alt="Example URL" /></a></div>
 
 1. ASCII-only user generated URL parts (defunkt, resque).
 
@@ -140,7 +140,7 @@ There's no excuse for these URLs at all. Post-specific URLs are for redirects an
 
 4. Anchor points to a scrolling position, not hidden content.
 
-**Bonus points:** This URL has many different formats as well — check out the [patch](https://github.com/defunkt/resque/pull/175.patch) and [diff](https://github.com/defunkt/resque/pull/175.diff) versions.
+**Bonus points:** This URL has many different formats as well — check out the [patch](https://github.com/resque/resque/pull/175.patch) and [diff](https://github.com/resque/resque/pull/175.diff) versions.
 
 ## The beginning of an era
 
