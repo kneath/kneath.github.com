@@ -11,7 +11,13 @@ title: "About Kyle Neath"
 
 ----
 
-I love to build the future. I believe software will effect a Change in this world (and beyond), and I am going to be part of it. I'm not a designer. Not a programmer. Not a manager. I went to school for [Civil Engineering](http://assets.warpspire.com/images/site/degree.jpg), but ended up building things with software instead.
+Warpspire is the place that I post my thoughts on technology, product, and anything else that piques my interest. If you're looking to get started, here's some of my favorite articles:
+
+* [Pixels don't care](/posts/pixels-dont-care/)
+* [Designing GitHub for Mac](/posts/designing-github-mac/)
+* [Product design at GitHub](http://warpspire.com/posts/product-design/)
+
+I believe software will effect a Change in this world (and beyond), and I want to be part of it. I'm not a designer. Not a programmer. Not a manager. **I build things with software.** I went to school for [Civil Engineering](http://assets.warpspire.com/images/site/degree.jpg), but ended up in software instead.
 
 I work on product at GitHub. We're creating a better way to design, build, and ship software.
 
