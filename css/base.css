@@ -306,6 +306,9 @@ h4 {
 .figure small strong {
   text-transform: uppercase;
 }
+.figure img {
+  max-width: 100%;
+}
 
 blockquote {
   margin: 1.0em 0;
