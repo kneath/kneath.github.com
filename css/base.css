@@ -162,10 +162,7 @@ ul.nav li.logo a {
 }
 
 .listing .post.other {
-  margin-left: 24px;
-  padding-left: 10px;
   color: #666;
-  border-left: 1px solid #ddd;
 }
 .listing .post.other h2 {
   margin: -5px 0 -15px 0;
