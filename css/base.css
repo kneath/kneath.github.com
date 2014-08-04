@@ -162,10 +162,7 @@ ul.nav li.logo a {
 }
 
 .listing .post.other {
-  margin-left: 24px;
-  padding-left: 10px;
   color: #666;
-  border-left: 1px solid #ddd;
 }
 .listing .post.other h2 {
   margin: -5px 0 -15px 0;
@@ -246,7 +243,9 @@ h1.words {
   color: #DB2C17;
 }
 h1.link {
+  margin-top: 0;
   font-size: 32px;
+  line-height: 1.2;
 }
 h1.link .desc {
   font-weight: normal;
@@ -383,14 +382,23 @@ p.note {
   margin: 30px 0;
   color: #aaa;
   border-top: 1px solid #dfe4ea;
+  border-bottom: 1px solid #fff;
 }
 .keep-in-touch p:first-child {
   margin-top: 0;
   padding-top: 20px;
   border-top: 1px solid #fff;
 }
+.keep-in-touch p:last-child {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #dfe4ea;
+}
 .keep-in-touch a {
   color: #666;
+}
+.keep-in-touch .comments {
+  font-style: italic;
 }
 
 @media only screen and (max-width: 520px) {
