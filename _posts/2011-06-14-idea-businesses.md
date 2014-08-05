@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Build your business around an idea
+category: opinion
 excerpt:
   Living in San Francisco and working in tech right now is absolutely insane. It can feel like money <em>is</em> growing on trees and the only spending limit is your imagination. If you have just a little bit of initiative, you can take any idea and start a company with absolutely zero personal risk. But why are so many people building short-sighted companies with so few limits?
 ---
