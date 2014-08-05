@@ -6,20 +6,26 @@ title: "About Kyle Neath"
 # Kyle Neath
 
 <p class="intro">
-  My name is Kyle Neath and I work at <a href="https://github.com">GitHub</a> in San Francisco. I love to build beautiful things with software.
+  That&rsquo;s me, the guy publishing this site. Hi.
 </p>
 
 ----
 
-Warpspire is the place that I post my thoughts on technology, product, and anything else that piques my interest. If you're looking to get started, here's some of my favorite articles:
+I use Warpspire to collect interesting links, share opinion articles, and reviews. I try to keep the site focused on technology-focused product design and it's impact on this world. But sometimes I just publish things that pique my interest. If you're looking to get started, here's some of my favorite articles:
 
 * [Pixels don't care](/posts/pixels-dont-care/)
 * [Designing GitHub for Mac](/posts/designing-github-mac/)
 * [Product design at GitHub](http://warpspire.com/posts/product-design/)
 
-I believe software will effect a Change in this world (and beyond), and I want to be part of it. I'm not a designer. Not a programmer. Not a manager. **I build things with software.** I went to school for [Civil Engineering](http://assets.warpspire.com/images/site/degree.jpg), but ended up in software instead.
 
-I work on product at GitHub. We're creating a better way to design, build, and ship software.
+## About me
+
+I've been designing things for the internet since 1997.
+For years I was a tinkerer, building web sites for games I loved. I tinkered with static sites, blogs, forums, community sites, and even building my own games.
+In 2007, when I completed my degree in Civil Engineering, I decided to take my part time job at [Web Associates](http://en.wikipedia.org/wiki/LEVEL_Studios) full time and dive into technology for my career.
+I worked on big-name brands for a while until I left to join [ENTP](http://entp.com/) and eventually design [Tender](http://tenderapp.com/).
+In 2009, I joined [GitHub](https://github.com) where, until 2014, I was head of product, growing the customer base by a factor of 50.
+For now, I'm spending some time with my Dad and enjoying life in Dunsmuir, CA.
 
 <div class="keep-in-touch">
   <p>
