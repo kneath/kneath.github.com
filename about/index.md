@@ -25,7 +25,7 @@ For years I was a tinkerer, building web sites for games I loved. I tinkered wit
 In 2007, when I completed my degree in Civil Engineering, I decided to take my part time job at [Web Associates](http://en.wikipedia.org/wiki/LEVEL_Studios) full time and dive into technology for my career.
 I worked on big-name brands for a while until I left to join [ENTP](http://entp.com/) and eventually design [Tender](http://tenderapp.com/).
 In 2009, I joined [GitHub](https://github.com) where, until 2014, I was head of product, growing the customer base by a factor of 50.
-For now, I'm spending some time with my Dad and enjoying life in Dunsmuir, CA.
+For now, I'm back to tinkering while I spend some time with my Dad, enjoying life in Dunsmuir, CA.
 
 <div class="keep-in-touch">
   <p>
