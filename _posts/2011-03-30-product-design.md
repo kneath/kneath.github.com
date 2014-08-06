@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Product design at GitHub
+category: opinion
 summary: An inspection into the product design process we've carved out.
 excerpt:
   Product design is easily the hardest aspect of building software today. I happen to think we do a pretty good job of this at GitHub, and I'd like to give you a bit of an insight into our process and hopefully shed some light on why it works so well.

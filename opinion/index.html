@@ -1,17 +1,12 @@
 ---
 layout: default
-head_content:
-  <link rel="alternate" type="application/atom+xml" href="http://warpspire.com/feed/" />
+title: "Opinion"
 ---
 
-<p class="intro">
-  Welcome! Warpspire is a collection of links, reviews, and opinions focused on product design and its effects on our world. Published by Kyle Neath.
-</p>
-
-<hr />
+<p class="intro">Opinions on technology focused products and it&rsquo;s effect on our world.</p>
 
 <div class="listing">
-{% for post in site.posts %}
+{% for post in site.categories['opinion'] %}
   {% if post.type == 'link' %}
     <div class="post other link">
       <a class="icon" href="{{ post.url }}" title="This is a link elsewhere">★</a>

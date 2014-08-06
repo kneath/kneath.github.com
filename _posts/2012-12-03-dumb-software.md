@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dumb software"
+category: opinion
 summary: An ode to dumb software, my favorite kind.
 excerpt:
   There is a beauty to dumb software. These things like HTML, CSS and JavaScript. Things like Unix, C and SQL. Plain text files, email, and GIFs. They're fun to work with. They always work. There's no caveats. I just love them so damn much.
@@ -24,4 +25,3 @@ Dumb systems are obvious. It's obviously doing something dumb — too much work,
 Dumb software can do great things. It put humankind on the Moon. [It got us to Mars](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf). To me, it feels like the dumber the software, the more it accomplishes.
 
 I want to create great things. And sometimes it just feels right to build a simple little static website with HTML, CSS, and JavaScript.
-

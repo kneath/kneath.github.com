@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pixels don’t care"
+category: opinion
 summary: There's plenty of discrimination and intolerance in our world, but never forget that pixels don't care.
 ---
 
@@ -72,4 +73,3 @@ This industry we work in is magical. For the first time in human history, it’s
 That’s really fucking awesome.
 
 There’s plenty of prejudice and intolerance in our world — and in our industry. But never forget that **pixels don’t care**.
-

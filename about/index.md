@@ -3,23 +3,43 @@ layout: default
 title: "About Kyle Neath"
 ---
 
-# Kyle Neath
+<div class="about-image">
+  <img src="http://assets.warpspire.com/images/site/dubious-kyle.jpg" />
+  <h1>Kyle Neath</h1>
+  <p class="intro">
+    That&rsquo;s me, the guy publishing this site. Hi.
+  </p>
+</div>
 
-<p class="intro">
-  My name is Kyle Neath and I work at <a href="https://github.com">GitHub</a> in San Francisco. I love to build beautiful things with software.
-</p>
-
-----
-
-Warpspire is the place that I post my thoughts on technology, product, and anything else that piques my interest. If you're looking to get started, here's some of my favorite articles:
+I use Warpspire to collect interesting links, publish opinions, and review software / games / books. I try to keep the site focused on technology-focused product design and it's impact on this world. But sometimes I just publish things that pique my interest. If you're looking to get started, here's some of my favorite articles:
 
 * [Pixels don't care](/posts/pixels-dont-care/)
 * [Designing GitHub for Mac](/posts/designing-github-mac/)
 * [Product design at GitHub](http://warpspire.com/posts/product-design/)
 
-I believe software will effect a Change in this world (and beyond), and I want to be part of it. I'm not a designer. Not a programmer. Not a manager. **I build things with software.** I went to school for [Civil Engineering](http://assets.warpspire.com/images/site/degree.jpg), but ended up in software instead.
+* * * *
 
-I work on product at GitHub. We're creating a better way to design, build, and ship software.
+## About me
+
+I'm pretty critical of software.
+I think software should be enjoyable to use and affect the world in a positive manner.
+That's unfortunately not quite the world we live in.
+But I still deeply love software — I think it's one of the most powerful inventions of humankind.
+And I can't help think that we could do so much more if we held ourselves to higher standards.
+
+I'm a bit of a hippie, a bit of a capitalist, and a hyperbolic crazy person in between.
+But you know, maybe that's just the side effects of working in software for this long.
+
+I've been designing things for the internet since 1997.
+For years I was a tinkerer, building web sites for games I loved. I tinkered with static sites, blogs, themes, ([Hemingway](https://github.com/kneath/hemingway)), forums, community sites (Total Spore, Poetry With Meaning), and even building my [own game](https://github.com/kneath/nightfire).
+In 2007, when I completed my degree in Civil Engineering, I decided to take my part time job at [Web Associates](http://en.wikipedia.org/wiki/LEVEL_Studios) full time and dive into technology for my career.
+I worked on big-name brands for a while until I left to join [ENTP](http://entp.com/) where among other things, I designed [Tender](http://tenderapp.com/).
+In 2009, I joined [GitHub](https://github.com) where, until 2014, I was head of product, growing github.com to over a million active users, and revenues by a factor of 50.
+For now, I'm back to tinkering while I spend some time with my Dad, enjoying life in Dunsmuir, CA.
+
+> The mountains are calling and I must go.
+>
+> — *John Muir*
 
 <div class="keep-in-touch">
   <p>
