@@ -477,6 +477,35 @@ code.html span.doctype {
 }
 
 /*----------------------------------------------------------------------------
+  About Page
+----------------------------------------------------------------------------*/
+
+.about-image {
+  position: relative;
+  border: 4px solid rgba(0,0,0, 0.1);
+  line-height: 0;
+}
+.about-image h1 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  padding: 0 20px;
+  color: #556270;
+}
+.about-image p.intro {
+  margin: 0;
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  padding: 0 20px;
+  color: #fff;
+  text-shadow: 1px 1px 0 rgba(0,0,0,1.0);
+}
+.about-image img {
+  max-width: 100%;
+}
+
+/*----------------------------------------------------------------------------
   Default Pygments Styles
 ----------------------------------------------------------------------------*/
 

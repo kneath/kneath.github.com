@@ -3,20 +3,20 @@ layout: default
 title: "About Kyle Neath"
 ---
 
-# Kyle Neath
+<div class="about-image">
+  <img src="http://assets.warpspire.com/images/site/dubious-kyle.jpg" />
+  <h1>Kyle Neath</h1>
+  <p class="intro">
+    That&rsquo;s me, the guy publishing this site. Hi.
+  </p>
+</div>
 
-<p class="intro">
-  That&rsquo;s me, the guy publishing this site. Hi.
-</p>
 
-----
-
-I use Warpspire to collect interesting links, share opinion articles, and reviews. I try to keep the site focused on technology-focused product design and it's impact on this world. But sometimes I just publish things that pique my interest. If you're looking to get started, here's some of my favorite articles:
+I use Warpspire to collect interesting links, publish opinions, and review software / games / books. I try to keep the site focused on technology-focused product design and it's impact on this world. But sometimes I just publish things that pique my interest. If you're looking to get started, here's some of my favorite articles:
 
 * [Pixels don't care](/posts/pixels-dont-care/)
 * [Designing GitHub for Mac](/posts/designing-github-mac/)
 * [Product design at GitHub](http://warpspire.com/posts/product-design/)
-
 
 ## About me
 
