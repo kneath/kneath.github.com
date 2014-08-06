@@ -242,10 +242,13 @@ h1 {
 h1.words {
   color: #DB2C17;
 }
-h1.link {
+h1.link, h1.book {
   margin-top: 0;
   font-size: 32px;
   line-height: 1.2;
+}
+h1.book a {
+  color: #000;
 }
 h1.link .desc {
   font-weight: normal;

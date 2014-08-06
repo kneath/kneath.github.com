@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: book
 title: "The Idea Factory: Bell Labs and the Great Age of American Innovation"
 link: http://www.amazon.com/Idea-Factory-Great-American-Innovation-ebook/dp/B005GSZIWG/ref=sr_1_1?ie=UTF8&qid=1401671140&sr=8-1&keywords=bell+labs+innovation
 description:
@@ -8,7 +8,7 @@ rating: 3
 categories: [craft]
 ---
 
-When I picked up this book, I was interested in highly productive Engineering organizations and their internal workings. I originally thought this book might provide some insight into one of the most productive Engineering organizations I can think of: Bell Laboratories. This book did go a little into the organizational structure, but most of the book dealt with the history and timelines of the **significant innovations** (vaccuum tubes, transistors, information theory, radar, wireless communications, satellite communications, fiber optics, UNIX, etc) and the **history of the lives of the Young Turks** (Mervin Kelly, Jim Fisk, William Shockley, Claude Shannon, John Pierce, and William Baker). There is a great number of notable quotes and observations in this book, and as someone who lives and breathes information technology, it was a great look into a history I wasn't a part of.
+When I picked up this book, I was interested in highly productive Engineering organizations and their internal workings. I originally thought this book might provide some insight into one of the most productive Engineering organizations I can think of: Bell Laboratories. This book did go a little into the organizational structure, but most of the book dealt with the history and timelines of **significant innovations** (vaccuum tubes, transistors, information theory, radar, wireless communications, satellite communications, fiber optics, UNIX, etc) and the **history of the lives of the Young Turks** (Mervin Kelly, Jim Fisk, William Shockley, Claude Shannon, John Pierce, and William Baker). There is a great number of notable quotes and observations in this book, and as someone who lives and breathes information technology, it was a great look into a history I wasn't a part of.
 
 ## Takeaways
 
@@ -16,7 +16,7 @@ More than anything, I think this book highlighted the great tension of the produ
 
 ## Quotes
 
-These are the passages I highlighted while reading, and some notes for my own pleasure.
+These are the passages I highlighted while reading. This is pretty long and boring, so if you're not interested you can [jump to the comments](#disqus_thread).
 
 ----
 
