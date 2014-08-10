@@ -31,15 +31,16 @@ I'm a bit of a hippie, a bit of a capitalist, and a hyperbolic crazy person in b
 But you know, maybe that's just the side effects of working in software for this long.
 
 I've been designing things for the internet since 1997.
-For years I was a tinkerer, building web sites for games I loved. I tinkered with static sites, blogs, themes, ([Hemingway](https://github.com/kneath/hemingway)), forums, community sites (Total Spore, Poetry With Meaning), and even building my [own game](https://github.com/kneath/nightfire).
+For years I was a tinkerer, building web sites for games I loved. I tinkered with static sites, blogs, themes, ([Hemingway](https://github.com/kneath/hemingway)), forums, community sites (Drum Report, Total Spore, Poetry With Meaning), and even building my [own game](https://github.com/kneath/nightfire).
 In 2007, when I completed my degree in Civil Engineering, I decided to take my part time job at [Web Associates](http://en.wikipedia.org/wiki/LEVEL_Studios) full time and dive into technology for my career.
 I worked on big-name brands for a while until I left to join [ENTP](http://entp.com/) where among other things, I designed [Tender](http://tenderapp.com/).
 In 2009, I joined [GitHub](https://github.com) where, until 2014, I was head of product, growing github.com to over a million active users, and revenues by a factor of 50.
-For now, I'm back to tinkering while I spend some time with my Dad, enjoying life in Dunsmuir, CA.
 
 > The mountains are calling and I must go.
 >
 > — *John Muir*
+
+For now, I'm back to tinkering while I spend some time with my Dad, enjoying the mountains in Dunsmuir, CA.
 
 <div class="keep-in-touch">
   <p>
