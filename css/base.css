@@ -318,6 +318,9 @@ blockquote {
   font-size: 16px;
   border-left: 2px solid #aaa;
 }
+h2 + blockquote {
+  margin-top: 2.0em;
+}
 blockquote p {
   margin: 12px 0;
   color: #999;
