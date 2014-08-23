@@ -55,14 +55,14 @@ That's all he says. He just sits down, smiles at me, and snaps a piece of pork b
 
 When we get back to the office, he breaks the silence agian, "Thank you all for coming. Kyle's got this — follow his lead. Let's see where we are by tomorrow morning." *Motherfucker!* I'm freaking out, so I tell everyone I need ten minutes to pull together my thoughts. I open up my email and start furiously scanning the messages he sent me last night. Thankfully, there's eighteen emails labeled 'COMMENT' so I'm starting to think there's hope. The first twelve are doge pictures, but the thirteenth finally bears some fruit.
 
-```ruby
+{% highlight ruby %}
 class Post < Comment
 end
-```
+{% endhighlight %}
 
 I keep going through these emails and I'm starting to get it.
 
-```ruby
+{% highlight ruby %}
 class Photo < Comment
 end
 
@@ -71,14 +71,14 @@ end
 
 class User < Comment
 end
-```
+{% endhighlight %}
 
 The seventeenth email is when it finally hits me like a ton of bricks.
 
-```ruby
+{% highlight ruby %}
 class CommentComment < Comment
 end
-```
+{% endhighlight %}
 
 Fuck. I've just agreed to replace everything in our site with comments. I mean, we joked about this, but *he cannot be real*. Just one polymorphic inheritable database table of comments, all pointing to each other and joining through each other.
 
