@@ -103,6 +103,6 @@ Not quite sure what to do with that one, but cute-co-worker-in-the-corner just r
 
 * * * *
 
-*This post is full of satire and absurdity (sometimes I just like to write because it's fun — also that tweet series was hilarious), but I actually do kind of miss when Twitter was deterministic and didn't take psychedelic drugs to explain what the difference between a Favorite and a Retweet was. Chalk it up to another piece of software I have to explain with "you're not dumb, this shit is just confusing, even to me."*
+*This post is full of satire and absurdity (sometimes I just like to write because it's fun — also that tweet series was hilarious), but I do kind of miss when Twitter was deterministic and didn't take psychedelic drugs to explain what the difference between a Favorite and a Retweet was. Chalk it up to another piece of software I have to explain with "you're not dumb, this shit is just confusing, even to me."*
 
 *And shoutout to [@court3nay](https://twitter.com/court3nay) and [@technoweenie](https://twitter.com/technoweenie) for the CommentComment joke. STI, it's one hell of a drug.*
