@@ -27,7 +27,7 @@ So anyways, I got this call from my product manager at 8pm last night, and all I
 
 Which is why I'm pretty fucking surprised that somehow *I'm in a goddamn Google Hangout with him at 3am on a Tuesday night*. He's sitting there, and I swear the fucker is *glowing* — but it's not like a supernatural light — I think he painted himself in glow in the dark paint or something because it just looks really bad and it's all over his dog too (who does _not_ seem very chill about this whole situation). While I'm sitting here watching this performance art, I start to wonder if this shit really is for me, and suddenly all I hear is screaming.
 
-Dude is _not_ happy. Guess he's angry that I sorta zoned out after the first twenty minutes of and fired up another LoL match. Dude just keeps getting louder and louder, "It's all just a comment. A COMMENT. I SEE IT NOW. EVERYTHING IS A COMMENT." We don't even have comments on our site, what the fuck dude? Right around the time he pulls out a box of matches, I decide this shit is *not* for me and close my laptop. Most people just don't get how hard this job is. *Fuck*, dude.
+Dude is _not_ happy. Guess he's angry that I sorta zoned out after the first twenty minutes and fired up another LoL match. Dude just keeps getting louder and louder, "It's all just a comment. A COMMENT. I SEE IT NOW. EVERYTHING IS A COMMENT." We don't even have comments on our site, what the fuck dude? Right around the time he pulls out a box of matches, I decide this shit is *not* for me and close my laptop. Most people just don't get how hard this job is. *Fuck*, dude.
 
 * * * *
 
