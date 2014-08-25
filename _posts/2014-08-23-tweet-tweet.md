@@ -82,7 +82,7 @@ end
 
 Fuck. I've just agreed to replace everything in our site with comments. I mean, we joked about this, but *he cannot be real*. Just one polymorphic inheritable database table of comments, all pointing to each other and joining through each other.
 
-Wait, I realize that's what *I* want us to do. *Kyle's got this*, that's what he said.
+Just then I realize that's what *I* want us to do. *Kyle's got this*, that's what he said.
 
 * * * *
 
