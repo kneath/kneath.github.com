@@ -13,7 +13,7 @@ On passions:
 
 > Commencement speakers are always telling young people to follow their passions. Be true to yourself. This is a vision of life that begins with self and ends with self. But people on the road to inner light do not find their vocations by asking, what do I want from life? They ask, what is life asking of me? How can I match my intrinsic talent with one of the world’s deep needs?
 
-Yes! I've struggled with how to describe this feeling for a long time — this feeling that while it's probably good advice to follow your passions, you may find more fulfillment following where you're most needed.
+Yes! I've struggled with how to describe this feeling for a long time — this feeling that while it's probably good advice to follow your passions, you may find more fulfillment following where you're most needed. This essay is based on his new book [The Road to Character](http://smile.amazon.com/dp/B00LYXV61Y/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=66RA1Q33154U&coliid=I1SH8Z3BHLC8UM), which I'm pretty excited to dive into here soon. 
 
 Pairs well with this fantastic answer on [How can I be as great as Elon Musk?](http://www.quora.com/How-can-I-be-as-great-as-Bill-Gates-Steve-Jobs-Elon-Musk-Richard-Branson/answer/Justine-Musk?srid=iAix&share=1) by his ex-wife, Justine:
 
