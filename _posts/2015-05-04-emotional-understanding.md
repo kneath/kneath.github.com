@@ -11,8 +11,6 @@ Yet there is an entire class of managers in software today that avoid face to fa
 
 The vibe I get from our industry today is that product managers believe measurable data and analytical reasoning are king and result in superior decisions. Many even believe with enough effort, they can measure emotion. They see emotions in their analytical world view: as a (difficult) metric to be measured, tested, and improved. This is how we end up associating ideas like Churn (an artifact of your billing data) with an emotion like Frustration (something a human feels). But emotion can't be measured, it must be felt.
 
-What happens when we stop trying to measure emotion and start feeling it instead?
-
 * * * *
 
 I recently listened to a great Planet Money episode on [Spreadsheets!](http://www.npr.org/blogs/money/2015/02/25/389027988/episode-606-spreadsheets) that discusses the history of spreadsheets and how it's changed the way we make decisions. The episode was inspired after an article written in 1984 about the significance and danger of the advance of spreadsheets:
