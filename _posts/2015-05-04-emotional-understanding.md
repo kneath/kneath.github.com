@@ -47,7 +47,7 @@ How might you change your design if your tools promoted an emotional understandi
 
 * * * *
 
-Unfortunately,. things get sticky when we leave our numbers behind. We're not practiced at feeling emotion in a professional environment. We associate emotions with irrationality and poor decisions — something to be avoided. As an organization approaches [Dunbar's number](http://en.wikipedia.org/wiki/Dunbar%27s_number), being vulnerable and feeling emotion becomes less and less safe. Our customers continue to feel and be swayed by emotion just like the rest of us while we're busy building a world in where we don't have to feel.
+Unfortunately, things get sticky when we leave our numbers behind. We're not practiced at feeling emotion in a professional environment. We associate emotions with irrationality and poor decisions — something to be avoided. As an organization approaches [Dunbar's number](http://en.wikipedia.org/wiki/Dunbar%27s_number), being vulnerable and feeling emotion becomes less and less safe. Our customers continue to feel and be swayed by emotion just like the rest of us while we're busy building a world in where we don't have to feel.
 
 It's time we revisited our tools with a focus on promoting emotional understanding. Our customers deserve it. And frankly, we've been [fucking up](http://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/) their lives with our lack of empathy. I don't have the complete answer, but I do have some suggestions.
 
