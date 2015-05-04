@@ -9,7 +9,7 @@ One of the most important responsibilities for managers in tech companies are ha
 
 Yet there is an entire class of managers in software today that avoid face to face interaction with those they manage: product managers. It's common for a product manager to be running multiple experiments every week, but how common is it for a product manager to spend face time with multiple customers every week? Why is that?
 
-The vibe I get from our industry today is that product managers believe measurable data and analytical reasoning are king and result in superior decisions. Many even believe with enough effort, they can measure emotion. They see emotions in their analytical world view: as a (difficult) metric to be measured, tested, and improved. This is how we end up associating ideas like Churn (an artifact of your billing data) with an emotion like Frustration (an emotion a human feels). But emotion can't be measured, it must be felt.
+The vibe I get from our industry today is that product managers believe measurable data and analytical reasoning are king and result in superior decisions. Many even believe with enough effort, they can measure emotion. They see emotions in their analytical world view: as a (difficult) metric to be measured, tested, and improved. This is how we end up associating ideas like Churn (an artifact of your billing data) with an emotion like Frustration (something a human feels). But emotion can't be measured, it must be felt.
 
 What happens when we stop trying to measure emotion and start feeling it instead?
 
