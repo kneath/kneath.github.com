@@ -3,6 +3,8 @@ layout: default
 title: "Talks & Presentations"
 ---
 
+<p class="intro">I've been lucky enough that conferences keep making the mistake that I have something interesting to talk about — here's a sample of some of my previous talks.</p>
+
 ## [Choose Your Adventure!](/talks/chooseyouradventure)
 
 Designers can't be developers and companies who build web apps can't build desktop apps. Well, maybe in 1997 — but it's 2012. Things done changed. It's time to focus on building amazing companies full of fantastic people. Build amazing apps that people love to use. Screw false specialization, iOS shops, and mobile-only products. We're people building apps for other people to use on technofantastical devices of tomorrow.
