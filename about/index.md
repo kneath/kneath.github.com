@@ -40,7 +40,7 @@ To this day, Pull Requests are my favorite thing I've ever worked on. It was inc
 
 When I joined GitHub, the site only allowed personal accounts. My first big project was tackling the design for Organizations — our answer to shared accounts for businesses and open source teams.
 
-Organizations were more successful than I would have imagined, and grew into one of the most critical features of the site, having a tremendous impact on the growth of the business.
+Organizations were more successful than I would have imagined, and grew into one of the most critical features of the site, having a tremendous impact on the growth of the business along the way.
 
 ### [GitHub for Mac](https://github.com/blog/878-announcing-github-for-mac)
 
