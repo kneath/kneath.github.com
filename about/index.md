@@ -3,44 +3,78 @@ layout: default
 title: "About Kyle Neath"
 ---
 
-<div class="about-image">
-  <img src="http://assets.warpspire.com/images/site/dubious-kyle.jpg" />
-  <h1>Kyle Neath</h1>
-  <p class="intro">
-    That&rsquo;s me, the guy publishing this site. Hi.
-  </p>
-</div>
+# Hi. I'm Kyle.
 
-I use Warpspire to collect interesting links, publish opinions, and review software / games / books. I try to keep the site focused on technology-focused product design and it's impact on this world. But sometimes I just publish things that pique my interest. If you're looking to get started, here's some of my favorite articles:
+Hi, my name is **Kyle Neath** and I use _Warpspire_ to collect my thoughts about product design, software development, and share any interesting links I come across.
 
+Most of my experience has been focused on the design & growth of software products and leading the teams that build them. Usually that means bouncing between user research, feature design/development, and growth analysis.
+
+Basically: ***I like to build really great products that last.***
+
+If you're looking to read something I've written, here's some of my favorite articles:
+
+* [Product](/posts/product/)
+* [Taste and The Zen of GitHub](/posts/taste/)
 * [Pixels don't care](/posts/pixels-dont-care/)
 * [Designing GitHub for Mac](/posts/designing-github-mac/)
-* [Product design at GitHub](http://warpspire.com/posts/product-design/)
+
+I most recently lead Product at GitHub, but decided to leave in mid 2014 for personal/family/balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kneath@gmail.com">send me an email</a>.
 
 * * * *
 
-## About me
+I've had the privilege of working with some of the smartest people in software throughout my career, and as a result I've been able to be a part of some really exciting projects.
 
-I'm pretty critical of software.
-I think software should be enjoyable to use and affect the world in a positive manner.
-That's unfortunately not quite the world we live in.
-But I still deeply love software — I think it's one of the most powerful inventions of humankind.
-And I can't help think that we could do so much more if we held ourselves to higher standards.
+## GitHub 2009-2014
 
-I'm a bit of a hippie, a bit of a capitalist, and a hyperbolic crazy person in between.
-But you know, maybe that's just the side effects of working in software for this long.
+In 2009, I joined a small but fast-growing [GitHub](https://github.com) as their first design hire to grow the product and see where it might lead.
 
-I've been designing things for the internet since 1997.
-For years I was a tinkerer, building web sites for games I loved. I tinkered with static sites, blogs, themes, ([Hemingway](https://github.com/kneath/hemingway)), forums, community sites (Drum Report, Total Spore, Poetry With Meaning), and even building my [own game](https://github.com/kneath/nightfire).
-In 2007, when I completed my degree in Civil Engineering, I decided to take my part time job at [Web Associates](http://en.wikipedia.org/wiki/LEVEL_Studios) full time and dive into technology for my career.
-I worked on big-name brands for a while until I left to join [ENTP](http://entp.com/) where among other things, I designed [Tender](http://tenderapp.com/).
-In 2009, I joined [GitHub](https://github.com) where, until 2014, I was head of product, growing github.com to over a million active users, and revenues by a factor of 50.
+### [The Pull Request](https://github.com/blog/712-pull-requests-2-0)
 
-> The mountains are calling and I must go.
->
-> — *John Muir*
+GitHub had pull requests well before I joined, but at the time they were little more than [a button that sent a message](https://github.com/blog/3-oh-yeah-there-s-pull-requests-now). I was able to pair up with [@rtomayko](http://2ndscale.com/) and [@schacon](http://scottchacon.com/) to revisit pull requests and make them first-class citizens in the product.
 
-For now, I'm back to tinkering while I spend some time with my Dad, enjoying the mountains in Dunsmuir, CA.
+We looked at some commonly used strategies for reviewing code in Git, and tried our best to marry them to GitHub's collaboration & discussion features. We shipped the foundation for pull requests with [Compare View](https://github.com/blog/612-introducing-github-compare-view), and iterated on our ideas until we ended up with first-class pull requests: [Pull Requests 2.0](https://github.com/blog/712-pull-requests-2-0).
+
+To this day, Pull Requests are my favorite thing I've ever worked on. It was incredible watching the feature grow from our need for better code review to the power-house feature that sits at the core of GitHub today.
+
+### [Organizations](https://github.com/blog/674-introducing-organizations)
+
+When I joined GitHub, the site only allowed personal accounts. My first big project was tackling the design for Organizations — our answer to shared accounts for businesses and open source teams.
+
+Organizations were more successful than I would have imagined, and grew into one of the most critical features of the site, having a tremendous impact on the growth of the business.
+
+### [GitHub for Mac](https://github.com/blog/878-announcing-github-for-mac)
+
+We knew early on at GitHub that one of our biggest barriers to growth was the same force that fueled so much of our growth: Git. Git was designed first and foremost for the command line — and the command line can be a scary place. As time went on, it became more and more obvious that we needed to solve this problem ourselves. This is how the idea for [GitHub for Mac](https://mac.github.com) was born.
+
+I was fortunate enough to work along side [@joshaber](https://joshaber.github.io/) to build out 1.0. You can read more about that process in my article [Designing GitHub for Mac](http://warpspire.com/posts/designing-github-mac/).
+
+### [GitHub Jobs](https://github.com/blog/687-github-jobs-pre-launch)
+
+Early on, we explored a few different ideas for companion products to GitHub, one of which was trying to connect employers with developers seeking work. I worked with [@pjhyett](http://hyett.com/), [@defunkt](https://github.com/defunkt), and [@rtomayko](http://2ndscale.com) to design, re-design, and ship the first version of [GitHub Jobs](https://jobs.github.com).
+
+Jobs ended up being one of the more interesting products I've worked on for an odd reason: I think it might be the most efficient software project I've ever participated in. We were able to build out the initial version in just a couple of weeks, it required very little maintenance, and enjoyed a lasting success. It's not the most ground-breaking product, but not everything needs to be.
+
+### [KSS](/posts/kss/) (Knyle Style Sheets)
+
+As the company grew, my focus shifted from development to building out our design team. This shift inspired [KSS](https://github.com/kneath/kss), a tool to document CSS and automate the creation style guides.
+
+## ENTP 2008-2009
+
+After leaving Web Associates, I worked at a small consultancy named ENTP lead by [@court3nay](https://twitter.com/court3nay). I worked on a mix of client work and product development during my time there, most notably working with [@technoweenie](http://techno-weenie.net/) to design, build out, and grow the first version of [Tender](https://tenderapp.com).
+
+## Web Associates 2004-2008
+
+Web Associates was my first real entry into professional software development. I spent the better part of 4 years doing front end development working on projects for Fortune 500 clients. WA was fun. It was fast paced. It was stressful and frustrating. It was an agency.
+
+I learned more than I ever could have imagined from my time at WA, and I owe everyone I worked with my gratitude. For lack of a better phrase, it was the crucible that shaped my skills.
+
+* * * *
+
+And that's a lot to read. I really hope you skimmed most of it. Just in case you didn't and still want to know more, feel free to hit me up at <kneath@gmail.com>.
+
+<div class="about-image">
+  <img src="http://assets.warpspire.com/images/site/dubious-kyle.jpg" />
+</div>
 
 <div class="keep-in-touch">
   <p>
