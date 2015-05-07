@@ -18,7 +18,7 @@ If you're looking to read something I've written, here's some of my favorite art
 * [Pixels don't care](/posts/pixels-dont-care/)
 * [Designing GitHub for Mac](/posts/designing-github-mac/)
 
-I most recently lead Product at GitHub, but decided to leave in mid 2014 for personal/family/balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kneath@gmail.com">send me an email</a>.
+I most recently lead Product at GitHub, but decided to leave in mid 2014 for family & balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kneath@gmail.com">send me an email</a>.
 
 * * * *
 
