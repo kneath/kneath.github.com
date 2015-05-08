@@ -55,7 +55,7 @@ Jobs ended up being one of the more interesting products I've worked on for an o
 
 ### [KSS](/posts/kss/) (Knyle Style Sheets)
 
-As the company grew, my focus shifted from development to building out our design team. This shift inspired [KSS](https://github.com/kneath/kss), a tool to document CSS and automate the creation style guides. KSS has gone on to become much more popular than I'd imagined, and is by far my most popular open source project (even eclipsing Hemingway!).
+As the company grew, my focus shifted from development to building out our design team. This shift inspired [KSS](https://github.com/kneath/kss), a tool to document CSS and automate the creation of style guides. KSS has gone on to become much more popular than I'd imagined, and is by far my most popular open source project (even eclipsing Hemingway!).
 
 I'm just happy people are finally documenting their CSS.
 
