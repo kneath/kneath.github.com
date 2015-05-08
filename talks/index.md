@@ -7,7 +7,9 @@ title: "Talks & Presentations"
 
 ## [How do you build great software?](https://speakerdeck.com/kneath/how-do-you-build-great-software)
 
-A bit of a rambling talk I gave at *Brooklyn Beta 2013* about the importance of your surroundings. This talk covers some of GitHub's approach to company development and the importance of the tools you use.
+A bit of a rambling talk I gave at Brooklyn Beta about the importance of your surroundings. This talk covers some of GitHub's approach to company development and the importance of the tools you use.
+
+[Slides](https://speakerdeck.com/kneath/how-do-you-build-great-software) from this presentation given at *Brooklyn Beta 2013*.
 
 ## [Building an Army of Robots](https://speakerdeck.com/kneath/building-an-army-of-robots)
 
@@ -15,13 +17,13 @@ There's nothing quite like writing code to automate a task. It's like bottled sa
 
 Robots improve quality of life. Robots remove the separation between programmers and designers. They replace managers and large QA departments. They ensure GitHub continues to be a company full of hackers.
 
-Given at *Valio Con 2012* and *Nordic Ruby 2012*.
+[Slides](https://speakerdeck.com/kneath/building-an-army-of-robots) from this presentation given at *Valio Con 2012* and *Nordic Ruby 2012*.
 
 ## [A better future with KSS](https://speakerdeck.com/kneath/a-better-future-with-kss)
 
 What is KSS, and where did it come from? I wrote this talk to introduce the audience to some of the best parts of KSS, and how it came to be.
 
-[Video is available](https://vimeo.com/49596147) from this talk tiven at *Webshaped 2012*.
+[Video](https://vimeo.com/49596147) and [slides](https://speakerdeck.com/kneath/a-better-future-with-kss) from this presentation given at *Webshaped 2012*.
 
 ## [Choose Your Adventure!](/talks/chooseyouradventure)
 
