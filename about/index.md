@@ -18,7 +18,7 @@ If you're looking to read something I've written, here's some of my favorite art
 * [Pixels don't care](/posts/pixels-dont-care/)
 * [Designing GitHub for Mac](/posts/designing-github-mac/)
 
-I most recently lead Product at GitHub, but decided to leave in mid 2014 for family & balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kneath@gmail.com">send me an email</a>.
+I most recently lead Product at GitHub, but decided to leave in mid 2014 for family & balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kyle@warpspire.com">send me an email</a>.
 
 * * * *
 
@@ -70,7 +70,7 @@ I learned more than I ever could have imagined from my time at WA, and I owe eve
 
 * * * *
 
-And that's a lot to read. I really hope you skimmed most of it. Just in case you didn't and still want to know more, feel free to hit me up at <kneath@gmail.com>.
+And that's a lot to read. I really hope you skimmed most of it. Just in case you didn't and still want to know more, feel free to hit me up at <kyle@warpspire.com>.
 
 <div class="about-image">
   <img src="http://assets.warpspire.com/images/site/dubious-kyle.jpg" />
@@ -78,6 +78,6 @@ And that's a lot to read. I really hope you skimmed most of it. Just in case you
 
 <div class="keep-in-touch">
   <p>
-    If you'd like to keep in touch, I tweet <a href="https://twitter.com/kneath">@kneath</a> on Twitter. You're also welcome to send a polite email to <a href="mailto:kneath@gmail.com">kneath@gmail.com</a>. I don't always get the chance to respond, but email is always the best way to get in touch.
+    If you'd like to keep in touch, I tweet <a href="https://twitter.com/kneath">@kneath</a> on Twitter. You're also welcome to send a polite email to <a href="mailto:kyle@warpspire.com">kyle@warpspire.com</a>. I don't always get the chance to respond, but email is always the best way to get in touch.
   </p>
 </div>
