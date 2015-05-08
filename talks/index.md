@@ -5,6 +5,24 @@ title: "Talks & Presentations"
 
 <p class="intro">I've been lucky enough that conferences keep making the mistake that I have something interesting to talk about — here's a sample of some of my previous talks.</p>
 
+## [How do you build great software?](https://speakerdeck.com/kneath/how-do-you-build-great-software)
+
+A bit of a rambling talk I gave at *Brooklyn Beta 2013* about the importance of your surroundings. This talk covers some of GitHub's approach to company development and the importance of the tools you use.
+
+## [Building an Army of Robots](https://speakerdeck.com/kneath/building-an-army-of-robots)
+
+There's nothing quite like writing code to automate a task. It's like bottled satisfaction for coders. With that in mind, I want to introduce you to GitHub's army of robots. Robots to test our code and deploy. Robots to open doors. Robots to play our music. Robots to record videos of presenters. Robots to serve us beer.
+
+Robots improve quality of life. Robots remove the separation between programmers and designers. They replace managers and large QA departments. They ensure GitHub continues to be a company full of hackers.
+
+Given at *Valio Con 2012* and *Nordic Ruby 2012*.
+
+## [A better future with KSS](https://speakerdeck.com/kneath/a-better-future-with-kss)
+
+What is KSS, and where did it come from? I wrote this talk to introduce the audience to some of the best parts of KSS, and how it came to be.
+
+[Video is available](https://vimeo.com/49596147) from this talk tiven at *Webshaped 2012*.
+
 ## [Choose Your Adventure!](/talks/chooseyouradventure)
 
 Designers can't be developers and companies who build web apps can't build desktop apps. Well, maybe in 1997 — but it's 2012. Things done changed. It's time to focus on building amazing companies full of fantastic people. Build amazing apps that people love to use. Screw false specialization, iOS shops, and mobile-only products. We're people building apps for other people to use on technofantastical devices of tomorrow.
