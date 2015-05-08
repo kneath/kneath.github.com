@@ -13,10 +13,9 @@ Most of my experience has been focused on the design & growth of software produc
 
 If you're looking to read something I've written, here's some of my favorite articles:
 
-* [Product](/posts/product/)
 * [Taste and The Zen of GitHub](/posts/taste/)
+* [Product](/posts/product/)
 * [Pixels don't care](/posts/pixels-dont-care/)
-* [Designing GitHub for Mac](/posts/designing-github-mac/)
 
 I most recently lead Product at GitHub, but decided to leave in mid 2014 for family & balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kyle@warpspire.com">send me an email</a>.
 
