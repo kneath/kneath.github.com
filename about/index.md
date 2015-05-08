@@ -5,7 +5,7 @@ title: "About Kyle Neath"
 
 # Hi. I'm Kyle.
 
-Hi, my name is **Kyle Neath** and I use _Warpspire_ to collect my thoughts about product design, software development, and share any interesting links I come across.
+Hi, my name is **Kyle Neath** and I use _Warpspire_ to collect my thoughts about product design & development.
 
 Most of my experience has been focused on the design & growth of software products and leading the teams that build them. Usually that means bouncing between user research, feature design/development, and growth analysis.
 
