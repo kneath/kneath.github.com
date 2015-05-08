@@ -17,11 +17,11 @@ If you're looking to read something I've written, here's some of my favorite art
 * [Product](/posts/product/)
 * [Pixels don't care](/posts/pixels-dont-care/)
 
-I most recently lead Product at GitHub, but decided to leave in mid 2014 for family & balance reasons. I'm currently working on a few projects of my own, but I'm open to future opportunities and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kyle@warpspire.com">send me an email</a>.
+Most recently, I lead Product at GitHub, but decided to leave in mid 2014 to be able to spend time with my family during a difficult patch, and regain some balance in my life. I'm currently working on a few projects of my own, but I'm open to future opportunities, and available for limited consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kyle@warpspire.com">send me an email</a>.
 
 * * * *
 
-I've had the privilege of working with some of the smartest people in software throughout my career, and as a result I've been able to be a part of some really exciting projects.
+I've been able to work with some seriously smart individuals throughout my career, and as a result, I've been able to be a part of some really exciting projects. These are some I'm most proud of.
 
 ## GitHub 2009-2014
 
@@ -55,15 +55,19 @@ Jobs ended up being one of the more interesting products I've worked on for an o
 
 ### [KSS](/posts/kss/) (Knyle Style Sheets)
 
-As the company grew, my focus shifted from development to building out our design team. This shift inspired [KSS](https://github.com/kneath/kss), a tool to document CSS and automate the creation style guides.
+As the company grew, my focus shifted from development to building out our design team. This shift inspired [KSS](https://github.com/kneath/kss), a tool to document CSS and automate the creation style guides. KSS has gone on to become much more popular than I'd imagined, and is by far my most popular open source project (even eclipsing Hemingway!).
+
+I'm just happy people are finally documenting their CSS.
 
 ## ENTP 2008-2009
 
 After leaving Web Associates, I worked at a small consultancy named ENTP lead by [@court3nay](https://twitter.com/court3nay). I worked on a mix of client work and product development during my time there, most notably working with [@technoweenie](http://techno-weenie.net/) to design, build out, and grow the first version of [Tender](https://tenderapp.com).
 
+ENTP had a pretty good idea of what they wanted going in: a helpdesk system that integrated with their flagship product [Lighthouse](http://lighthouseapp.com/). In a few months time, we were able to design, build, ship, and start earning money on this new venture, soon to be known as Tender Support.
+
 ## Web Associates 2004-2008
 
-Web Associates was my first real entry into professional software development. I spent the better part of 4 years doing front end development working on projects for Fortune 500 clients. WA was fun. It was fast paced. It was stressful and frustrating. It was an agency.
+Web Associates was my first real entry into professional software development. I spent the better part of 4 years doing front end development working on projects for Apple, RIM, Oakley, Disney, Motorola, and Hewlett-Packard. WA was fun. It was fast paced. It was stressful and frustrating. It was an agency.
 
 I learned more than I ever could have imagined from my time at WA, and I owe everyone I worked with my gratitude. For lack of a better phrase, it was the crucible that shaped my skills.
 
