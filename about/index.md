@@ -17,7 +17,7 @@ If you're looking to read something I've written, here's some of my favorite art
 * [Product](/posts/product/)
 * [Pixels don't care](/posts/pixels-dont-care/)
 
-Most recently, I lead Product at GitHub where I spent five years growing the product and building out the design team. I'm currently working on a few projects of my own in my new home of Dunsmuir, but I'm on the lookout for future opportunities, and available for short-term consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kyle@warpspire.com">send me an email</a>.
+Most recently, I lead Product at GitHub where I spent five years growing the product and building out the design team. I'm currently working on a few projects of my own, but I'm on the lookout for future opportunities and available for short-term consulting in the areas of product design & growth strategy. If you'd like to get in touch, <a href="mailto:kyle@warpspire.com">send me an email</a>.
 
 * * * *
 
