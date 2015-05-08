@@ -5,13 +5,19 @@ title: "Talks & Presentations"
 
 <p class="intro">I've been lucky enough that conferences keep making the mistake that I have something interesting to talk about — here's a sample of some of my previous talks.</p>
 
+## [Leading a distributed team of introverts](https://speakerdeck.com/kneath/leading-a-distributed-team-of-introverts)
+
+Most management today is focused on activities for extroverts — but what tools can we use to lead teams that consist mostly of introverts?
+
+[Slides](https://speakerdeck.com/kneath/leading-a-distributed-team-of-introverts) from this presentation given at *UX Week 2014*.
+
 ## [How do you build great software?](https://speakerdeck.com/kneath/how-do-you-build-great-software)
 
 A bit of a rambling talk I gave at Brooklyn Beta about the importance of your surroundings. This talk covers some of GitHub's approach to company development and the importance of the tools you use.
 
 [Slides](https://speakerdeck.com/kneath/how-do-you-build-great-software) from this presentation given at *Brooklyn Beta 2013*.
 
-## [Building an Army of Robots](https://speakerdeck.com/kneath/building-an-army-of-robots)
+## [Building an army of robots](https://speakerdeck.com/kneath/building-an-army-of-robots)
 
 There's nothing quite like writing code to automate a task. It's like bottled satisfaction for coders. With that in mind, I want to introduce you to GitHub's army of robots. Robots to test our code and deploy. Robots to open doors. Robots to play our music. Robots to record videos of presenters. Robots to serve us beer.
 
