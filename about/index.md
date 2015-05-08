@@ -61,7 +61,7 @@ I'm just happy people are finally documenting their CSS.
 
 ## ENTP 2008-2009
 
-After leaving Web Associates, I worked at a small consultancy named ENTP lead by [@court3nay](https://twitter.com/court3nay). I worked on a mix of client work and product development during my time there, most notably working with [@technoweenie](http://techno-weenie.net/) to design, build out, and grow the first version of [Tender](https://tenderapp.com).
+After leaving Web Associates, I worked at a small consultancy named ENTP led by [@court3nay](https://twitter.com/court3nay). I worked on a mix of client work and product development during my time there, most notably working with [@technoweenie](http://techno-weenie.net/) to design, build out, and grow the first version of [Tender](https://tenderapp.com).
 
 ENTP had a pretty good idea of what they wanted going in: a helpdesk system that integrated with their flagship product [Lighthouse](http://lighthouseapp.com/). In a few months time, we were able to design, build, ship, and start earning money on this new venture, soon to be known as Tender Support.
 
