@@ -7,7 +7,7 @@ title: "About Kyle Neath"
 
 Hi, my name is **Kyle Neath** and I use _Warpspire_ to collect my thoughts about product design & development.
 
-Most of my experience has been focused on the design & growth of software products and leading the teams that build them. Usually that means bouncing between user research, feature design/development, and growth analysis.
+Most of my experience has been focused on the design & growth of software products and leading the teams that build them. Usually that means bouncing between user research, feature design/development, growth analysis, and team coordination.
 
 Basically: ***I like to build really great products that last.***
 
