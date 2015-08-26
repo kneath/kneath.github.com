@@ -66,7 +66,7 @@ Product teams are fueled by context. With a small team and a small customer base
 
 The most common poison for a product team is communication overhead. In order to put up the best solution for the problem, you need to be able to get lost in it. You need long stretches of uninterrupted time<sup><a href="#footnote2">2</a></sup> to do your job best. Most businesses don't admit how costly things like company wide announcements, project management, interviewing, internal politics, and large scale collaboration are on productivity. They all work against flow, and should be considered a handicap on product teams. Small teams substitute process with trust, eliminating overhead.
 
-It's an order of magnitude easier to change direction with a small company. Big companies are like cargo ships — they *can* turn, but it's going to take quite a while. **You don't have to force bad ideas.** Bad ideas can fail and be replaced by good ideas. This is how you build a good product.
+It's an order of magnitude easier to change direction with a small company. Big companies are like cargo ships — they *can* turn, but it's going to take quite a while. Being able to change direction quickly makes it cheaper to throw away an idea that isn't panning out well. **You don't have to force bad ideas.** Bad ideas can fail and be replaced by good ideas. This is how you build a good product.
 
 ## Make Money
 
