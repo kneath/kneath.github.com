@@ -18,7 +18,7 @@ I can't help but feel  our industry doesn't think this way anymore. It feels lik
 
 This shift in mindset has made Silicon Valley feel like some kind of Wall Street 2.0 Incubator. We've attracted the worst kinds of people to our industry, grown our companies recklessly fast, insulted our customers with security breaches & poor quality, exploited our employees, and signed away most of our winnings to professional executives and venture capitalists. We stopped building products that allow people to do more. Now we build products that make people use more.
 
-Working in software isn't as exciting anymore. Reasons to be excited are drowned out by  assholes announcing how busy they've been fucking people over to make themselves rich. **It's embarrassing.**
+Working in software isn't as exciting as it used to be. Reasons to be excited are drowned out by  assholes announcing how busy they've been fucking people over to make themselves rich. **It's embarrassing.**
 
 I don't think Unicorns are good for our industry.
 
