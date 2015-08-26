@@ -70,7 +70,7 @@ It's an order of magnitude easier to change direction with a small company. Big 
 
 ## Make Money
 
-Ignoring the valuation game makes the whole process of making money extremely make forward. The more money you bring in, the less money you spend, the more money you take home.
+Ignoring the valuation game makes the whole process of making money extremely straight forward. The more money you bring in, the less money you spend, the more money you take home.
 
 Software is an extremely high margin business. We have all kinds of financial  freedom that other businesses never experience. Once you get to the point where you can make payroll, money starts to add up fast. Other businesses require additional storefronts, employees, or raw materials to grow. But software doesn't work that way. A 3 person product team can grow a product indefinitely.
 
