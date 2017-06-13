@@ -13,9 +13,9 @@ Most of my experience has been focused on the design & growth of software produc
 
 If you're looking to read something I've written, here's some of my favorite articles:
 
-* [Taste and The Zen of GitHub](/posts/taste/)
-* [Product](/posts/product/)
-* [Pixels don't care](/posts/pixels-dont-care/)
+* [Taste and The Zen of GitHub](/posts/taste)
+* [Product](/posts/product)
+* [Pixels don't care](/posts/pixels-dont-care)
 
 Most recently, I led Product at GitHub where I spent five years growing the product and building out the design team. Right now I'm spending most of my time in the Sierras, working on [Leaping Daisy](http://leapingdaisy.com), and dabbling in software a bit. _The mountains are calling, and I must go._
 
@@ -45,7 +45,7 @@ Organizations were more successful than I would have imagined, and grew into one
 
 We knew early on at GitHub that one of our biggest barriers to growth was the same force that fueled so much of our growth: Git. Git was designed first and foremost for the command line — and the command line can be a scary place. As time went on, it became more and more obvious that we needed to solve this problem ourselves. This is how the idea for [GitHub for Mac](https://mac.github.com) was born.
 
-I was fortunate enough to work along side [@joshaber](https://joshaber.github.io/) to build out 1.0. You can read more about that process in my article [Designing GitHub for Mac](http://warpspire.com/posts/designing-github-mac/).
+I was fortunate enough to work along side [@joshaber](https://joshaber.github.io/) to build out 1.0. You can read more about that process in my article [Designing GitHub for Mac](http://warpspire.com/posts/designing-github-mac).
 
 ### [GitHub Jobs](https://github.com/blog/687-github-jobs-pre-launch)
 
