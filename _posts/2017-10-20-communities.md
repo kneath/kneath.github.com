@@ -9,7 +9,7 @@ I know of a man who owns land in Montana. His dream is to prove a theory about d
 
 But you can only do these things under his rules. His rules are somewhat strange to most people. You cannot use paint. You must listen to 200+ rambling podcasts. You cannot import compost from outside the property. You cannot use plywood. You can't smoke pot. His dream, his rules. It has been slow recruiting people to join his effort. But that's okay. It's his rules, and he wants a community after his own design. He has chosen exactly what he wants his community to look like: people like him.
 
-Can you imagine having an _acre_ of land for cheaper than week's rent in San Francisco?
+Can you imagine having an _acre_ of land for cheaper than a week's rent in San Francisco?
 
 * * * *
 
