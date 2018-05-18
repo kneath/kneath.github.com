@@ -32,7 +32,7 @@ I've long been a believer that your environment significantly shapes the type of
 Think about [Agile/XP User Stories](http://www.agilemodeling.com/artifacts/userStory.htm). The original purpose of a User Story was to produce an estimate for work. But the unintended consequence is that User Stories have become a popular tool for product managers who believe they are communicating the perspective of customers. Why describe functionality when you can communicate what the customer wants?
 
 <div class="figure">
-	<img src="http://assets.warpspire.com/images/measuring-emotion/user-story.jpg" alt="An example User Story" />
+	<img src="https://assets.warpspire.com/images/measuring-emotion/user-story.jpg" alt="An example User Story" />
 </div>
 
 But this is reality only by the numbers. I guarantee you that no one *wants* to purchase a parking pass. Many people want a parking pass, but no one wants to purchase it. This Story is useful as a feature requirement, but in no way does it communicate the perspective of the user. What would happen if we actually tried to communicate the perspective of a user?

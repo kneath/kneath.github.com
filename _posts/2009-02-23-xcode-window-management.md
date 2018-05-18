@@ -20,7 +20,7 @@ Tabs have clearly proven themselves to be a superior method for editing multiple
 ### Case #1: Window-based management FTW, Photoshop
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/xcode-windows/photoshop_full.jpg"><img src="http://assets.warpspire.com/images/xcode-windows/photoshop.jpg" /></a>
+  <a href="https://assets.warpspire.com/images/xcode-windows/photoshop_full.jpg"><img src="https://assets.warpspire.com/images/xcode-windows/photoshop.jpg" /></a>
   <small>Example of window management in Photoshop</small>
 </div>
 
@@ -34,7 +34,7 @@ Some more points on why this works so well:
 ### Case #2: Tab-based management FTW, Texmtate
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/xcode-windows/textmate_full.jpg"><img src="http://assets.warpspire.com/images/xcode-windows/textmate.jpg" /></a>
+  <a href="https://assets.warpspire.com/images/xcode-windows/textmate_full.jpg"><img src="https://assets.warpspire.com/images/xcode-windows/textmate.jpg" /></a>
   <small>Example of window management in Texmate</small>
 </div>
 
@@ -48,7 +48,7 @@ Some points on why this works so well:
 ### Case #3: WTF-based management FTL, Xcode
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/xcode-windows/xcode_full.jpg"><img src="http://assets.warpspire.com/images/xcode-windows/xcode.jpg" /></a>
+  <a href="https://assets.warpspire.com/images/xcode-windows/xcode_full.jpg"><img src="https://assets.warpspire.com/images/xcode-windows/xcode.jpg" /></a>
   <small>Example of window management in Xcode</small>
 </div>
 

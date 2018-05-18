@@ -14,7 +14,7 @@ A few days ago we lifted the curtains on a project I've been deep into for a lon
 For a long time I assumed OS X developers would see the immense market for an awesome Git application. Unfortunately for everyone involved, every OS X application that's showed up over the years gave up and tried to turn CLI commands into buttons.
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/githubmac/tower.png" alt="Screenshot of Git Tower" />
+  <img src="https://assets.warpspire.com/images/githubmac/tower.png" alt="Screenshot of Git Tower" />
 </div>
 
 Clients claiming to be "simple" choose to redefine "simple" as fewer supported Git commands rather than simplifying the interaction with Git.
@@ -42,12 +42,12 @@ I didn't want to replace the command line. **I wanted to build an awesome versio
 The first thing we did was to start populating an internal wiki full of ideas. Lots of words, lots of sketches.
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/sketchbook-full.png"><img src="http://assets.warpspire.com/images/githubmac/sketchbook.png" alt="My beloved sketchbook" /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/sketchbook-full.png"><img src="https://assets.warpspire.com/images/githubmac/sketchbook.png" alt="My beloved sketchbook" /></a>
   <small>Incomprehensible pages from my Moleskine</small>
 </div>
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/scottmock-full.png"><img src="http://assets.warpspire.com/images/githubmac/scottmock.png" alt="Scott's mockups" /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/scottmock-full.png"><img src="https://assets.warpspire.com/images/githubmac/scottmock.png" alt="Scott's mockups" /></a>
   <small>Scott created a bunch of mockups with Balsamiq</small>
 </div>
 
@@ -56,17 +56,17 @@ The first thing we did was to start populating an internal wiki full of ideas. L
 I'd been using OS X for years, but I didn't feel comfortable designing a native app. My previous attempts at OS X design weren't too fantastic…
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/storia-full.png"><img src="http://assets.warpspire.com/images/githubmac/storia.png" alt="An abandoned design direction." /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/storia-full.png"><img src="https://assets.warpspire.com/images/githubmac/storia.png" alt="An abandoned design direction." /></a>
 </div>
 
 In the end, we hired [Eddie Wilson](http://eddit.com/) to come up with some wireframes and some comps while [Joe](https://twitter.com/#!/joericioppo) and [Josh](https://twitter.com/#!/joshaber) cranked away at the Cocoa backend. His first comps were a great start, and influenced the end product tremendously.
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/eddit1-full.png"><img src="http://assets.warpspire.com/images/githubmac/eddit1.png" alt="Eddie's mockup" /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/eddit1-full.png"><img src="https://assets.warpspire.com/images/githubmac/eddit1.png" alt="Eddie's mockup" /></a>
 </div>
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/eddit2-full.png"><img src="http://assets.warpspire.com/images/githubmac/eddit2.png" alt="Eddie's mockup" /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/eddit2-full.png"><img src="https://assets.warpspire.com/images/githubmac/eddit2.png" alt="Eddie's mockup" /></a>
 </div>
 
 Unfortunately right about this time is when we learned how much we suck at working with contractors. We're extremely opinionated, really bad at expressing our opinions, and change our minds all the time. We asked Eddie to hold off while we re-grouped and figured out what we wanted from the app.
@@ -82,13 +82,13 @@ In the end, I decided that GitHub for Mac was *the thing* I wanted out of GitHub
 I tried my best to combine Eddie's original comps with our internal feedback and match it up with a modern OS X look & feel. All in all I created 45 comps for 1.0 — each with about 5-10 unique states (with layer groups).
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/comps-full.png"><img src="http://assets.warpspire.com/images/githubmac/comps.png" alt="All my mockups" /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/comps-full.png"><img src="https://assets.warpspire.com/images/githubmac/comps.png" alt="All my mockups" /></a>
 </div>
 
 After the first round of comps, I started writing down how I imagined everything to work.
 
 <div class="figure">
-  <a href="http://share.kyleneath.com/secrets/08bce2/"><img src="http://assets.warpspire.com/images/githubmac/styleguide.png" alt="The styleguide" /></a>
+  <a href="http://share.kyleneath.com/secrets/08bce2/"><img src="https://assets.warpspire.com/images/githubmac/styleguide.png" alt="The styleguide" /></a>
 </div>
 
 My plan was to fully flesh out this styleguide — but as it happened, [Josh](https://twitter.com/#!/joshaber) was able to implement my designs faster than I could explain them. Still, I think it was a good exercise to explain my thinking for the designs — if anything for my own personal benefit.
@@ -98,7 +98,7 @@ My plan was to fully flesh out this styleguide — but as it happened, [Josh](ht
 Learning the OS X aesthetic wasn't easy. And it probably didn't help that I started to get serious about OS X design about the same time Lion screenshots started showing up. Like it or not, OS X app design is changing in drastic ways right now.
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/githubmac/lion.png" alt="Lion screenshot" /></a>
+  <img src="https://assets.warpspire.com/images/githubmac/lion.png" alt="Lion screenshot" /></a>
 </div>
 
 Scrollbars are a thing of the past. Titlebars full of clickable areas. Buttons shedding themselves of borders. Custom graphics / buttons for every app. And Helvetica everywhere!
@@ -106,17 +106,17 @@ Scrollbars are a thing of the past. Titlebars full of clickable areas. Buttons s
 I tried my best to weigh this new direction with a lot of my favorite designed apps — [Twitter](http://itunes.apple.com/us/app/twitter/id409789998?mt=12), [Espresso](http://macrabbit.com/espresso/), [Sparrow](http://sparrowmailapp.com/), and [Transmit](http://www.panic.com/transmit/) to name a few.
 
 <div class="figure">
-  <a href="http://assets.warpspire.com/images/githubmac/onepointoh-full.png"><img src="http://assets.warpspire.com/images/githubmac/onepointoh.png" alt="1.0" /></a>
+  <a href="https://assets.warpspire.com/images/githubmac/onepointoh-full.png"><img src="https://assets.warpspire.com/images/githubmac/onepointoh.png" alt="1.0" /></a>
 <small>Tweetie style side-tabs. No title in the window, instead a breadcrumb — always promoting a one-window experience.</small>
 </div>
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/githubmac/popover.png" alt="Popover" />
+  <img src="https://assets.warpspire.com/images/githubmac/popover.png" alt="Popover" />
 <small>We use a lot of popovers (borrowed from iOS / XCode) rather than modal windows throughout the app.</small>
 </div>
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/githubmac/sync.png" alt="Sync button" />
+  <img src="https://assets.warpspire.com/images/githubmac/sync.png" alt="Sync button" />
 <small>Subtle buttons in the title bar.</small>
 </div>
 
@@ -129,7 +129,7 @@ Designing a native OS X app was definitely full of surprises. I've actually done
 Remember web development in 2004? When you had to create pixel-perfect comps because every element on screen was an image? That's what developing for Cocoa is. Drawing in code is *slow* and *painful*. Images are easier to work with and result in more performant code.
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/githubmac/slices.png" alt="All of the slices" />
+  <img src="https://assets.warpspire.com/images/githubmac/slices.png" alt="All of the slices" />
 <small>Remember these days?</small>
 </div>
 
@@ -140,7 +140,7 @@ This meant my Photoshop files had to be a *lot* more fleshed out than I've been 
 Want to move an element from the bottom of the screen to the top? A lot of times with Cocoa this involves rewriting your entire view. There is *no layout engine* for Cocoa. If you want two elements to rest side to side, you'll need to calculate the pixel size of the text, padding, borders, margins — then manually position the next element.
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/githubmac/interfacebuilder.png" alt="A typical xib file" />
+  <img src="https://assets.warpspire.com/images/githubmac/interfacebuilder.png" alt="A typical xib file" />
 <small>What about Interface Builder? Pretty useless. Everything is a blue box on complex projects.</small>
 </div>
 

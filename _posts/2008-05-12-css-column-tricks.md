@@ -10,7 +10,7 @@ I believe the recent surge in popularity of CSS frameworks comes from a lack of 
 ## Your margins are doubled in IE6
 
 <div class="figure">
-<img src="http://assets.warpspire.com/images/css-column-tricks/ie6doublefloat.gif" />
+<img src="https://assets.warpspire.com/images/css-column-tricks/ie6doublefloat.gif" />
 </div>
 
 Here's a super common pitfall: IE6 will double margins facing the direction of the float.  Example problematic code:
@@ -37,7 +37,7 @@ This sidebar will have a 40px left margin in IE6 -- almost certainly throwing th
 ## Your content is wider than your column
 
 <div class="figure">
-<img src="http://assets.warpspire.com/images/css-column-tricks/extendingcolumns.gif" />
+<img src="https://assets.warpspire.com/images/css-column-tricks/extendingcolumns.gif" />
 </div>
 
 Let's pretend you've got this simplistic setup of code:
@@ -96,7 +96,7 @@ Easy fix: add `overflow:hidden` to your columns.  This forces the width restrict
 ## Your margins extend past your container
 
 <div class="figure">
-<img src="http://assets.warpspire.com/images/css-column-tricks/negativemargin.gif" />
+<img src="https://assets.warpspire.com/images/css-column-tricks/negativemargin.gif" />
 </div>
 
 So you're building out a simple product listing template out, and you throw it in an unordered list:
@@ -213,4 +213,4 @@ Next step is to actually float those columns. So let's add a couple more declara
 
 Oh, yeah. That's it. That's all it takes to create reliable columns in CSS. Really.
 
-Here's an [example page](http://assets.warpspire.com/images/css-column-tricks/example.html) to prove it!
+Here's an [example page](https://assets.warpspire.com/images/css-column-tricks/example.html) to prove it!

@@ -38,7 +38,7 @@ We're always sending pull requests, shipping them to staging and asking others w
 
 Once a feature is out and ready for people to use there's about a 100% chance that someone is going to want to change some aspect of it. So we iterate — tweak, deploy, discuss in a pull request — over and over until it's good enough for public consumption.
 
-On that note, our pull requests are generally pretty *epic*. It turns out that pull requests are perfect for experimenting with new features, discussing them with the team, and getting others to help you ship. [Check out this pull request](http://assets.warpspire.com/images/product-design/pull-request.png) for shipping our org profiles.  (Funny anectdote: this pull request was created before we shipped pull requests 2.0 — we *constantly* use experimental features)
+On that note, our pull requests are generally pretty *epic*. It turns out that pull requests are perfect for experimenting with new features, discussing them with the team, and getting others to help you ship. [Check out this pull request](https://assets.warpspire.com/images/product-design/pull-request.png) for shipping our org profiles.  (Funny anectdote: this pull request was created before we shipped pull requests 2.0 — we *constantly* use experimental features)
 
 ## Abandon features
 

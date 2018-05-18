@@ -31,11 +31,11 @@ If you take a look at any of Facebook's recruiting marketing, you'll see a phras
 
 And with good reason — the idea it embodies is fantastic. Unfortunately I see a lot of people interpreting this quote as something like this:
 
- <div class="figure"><img src="http://assets.warpspire.com/images/relentless-quality/breakthings.png" /></div>
+ <div class="figure"><img src="https://assets.warpspire.com/images/relentless-quality/breakthings.png" /></div>
 
 It reminds me of another misinterpretation that's always bugged me:
 
- <div class="figure"><img src="http://assets.warpspire.com/images/relentless-quality/shipfast.png" /></div>
+ <div class="figure"><img src="https://assets.warpspire.com/images/relentless-quality/shipfast.png" /></div>
 
 Quality isn't something to be sacrificed.  Move fast and break things, **then move fast and fix it.**  Ship early, ship often, **sacrificing features, never quality.**
 

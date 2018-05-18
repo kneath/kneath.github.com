@@ -76,7 +76,7 @@ I learned more than I ever could have imagined from my time at WA, and I owe eve
 And that's a lot to read. I really hope you skimmed most of it. Just in case you didn't and still want to know more, feel free to hit me up at <kyle@warpspire.com>.
 
 <div class="about-image">
-  <img src="http://assets.warpspire.com/images/site/dubious-kyle.jpg" />
+  <img src="https://assets.warpspire.com/images/site/dubious-kyle.jpg" />
 </div>
 
 <div class="keep-in-touch">

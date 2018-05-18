@@ -6,7 +6,7 @@ title: Ask me something
 Here's the deal: comments on the internet **suck**.  You know what I mean. Between the [trolls](http://www.isthereaproblem.com/), the spam, the idiots, and general fuckwads — the experience sucks for everyone involved.
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/site/fuckwads.jpg" alt="Greater internet fuckwad theory" />
+  <img src="https://assets.warpspire.com/images/site/fuckwads.jpg" alt="Greater internet fuckwad theory" />
   <small>&copy; MikeKrahulik and Jerry Holkins &mdash; <a href="http://www.penny-arcade.com/comic/2004/3/19/" target="_blank">from Penny Arcade</a></small>
 </div>
 

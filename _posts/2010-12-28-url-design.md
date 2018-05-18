@@ -15,7 +15,7 @@ But that doesn't mean there aren't best practices for creating great URLs. I hop
 
 ## Why you need to be designing your URLs
 
-<div class="figure"><img src="http://assets.warpspire.com/images/urldesign/chrome.jpg" alt="Chrome's URL bar" /></div>
+<div class="figure"><img src="https://assets.warpspire.com/images/urldesign/chrome.jpg" alt="Chrome's URL bar" /></div>
 
 The URL bar has become a main attraction of modern browsers. And it's not just a simple URL bar anymore — you can type partial URLs and browsers use dark magic to seemingly conjure up exactly the full URL you were looking for. When I type in **`resque issues`** into my URL bar, the first result is `https://github.com/defunkt/resque/issues`.
 
@@ -131,7 +131,7 @@ There's no excuse for these URLs at all. Post-specific URLs are for redirects an
 
 ## A great example
 
-<div class="figure"><a href="https://github.com/resque/resque/pull/175#issuecomment-619615"><img src="http://assets.warpspire.com/images/urldesign/urlparts.1.gif" alt="Example URL" /></a></div>
+<div class="figure"><a href="https://github.com/resque/resque/pull/175#issuecomment-619615"><img src="https://assets.warpspire.com/images/urldesign/urlparts.1.gif" alt="Example URL" /></a></div>
 
 1. ASCII-only user generated URL parts (defunkt, resque).
 

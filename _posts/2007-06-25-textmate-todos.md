@@ -39,7 +39,7 @@ This lets others working on the code let you know that you *know* something is b
 Well, that's all fine and well.. but how do you know what needs to be fixed/changed/done ?  Just hit Ctr+Shift+T  and TextMate will pop up with a pretty little list, hyperlinked and all
 
 <div class="figure">
-  <img src="http://assets.warpspire.com/images/textmate-todo-bundle/list.gif" alt="Screenshot of the TODO list" />
+  <img src="https://assets.warpspire.com/images/textmate-todo-bundle/list.gif" alt="Screenshot of the TODO list" />
   <small><em>Ctrl + Shift + T</em> brings up a list of all your todo's</small>
 </div>
 

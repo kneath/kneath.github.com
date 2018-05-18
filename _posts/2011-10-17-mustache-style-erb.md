@@ -12,7 +12,7 @@ So when I say that [\{\{ mustache \}\}](http://mustache.github.com) is my favori
 
 ## I mustache you, why mustache?
 
-<div class="figure"><img src="http://assets.warpspire.com/images/mustache-erb/mustache.png" alt=-"Mustache - Logic-less template" /></div>
+<div class="figure"><img src="https://assets.warpspire.com/images/mustache-erb/mustache.png" alt=-"Mustache - Logic-less template" /></div>
 
 Mustache is more than a syntax. It's a different approach to traditional templating — mustache templates have no logic. The template files themselves are HTML and mustaches:
 

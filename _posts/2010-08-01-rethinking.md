@@ -11,13 +11,13 @@ I think it's always a good idea to take a step back and ask yourself why you're 
 
 The other day I followed a link to a blog post on Mint. I was presented with this screen:
 
-<div class="figure"><img src="http://assets.warpspire.com/images/rethinking/mint_screen.jpg" alt="Screenshot of Mint blog post" /></div>
+<div class="figure"><img src="https://assets.warpspire.com/images/rethinking/mint_screen.jpg" alt="Screenshot of Mint blog post" /></div>
 
 I hate what most designers have done to the web. You'd think people would be taking cues from things like [Readability][r] and Safari Reader, but they're not. People are throwing more and more crap onto each page and making things harder and harder to read.
 
 Anyways, it got me to thinking about sites that I continue to enjoy reading in the browser. One site that immediately came to mind is [Daring Fireball][df]. The format and presentation has lasted for years without feeling tired or hard to read. So it should come as no suprise that this new layout mirrors DF in a great number of ways. (Alas, my logo features the same unicode character as DF — something which has now turned from a funny coincidence to a long boring story. I hate logos.)
 
-<div class="figure"><img src="http://assets.warpspire.com/images/rethinking/warpspire_screen.jpg" alt="Screenshot of Warpspire" /></div>
+<div class="figure"><img src="https://assets.warpspire.com/images/rethinking/warpspire_screen.jpg" alt="Screenshot of Warpspire" /></div>
 
 This new layout is the simplest layout I've ever had on one of my sites. The goal was to create a focused place for my ideas.
 
