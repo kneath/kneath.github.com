@@ -1,6 +1,7 @@
 ---
 layout: phasetwo/post
 title: Toward a more resilient future
+summary: It's been about seventeen years now that this website has been my little corner of the internet. It's gone through a few different iterations in those years — some sarcastic, some serious, and some arbitrarily personal. Many of those iterations are lost to poorly exported databases, absolute positioning, and the whims of archive.org. So it goes.
 ---
 
 It's been about seventeen years now that this website has been my little corner of the internet. It's gone through a few different iterations in those years — some sarcastic, some serious, and some arbitrarily personal. Many of those iterations are lost to poorly exported databases, absolute positioning, and the whims of [archive.org](https://archive.org). So it goes.
@@ -13,7 +14,7 @@ My world has changed pretty drastically over the past few years. Or is it a deca
 
 It feels like time for a new Warpspire. Not one of the versions I'd outlined — those potential futures have been left behind. This is something new, something with space to grow. It's exactly what it needs to be: a website that doesn't know what it is yet.
 
-Yes, all of the [old](/posts/next) links [work](/posts/product). I am not a monster. The world changes, but it always remembers.
+Yes, all of the [old](/proxima) [links](/posts/product) [work](/posts/next). I am not a monster. The world changes, but it always remembers.
 
 It feels very much like the world right now. We had a lot of ideas that weren't working very well. So much of our world was just teetering on the edge of failure when the cliff fell out from under us. We find ourselves Wile E. Coyote floating in the air above a ground that isn't there anymore. We haven't started to fall yet, but it's not like the cliff is going to come back any time soon.
 
