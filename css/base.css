@@ -32,7 +32,7 @@ a img{ border:none; }
 ----------------------------------------------------------------------------*/
 
 body {
-  font-family: "proxima-nova-1", "proxima-nova-2", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 17px;
   line-height: 1.4;
   color: #333;
