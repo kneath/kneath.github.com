@@ -1,9 +1,136 @@
 ---
 layout: phasetwo/default
-head_content:
-  <link rel="alternate" type="application/atom+xml" href="http://warpspire.com/feed/" />
 ---
 
+<div class="homepage">
+  <div class="latest">
+    <p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
+    <h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
+    <p>{{ site.posts.first.summary }}</p>
+    <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
+  </div>
 
-<p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
-<h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
+  <div class="library">
+    <h2>From the library: Non Fiction</h2>
+    <p>Ten books off the top of my head that have changed my mind, advanced my worldview, or otherwise are worth reading.</p>
+    <ul class="books">
+      <li>
+        <h3>One-Straw Revolution</h3>
+        <p class="author">Masanobu Fukuoka</p>
+      </li>
+      <li>
+        <h3>Patterns of Home</h3>
+        <p class="author">Max Jacobson, Murray Silverstein, and Barbara Winslow</p>
+      </li>
+      <li>
+        <h3>Getting Things Done</h3>
+        <p class="author">David Allen</p>
+      </li>
+      <li>
+        <h3>Quiet: The Power of Introverts in a World That Can't Stop Talking</h3>
+        <p class="author">Susan Cain</p>
+      </li>
+      <li>
+        <h3>Sepp Holzer's Permaculture</h3>
+        <p class="author">Sepp Holzer</p>
+      </li>
+      <li>
+        <h3>1491: New Revelations of the Americas Before Columbus</h3>
+        <p class="author">Charles C. Mann</p>
+      </li>
+      <li>
+        <h3>The Idea Factory: Bell Labs and the Great Ages of American Innovation</h3>
+        <p class="author"> Jon Gertner</p>
+      </li>
+      <li>
+        <h3><a href="https://www.regenerativeagriculture.co/">Regenerative Agriculture</a></h3>
+        <p class="author">Richard Perkins</p>
+      </li>
+      <li>
+        <h3>Predictably Irrational</h3>
+        <p class="author">Dan Ariely</p>
+      </li>
+      <li>
+        <h3>A Place of My Own</h3>
+        <p class="author">Michael Pollen</p>
+      </li>
+    </ul>
+  </div>
+
+  <div class="charity">
+    <h2>Non-Profits I support</h2>
+
+    <ul class="nonprofits">
+      <li>
+        <h3><a href="https://trees.org">Trees for the Future</a></h3>
+        <p>Carbon Focused, Natural Solution.</p>
+      </li>
+      <li>
+        <h3><a href="https://sugarpinefoundation.org/">Sugar Pine Foundation</a></h3>
+        <p>Carbon Focused, Natural Solution. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://www.coolearth.org/">Cool Earth Action</a></h3>
+        <p>Carbon Focused, Natural Solution.</p>
+      </li>
+      <li>
+        <h3><a href="https://protectourwinters.org/">Protect Our Winters</a></h3>
+        <p>Carbon Focused, Advocacy.</p>
+      </li>
+      <li>
+        <h3><a href="https://www.sierraclub.org/">Sierra Club</a></h3>
+        <p>Carbon Focused, Advocacy.</p>
+      </li>
+      <li>
+        <h3><a href="https://drawdown.org/">Drawdown</a></h3>
+        <p>Carbon Focused, Advocacy.</p>
+      </li>
+      <li>
+        <h3><a href="https://carbon180.org/">Carbon 180</a></h3>
+        <p>Carbon Focused, Artificial Sequestration.</p>
+      </li>
+      <li>
+        <h3><a href="https://theoceancleanup.com/">The Ocean Cleanup</a></h3>
+        <p>Pollution Focused, Cleanup.</p>
+      </li>
+
+      <li>
+        <h3><a href="https://www.keeptahoeblue.org/">The League to Save Lake Tahoe</a> (Keep Tahoe Blue)</h3>
+        <p>Pollution Focused, Research, Cleanup, Advocacy. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://tahoehomeless.org/">Tahoe Coalition for the Homeless</a></h3>
+        <p>Social Well-Being. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://liveviolencefree.org/">Live Violence Free</a></h3>
+        <p>Social Well-Being. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://tamba.org/">Tahoe Area Mountain Bike Association</a> (TAMBA)</h3>
+        <p>Public Lands. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://mountshastatrailassociation.org/">Mt. Shasta Trail Association</a></h3>
+        <p>Public Lands. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://www.sierraavalanchecenter.org/">Sierra Avalanche Center</a></h3>
+        <p>Public Lands. Local.</p>
+      </li>
+      <li>
+        <h3><a href="https://tahoerimtrail.org/">Tahoe Rim Trail Association</a></h3>
+        <p>Public Lands. Local.</p>
+      </li>
+
+      <li>
+        <h3><a href="https://www.givedirectly.org/">GiveDirectly</a></h3>
+        <p>Common Good, Poverty.</p>
+      </li>
+      <li>
+        <h3><a href="https://www.givewell.org/">GiveWell</a></h3>
+        <p>Common Good, Evidence-Based.</p>
+      </li>
+    </ul>
+  </div>
+</div>

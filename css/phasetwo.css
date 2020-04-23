@@ -74,7 +74,7 @@ h1, h2 {
 }
 
 h1.title {
-  margin: 0 0 1em 0;
+  margin: 0 0 0.75em 0;
   font-size: 36px;
 }
 
@@ -90,7 +90,8 @@ p.date {
 
 h2 {
   margin: 2em 0 0.5em;
-  font-size: 25px;
+  font-size: 18px;
+  text-transform: uppercase;
 }
 
 p {
@@ -160,4 +161,61 @@ header a.logo {
   font-size: 15px;
   border: 1px solid #000;
   border-radius: 50px;
+}
+
+
+.homepage .latest h1 a {
+  color: #000;
+  text-decoration: none;
+}
+.homepage .latest a.continue {
+  font-weight: bold;
+}
+
+.homepage .library, .homepage .charity {
+  margin: 45px 0;
+  border-top: 1px solid #ddd;
+}
+
+ul.books{
+  margin-left: 0;
+}
+ul.books>li {
+  margin: 1em 0;
+  list-style-type: none;
+}
+ul.books>li:before {
+  content: ""
+}
+ul.books h3 {
+  margin: 0;
+  font-weight: normal;
+  text-decoration: underline;
+}
+ul.books h3 a {
+  color: inherit;
+}
+ul.books p.author {
+  margin: 0;
+  font-style: italic;
+}
+
+
+ul.nonprofits{
+  margin-left: 0;
+}
+ul.nonprofits>li {
+  margin: 1em 0;
+  list-style-type: none;
+}
+ul.nonprofits>li:before {
+  content: ""
+}
+ul.nonprofits h3 {
+  margin: 0;
+  font-weight: normal;
+}
+ul.nonprofits p {
+  margin: 0;
+  font-style: italic;
 }
