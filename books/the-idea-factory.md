@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: proxima/book
 title: "The Idea Factory: Bell Labs and the Great Age of American Innovation"
 link: http://www.amazon.com/Idea-Factory-Great-American-Innovation-ebook/dp/B005GSZIWG/ref=sr_1_1?ie=UTF8&qid=1401671140&sr=8-1&keywords=bell+labs+innovation
 description:

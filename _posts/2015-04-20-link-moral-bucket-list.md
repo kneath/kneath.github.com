@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: The Moral Bucket List
 type: link
 link: http://www.nytimes.com/2015/04/12/opinion/sunday/david-brooks-the-moral-bucket-list.html

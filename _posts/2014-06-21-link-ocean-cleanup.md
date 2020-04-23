@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: The Ocean Cleanup
 type: link
 link: http://www.theoceancleanup.com/

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: The Internet With A Human Face
 type: link
 link: http://idlewords.com/bt14.htm

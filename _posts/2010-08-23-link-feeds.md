@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "RSS Feeds for Warpspire"
 type: link
 link:

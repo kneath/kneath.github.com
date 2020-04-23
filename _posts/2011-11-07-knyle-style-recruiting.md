@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: "Knyle style recruiting"
 category: opinion
 summary: A better way to hire people.

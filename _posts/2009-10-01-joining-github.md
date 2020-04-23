@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Joining GitHub
 excerpt:
   I still feel like it was last week I decided to <a href="/posts/ch-ch-ch-changes/">give up my "safe" job at <strike>Web Associates</strike> Level Studios</a> to play around with the <a href="http://entp.com">ENTP</a> crew.  Well, it's time for another move.  Last week I was given an offer I just couldn't refuse&mdash;to join the amazing <a href="http://github.com">GitHub</a> team.

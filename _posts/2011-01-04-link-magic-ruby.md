@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Speaking at Magic Ruby"
 type: link
 link: http://magic-ruby.com/

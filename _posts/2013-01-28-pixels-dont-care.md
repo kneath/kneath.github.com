@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: "Pixels don’t care"
 category: opinion
 summary: There's plenty of discrimination and intolerance in our world, but never forget that pixels don't care.

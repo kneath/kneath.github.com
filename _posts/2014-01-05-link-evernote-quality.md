@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "On Software Quality and Building a Better Evernote in 2014"
 type: link
 link: http://blog.evernote.com/blog/2014/01/04/on-software-quality/

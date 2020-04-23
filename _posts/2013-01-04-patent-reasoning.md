@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: "Patent reasoning"
 category: opinion
 summary: In which the entire situation is just fucked. Let's make it better.

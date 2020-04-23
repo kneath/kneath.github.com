@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Documentation is freaking awesome"
 type: link
 link: /talks/documentation

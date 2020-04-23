@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: proxima/talk
 title: Design Hacks for the Pragmatic Minded
 ---
 

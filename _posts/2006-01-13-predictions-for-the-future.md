@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: "Predictions for the future"
 summary: I thought it might be fun to say where I think the web, technology, and music are going in the next few years.
 ---

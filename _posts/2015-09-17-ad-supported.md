@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Ad Supported
 category: opinion
 summary: In a few weeks time, iOS 9 will launch with Safari Content Blocker. This technology allows the general public to use content blockers (better known as ad-blockers) on their iPhones. It's kind of a big deal.

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Jigsaws are better"
 type: link
 link: http://www.perfect-flow.com/blog/boxes2/

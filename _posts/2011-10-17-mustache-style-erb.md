@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: "Mustache, ERB and the future of templating"
 category: opinion
 summary: The best of mustache, all in ERB.

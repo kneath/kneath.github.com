@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: MooTools Javascript Classes
 excerpt:
   One of Javascript's major blunders when it comes to Object-Oriented design is the lack of true classes.  Lucky for us, we've had every library author out there have their whack at creating a class structure.

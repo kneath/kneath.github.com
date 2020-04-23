@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: proxima/talk
 title: Building an army of robots
 ---
 

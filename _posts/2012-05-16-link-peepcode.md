@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Peepcode Play by Play"
 type: link
 link: https://peepcode.com/products/play-by-play-kneath

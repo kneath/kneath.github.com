@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: Omakase Charity
 type: link
 link: https://omakasecharity.org/m/9c55ut

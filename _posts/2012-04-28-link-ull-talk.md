@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Choose Your Adventure! slides"
 type: link
 link: http://warpspire.com/talks/chooseyouradventure/

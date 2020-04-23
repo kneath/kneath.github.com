@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: It's not about how many hours you work
 excerpt:
   My favorite discussion amongst web professionals is when people start talking about work/life balance and how many hours they're working.  There's been no end of interesting ideas to pop out from this -- everything from 4 hour work weeks to 100 hour work weeks.  And everyone thinks that they've got the answer. But I think everyone's just arguing about an irrelevant metric: the hour.

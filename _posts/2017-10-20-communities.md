@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Your community is what you make it
 category: opinion
 summary: How do you have a open community without nazis? You kick the nazis out.

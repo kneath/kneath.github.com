@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Design hacks for the pragmatic minded"
 type: link
 link: /talks/designhacks

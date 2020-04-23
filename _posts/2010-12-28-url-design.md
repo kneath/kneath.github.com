@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: URL Design
 category: opinion
 summary: A pragmatic approach to designing the glue of the web.

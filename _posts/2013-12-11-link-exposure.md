@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "My Photos on Exposure"
 type: link
 link: https://kneath.exposure.so/

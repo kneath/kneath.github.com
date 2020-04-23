@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Tweet Tweet
 category: opinion
 summary: As I sit in my apartment right now, I'm assuming what is effectively the entirety of the technology industry is managing the task rabbits packing their art cars, private chefs, fusion reactors, and backup iPads into their U-Hauls for the long journey to the Black Rock Desert. Oh — and drugs — lots, and lots of drugs.

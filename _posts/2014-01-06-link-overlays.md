@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Bullshit Overlays"
 type: link
 link: http://bradfrostweb.com/blog/post/bullshit-overlays/

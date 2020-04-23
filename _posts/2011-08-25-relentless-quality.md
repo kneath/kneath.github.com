@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Relentless Quality
 category: opinion
 summary: Musings on a culture of relentless quality.

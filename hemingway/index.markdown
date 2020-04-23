@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: proxima/page
 title: Hemingway
 ---
 

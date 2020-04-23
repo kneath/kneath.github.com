@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Measuring emotion
 category: opinion
 summary: What happens when we stop trying to measure emotion and start feeling it instead?

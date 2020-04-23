@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "The bug in Gmail that fixed itself"
 type: link
 link: http://googleblog.blogspot.com/2014/01/todays-outage-for-several-google.html

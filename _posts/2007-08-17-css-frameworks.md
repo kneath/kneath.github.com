@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Why I don't use CSS Frameworks
 excerpt:
   CSS Frameworks seem like an awesome advancement at first glance: speed up your development, normalize your code base, and eliminate those nasty browser bugs!  Hot damn, where do I sign up?  Unfortunately there's some pretty strong caveats that go with those statements.  Here I outline the reasons that I don't use them -- and why you should think about the same.

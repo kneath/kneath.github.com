@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: "Dumb software"
 category: opinion
 summary: An ode to dumb software, my favorite kind.

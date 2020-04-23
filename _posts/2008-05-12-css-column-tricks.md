@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Top reasons your CSS columns are messed up
 excerpt:
   I believe the recent surge in popularity of CSS frameworks comes from a lack of basic understanding of the CSS box model and how it's implemented across browsers.  I wanted to share with you some quick tips on how to avoid easy pitfalls so you can create your own CSS framework in no time flat, without all the cruft of having ten thousand column combinations available.  Keeping these quick tips in mind at all times will allow you to do something I like to call <em>defensive coding</em> &ndash; and really that's all CSS frameworks are: defensively coded snippets of CSS.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Product design at GitHub
 category: opinion
 summary: An inspection into the product design process we've carved out.

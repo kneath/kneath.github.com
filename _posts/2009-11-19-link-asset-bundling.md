@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Optimizing asset bundling and serving with Rails"
 type: link
 link:

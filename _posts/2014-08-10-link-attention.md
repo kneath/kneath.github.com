@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: Hit the Reset Button in Your Brain
 type: link
 link: http://www.nytimes.com/2014/08/10/opinion/sunday/hit-the-reset-button-in-your-brain.html?_r=0

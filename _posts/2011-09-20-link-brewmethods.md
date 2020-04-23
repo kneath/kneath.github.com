@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Brew Methods"
 type: link
 link: http://brewmethods.com/

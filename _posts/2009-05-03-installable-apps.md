@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Installable apps
 excerpt:
   I'm getting kind of tired of all these *web* developers complaining about the time it takes to get updates to their apps up on the iTunes App Store.  The truth is this complaining has some merit.  But you have to realize that these people are not making *web* applications, they're making *installable* applications.  The problem is not Apple. The problem is lack of QA testing.

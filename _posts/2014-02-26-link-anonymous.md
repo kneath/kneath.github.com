@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Anonymity: Lessons learned building an anonymous social network"
 type: link
 link: https://medium.com/p/f7461ba821c8

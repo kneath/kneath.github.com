@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Design Hacks for the Pragmatic Minded Video"
 type: link
 link: http://confreaks.net/videos/522-roa2011-design-hacks-for-the-pragmatic-minded

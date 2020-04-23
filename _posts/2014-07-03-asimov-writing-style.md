@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: Asmiov on style
 type: link
 link: http://en.wikipedia.org/wiki/Isaac_Asimov#cite_ref-Nemesis-Authour.27s_note_68-0

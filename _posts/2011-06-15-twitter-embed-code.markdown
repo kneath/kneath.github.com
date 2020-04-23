@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Excellent embedding markup"
 type: link
 link: https://twitter.com/about/resources/followbutton

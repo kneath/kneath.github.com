@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: proxima/talk
 title: Choose Your Adventure!
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "The Geek Talk Interview"
 type: link
 link: http://thegeektalk.com/interviews/kyle-neath/

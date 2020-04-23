@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: proxima/talk
 title: Responsive web design from the future
 ---
 

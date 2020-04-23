@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Build your business around an idea
 category: opinion
 excerpt:

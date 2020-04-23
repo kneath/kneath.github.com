@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Lost in Your Vision
 category: opinion
 summary: Dustin Curtis recently wrote about <a href="http://dcurt.is/twitter">Fixing Twitter</a> — most of which I can't say I agree with — but he did touch on an idea I like to call being <em>Lost in your Vision</em>.

@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "Infinite Scroll + HTML5 History API"
 type: link
 link: /experiments/history-api/

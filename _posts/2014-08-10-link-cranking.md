@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: Cranking
 type: link
 link: http://www.43folders.com/2011/04/22/cranking

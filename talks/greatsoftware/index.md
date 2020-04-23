@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: proxima/talk
 title: How do you build great software?
 ---
 

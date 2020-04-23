@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Xcode window management sucks
 excerpt:
   I posted some thoughts to twitter last night about how much the Xcode window management drives me insane.  What I got back was a huge reaction of "it's perfect" and "this is how OSX works"  Suddenly I was wondering, am I just insane for thinking the window management is absolutely horrible?

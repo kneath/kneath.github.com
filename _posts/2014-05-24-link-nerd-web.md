@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: The Revenge of the Nerds
 type: link
 link: http://kottke.org/14/05/the-revenge-of-the-nerds

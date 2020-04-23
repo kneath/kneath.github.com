@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Designing GitHub for Mac
 category: opinion
 summary: An analysis of my process.

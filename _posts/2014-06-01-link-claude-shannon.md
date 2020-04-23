@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: Claude Shannon on accepting the Kyoto Prize
 type: link
 link: http://www.inamori-f.or.jp/laureates/K01_b_claude/img/lct_e.pdf

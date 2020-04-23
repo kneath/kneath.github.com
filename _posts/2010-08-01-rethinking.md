@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Rethinking Warpspire
 excerpt:
   I think it's always a good idea to take a step back and ask yourself why you're doing something.  So right now I'm taking a step back to rethink Warpspire.

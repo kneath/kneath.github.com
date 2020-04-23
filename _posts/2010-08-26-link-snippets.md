@@ -1,5 +1,5 @@
 ---
-layout: link
+layout: proxima/link
 title: "My TextMate Snippets & Triggers"
 type: link
 link: http://github.com/kneath/textmate-snippets

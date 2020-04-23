@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: proxima/post
 title: Million Dollar Products
 category: opinion
 summary: What would a family business look like in the software industry?
