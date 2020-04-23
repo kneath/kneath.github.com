@@ -80,6 +80,6 @@ Books of the moment:
 - Kim Stanley Robinson - <u>2312</u>
 - Charles C. Mann - <u>1491</u>
 - Susan Cain - <u>Quiet</u>
-- Isaac Asimov - <u>Foundation, <u>Second Foundation</u>, <u>Foundation an Empire</u>
+- Isaac Asimov - <u>Foundation, <u>Second Foundation</u>, <u>Foundation and Empire</u>
 
 Apparently, I like books titled after dates.
