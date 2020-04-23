@@ -1,0 +1,29 @@
+---
+layout: proxima/default
+head_content:
+  <link rel="alternate" type="application/atom+xml" href="http://warpspire.com/feed/" />
+---
+
+<p class="intro">
+  Hi! <a href="/about">I'm Kyle</a>, and I use Warpspire to collect my thoughts about product design &amp; development.
+</p>
+
+<hr />
+
+<div class="listing">
+{% for post in site.posts %}
+  {% if post.type == 'link' %}
+    <div class="post other link">
+      <a class="icon" href="{{ post.url }}" title="This is a link elsewhere">★</a>
+      <h2><a href="{{ post.link }}">{{ post.title }}</a></h2>
+      <p>{{ post.content }}</p>
+    </div>
+  {% else %}
+    <div class="post">
+      <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-summary">{{ post.summary }}</p>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
