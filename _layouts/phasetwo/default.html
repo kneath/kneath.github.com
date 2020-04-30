@@ -14,9 +14,6 @@
 	<link rel="stylesheet" href="/css/phasetwo.css" type="text/css" />
 	<link rel="alternate" href="http://warpspire.com/feed/" type="application/rss+xml" />
 	<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@;0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-
-
-
 </head>
 <body>
 
@@ -27,17 +24,19 @@
     {{ content }}
   </div><!-- /.main -->
 
-  <script type="text/javascript">
-  ;(function() {
-  var t = document.createElement("script")
-  t.type = "text/javascript"
-  t.async = true
-  t.id = "gauges-tracker"
-  t.setAttribute("data-site-id", "4dd8683cf5a1f53796000001")
-  t.src = "//secure.gaug.es/track.js"
-  var s = document.getElementsByTagName("script")[0]
-  s.parentNode.insertBefore(t, s)
-})()
-</script>
+	<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '4dd8683cf5a1f53796000001');
+    t.setAttribute('data-track-path', 'https://track.gaug.es/track.gif');
+    t.src = 'https://d2fuc4clr7gvcn.cloudfront.net/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+	</script>
 </body>
 </html>
