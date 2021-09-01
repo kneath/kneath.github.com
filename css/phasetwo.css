@@ -108,7 +108,7 @@ em {
 }
 
 strong {
-  font-style: bold;
+  font-weight: bold;
 }
 
 a {
@@ -230,4 +230,9 @@ ul.nonprofits h3 {
 ul.nonprofits p {
   margin: 0;
   font-style: italic;
+}
+
+.post-content img {
+  max-width: 100%;
+  min-width: 100%;
 }
