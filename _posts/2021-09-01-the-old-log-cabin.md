@@ -46,7 +46,7 @@ I spend a lot of time *living* in the mountains. Talking to the ranchers who hav
 
 The forest around the ranch was logged heavily over the past three years. After the logging crews came the masticators and wood chippers. This was all in preparation for a series of prescribed burns, the first of which escaped its boundaries and became known as the [Caples Fire](https://inciweb.nwcg.gov/incident/6622/). This fire received massive backlash from the community despite no structures being lost and the fire’s objectives being met in majority (burninng of underbrush, retention of large trees).
 
-Even with the massive amount of logging, mastication, firefighters, dozers, airplanes, and helicopters, the Caldor Fire ripped through this forest without care. It leapt across hundreds of clear cut properties owned by Sierra Pacific Industries, jumped over firebreaks six blades wide, and created spot fires up to a mile away. The only place it did stop? A the burn scar for the Caples Fire, the one that so many believed to be reckless.
+Even with the massive amount of logging, mastication, firefighters, dozers, airplanes, and helicopters, the Caldor Fire ripped through this forest without care. It leapt across hundreds of clear cut properties owned by Sierra Pacific Industries, jumped over firebreaks six blades wide, and created spot fires up to a mile away. The only place it did stop? At the burn scar for the Caples Fire, the one that so many believed to be reckless.
 
 Decades of preventing fire, extended drought, and a changed climate have all converged to create conditions for extreme fire behavior. There is no easy fix, and there are no safe solutions. We are going to see a lot more fires in the West.
 
