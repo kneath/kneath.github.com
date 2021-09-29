@@ -184,9 +184,20 @@ header a.logo {
   font-weight: bold;
 }
 
-.homepage .library, .homepage .charity {
+.homepage .mini-archive, .homepage .library, .homepage .charity {
   margin: 45px 0;
   border-top: 1px solid #ddd;
+}
+
+.mini-archive .date {
+  margin: 2em 0 0 0;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.mini-archive .title {
+  margin: 0;
+  font-weight: bold;
 }
 
 ul.books{

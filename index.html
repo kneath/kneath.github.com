@@ -9,6 +9,14 @@ layout: phasetwo/default
     <p>{{ site.posts.first.summary }}</p>
     <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
   </div>
+  
+  <div class="mini-archive">
+    <h2>Previously</h2>
+    {% for post in site.posts limit: 3 %}
+      <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+      <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endfor %}
+  </div>
 
   <div class="library">
     <h2>From the library: Non Fiction</h2>
