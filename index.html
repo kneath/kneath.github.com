@@ -12,14 +12,14 @@ layout: phasetwo/default
   
   <div class="mini-archive">
     <h2>Previously</h2>
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts offset: 1 limit: 2 %}
       <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
       <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endfor %}
   </div>
 
   <div class="library">
-    <h2>From the library: Non Fiction</h2>
+    <h2>From the Library: Non Fiction</h2>
     <p>Ten books off the top of my head that have changed my mind, advanced my worldview, or otherwise are worth reading.</p>
     <ul class="books">
       <li>
@@ -66,7 +66,7 @@ layout: phasetwo/default
   </div>
 
   <div class="charity">
-    <h2>Non-Profits</h2>
+    <h2>Non-Profits I Like</h2>
 
     <ul class="nonprofits">
       <li>

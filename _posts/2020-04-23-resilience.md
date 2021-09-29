@@ -1,6 +1,6 @@
 ---
 layout: phasetwo/post
-title: Toward a more resilient future
+title: Toward a More Resilient Future
 summary: It's been about seventeen years now that this website has been my little corner of the internet. It's gone through a few different iterations in those years — some sarcastic, some serious, and some arbitrarily personal. Many of those iterations are lost to poorly exported databases, absolute positioning, and the whims of archive.org. So it goes.
 ---
 
