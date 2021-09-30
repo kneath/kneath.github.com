@@ -12,7 +12,7 @@ If you've spent any time looking into climate change, you’ve heard a lot about
 
 You might even be familiar with a graph that looks something [like this](https://ourworldindata.org/grapher/co2-mitigation-2c?time=earliest..latest):
 
-![Graph: CO2 reductions needed to keep global temperature rise below 2˚C](http://assets.warpspire.com/images/climate-gap/co2-graph.png)
+![Graph: CO2 reductions needed to keep global temperature rise below 2˚C](https://assets.warpspire.com/images/climate-gap/co2-graph.png)
 
 It doesn’t take much critical thinking to realize something pretty quickly: **none of those projected curves are actually going to happen.** We haven’t even started pointing the graph downwards yet. We will not decarbonize the entire world in a few decades.
 
