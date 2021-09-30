@@ -44,7 +44,7 @@ Fuck. Fuck Fuck Fuck.
 
 ## Paradigm Shift
 
-The above conclusion can be pretty depressing. Doesn’t that mean the world is ending? No. It's not. But our current paradigm surrounding climate change is in need of serious repair. I’m often reminded of something an rancher once told me when I was trying to figure out how to fix the dirt road to my off grid property: sure you can fix the road, *or you can just buy a bigger truck.*
+The above conclusion can be pretty depressing. Doesn’t that mean the world is ending? No. It's not. But our current paradigm surrounding climate change is in need of serious repair. I’m often reminded of something an old rancher once told me when I was trying to figure out how to fix the dirt road to my off grid property: sure you can fix the road, *or you can just buy a bigger truck.*
 
 Reducing emissions is incredibly important. We have to find a way to decarbonize our way of life if we want to life comfortably on this planet. But we aren’t going to combat climate change in a meaningful and timely way focusing on emissions. We need a solution to the emissions problem, but it isn’t going to be our answer to climate change. Not in this century.
 
