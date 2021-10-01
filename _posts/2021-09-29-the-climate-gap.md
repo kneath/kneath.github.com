@@ -32,7 +32,7 @@ We all agree that we need to replace our gas powered cars with electric cars, re
 
 At the same time, all around the world people are escaping poverty, moving into the middle class, and generally improving their standard of life. That means more apartment complexes, more iPhones, and more foam mattresses. All of which cost emissions to make.
 
-We cannot ethically or reasonably deny these things to the developing world. Thanks for letting us burn fossil fuels to get where we are! Now you need to lift yourself up without creating any more emissions — that good? The idea is unconscionable and counter-productive. If we want to solve the emissions problem, we’re going to need the cooperation of the entire world. Subjugating the majority of the world's population into poverty isn't going to cut it.
+We cannot ethically or reasonably deny these things to the developing world. _Thanks for letting us burn fossil fuels to get where we are! Now you need to lift yourself up without creating any more emissions — that good?_ The idea is unconscionable and counter-productive. If we want to solve the emissions problem, we’re going to need the cooperation of the entire world. Subjugating the majority of the world's population into poverty isn't going to cut it.
 
 ## Fuck
 
