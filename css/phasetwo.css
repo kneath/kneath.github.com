@@ -229,7 +229,10 @@ ul.books p.author {
 
 
 ul.nonprofits{
+  padding-left: 20px;
   margin-left: 0;
+  margin-bottom: 45px;
+  border-left: 4px solid #ddd;
 }
 ul.nonprofits>li {
   margin: 1em 0;
@@ -241,11 +244,14 @@ ul.nonprofits>li:before {
 }
 ul.nonprofits h3 {
   margin: 0;
-  font-weight: normal;
+  font-weight: bold;
 }
 ul.nonprofits p {
   margin: 0;
   font-style: italic;
+}
+ul.nonprofits p a {
+  color: #000;
 }
 
 .post-content img, .page-content img {
