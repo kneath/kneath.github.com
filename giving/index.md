@@ -3,7 +3,7 @@ layout: phasetwo/page
 title: Giving
 ---
 
-Since Microsoft acquired GitHub, I found myself in an unexpected situation: wealthy. I don't care about legacy, so I try to give money away to people and organizations that can put it to good use. These are the non-profits I currently give to, and a little context for why I like them.
+Since Microsoft acquired GitHub, I found myself in an unexpected situation: wealthy. I don't care about legacy, so I try to give money away to people and organizations that can put it to good use. These are the non-profits I regularly give to, and a little context for why I like them.
 
 ----
 
