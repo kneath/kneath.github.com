@@ -18,7 +18,7 @@ I'm a big believer in your local community, so a lot of the non-profits I give t
   </li>
   <li>
   <h3><a href="https://tahoerimtrail.org/">Tahoe Rim Trail Association</a></h3>
-  <p>The Tahoe Rim Trail is a 165 mile long multi-use trail that forms a loop around Lake Tahoe. The TRTA are the people that make this gorgeous trail possible.</p>
+  <p>The Tahoe Rim Trail is a 165 mile long multi-use trail that forms a loop around Lake Tahoe. The TRTA are the people that make this trail possible.</p>
   </li>
   <li>
   <h3><a href="https://www.sierraavalanchecenter.org/">Sierra Avalanche Center</a></h3>
@@ -46,7 +46,7 @@ I'm a big believer in your local community, so a lot of the non-profits I give t
   </li>
   <li>
   <h3><a href="https://liveviolencefree.org/">Live Violence Free</a></h3>
-  <p>LVF provides support for some of the most vulnerable in Tahoe, and I'm happy to help them support those impacted by domestic abuse, sexual assault, and child abuse.</p>
+  <p>LVF provides support for some of the most vulnerable in Tahoe — people impacted by domestic abuse, sexual assault, and child abuse.</p>
   </li>
   <li>
   <h3><a href="https://foodbankedc.org/">Food Bank of El Dorado County</a></h3>
@@ -107,7 +107,7 @@ The planet isn't doing so good as of late. These are a few organizations I think
 
 ## Social Good
 
-I don't really know what to call this category, but I've settled on _social good_. It's the stuff the combats global poverty, or creates some kind of critically important free infrastructure for the world.
+I don't really know what to call this category, but I've settled on _social good_. It's organizations that do things like combat global poverty, prevent people from dying, or builds some kind of super valuable free infrastructure for the world.
 
 <ul class="nonprofits">
   <li>
