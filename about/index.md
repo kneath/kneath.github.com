@@ -1,23 +1,17 @@
 ---
-layout: proxima/default
-title: "About Kyle Neath"
+layout: phasetwo/page
+title: "Hi. I'm Kyle."
 ---
 
-# Hi. I'm Kyle.
-
-Hi, my name is **Kyle Neath** and I use _Warpspire_ to collect my thoughts about product design & development.
-
-Most of my experience has been focused on the design & growth of software products and leading the teams that build them. Usually that means bouncing between user research, feature design/development, growth analysis, and team coordination.
-
-**I like to build really great products that last.**
+Hi, my name is **Kyle Aster** (previously _Kyle Neath_) and I use _Warpspire_ to collect my thoughts on the world. A long time ago it used to be a blog about [product design and development](/proxima) when I did that professionally. But now I'm somewhere between retired and a property developer. I'm not sure yet!
 
 If you're looking to read something I've written, here's some of my favorite articles:
 
+* [The Old Log Cabin](/posts/the-old-log-cabin)
 * [Taste and The Zen of GitHub](/posts/taste)
 * [Product](/posts/product)
-* [Pixels don't care](/posts/pixels-dont-care)
 
-Most recently, I led Product at GitHub where I spent five years growing the product and building out the design team. Right now I'm spending most of my time in the Sierras, working on [Leaping Daisy](http://leapingdaisy.com), and dabbling in software a bit. _The mountains are calling, and I must go._
+Work-wise, the last job I had was leading Product at GitHub where I spent five years growing the product and building out the design team. The remainder of this page is a sort of history of how I got there. If you're curious about what I'm doing now, head on over to [warpspire.com/now](/now).
 
 * * * *
 
@@ -79,8 +73,4 @@ And that's a lot to read. I really hope you skimmed most of it. Just in case you
   <img src="https://assets.warpspire.com/images/site/dubious-kyle.jpg" />
 </div>
 
-<div class="keep-in-touch">
-  <p>
-    If you'd like to keep in touch, I tweet <a href="https://twitter.com/kneath">@kneath</a> on Twitter. You're also welcome to send a polite email to <a href="mailto:kyle@warpspire.com">kyle@warpspire.com</a>. I don't always get the chance to respond, but email is always the best way to get in touch.
-  </p>
-</div>
+If you suffer social media, you can usually find me as <strong>@kneath</strong>.

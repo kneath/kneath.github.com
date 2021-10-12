@@ -183,8 +183,11 @@ header a.logo {
 .homepage .latest a.continue {
   font-weight: bold;
 }
+.homepage .latest p.date {
+  margin-top: 45px;
+}
 
-.homepage .mini-archive, .homepage .library, .homepage .charity {
+.homepage .latest, .homepage .mini-archive, .homepage .library, .homepage .charity {
   margin: 45px 0;
   border-top: 1px solid #ddd;
 }
@@ -245,7 +248,7 @@ ul.nonprofits p {
   font-style: italic;
 }
 
-.post-content img {
+.post-content img, .page-content img {
   max-width: 100%;
   min-width: 100%;
 }

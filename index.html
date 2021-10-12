@@ -3,12 +3,17 @@ layout: phasetwo/default
 ---
 
 <div class="homepage">
+  <h2>It's me. Kyle <strike>Neath</strike> Aster.</h2>
+  <p>A long time ago, I used to build internet. Now I don't. But I do like to write, and this is my blog. If you're curious, you can read more <a href="/about">about me</a> or what <a href="/now">what I'm doing now</a>.</p>
+  
   <div class="latest">
     <p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
     <h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
     <p>{{ site.posts.first.summary }}</p>
     <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
   </div>
+  
+  
   
   <div class="mini-archive">
     <h2>Previously</h2>
