@@ -9,7 +9,7 @@ This is what I’m doing now. In the style of [nownownow.com](https://nownownow.
 
 ## Building A House
 
-In 2019, I bought an empty plot of land in South Lake Tahoe to build a house. Since then I dove into books about functional architecture (like [Patterns of Home](https://www.amazon.com/Patterns-Home-Essentials-Enduring-Design/dp/156158696X)), picked up [SketchUp](https://sketchup.com/) and started coming up with ideas. It turns out, I like this a lot! Since then I partnered up with [Sierra Sustainable Builders](https://www.sierrasustainable.com/) to take this theoretical house design and turn it into a possible house. And now they're turning our possible house into a real house that exists in the world. Concrete!
+In 2019, I bought an empty plot of land in South Lake Tahoe to build a house. And then I dove into books about functional architecture like [Patterns of Home](https://www.amazon.com/Patterns-Home-Essentials-Enduring-Design/dp/156158696X), picked up [SketchUp](https://sketchup.com/) and started coming up with ideas. And then I kind of couldn't stop. Since then I partnered up with [Sierra Sustainable Builders](https://www.sierrasustainable.com/) to take this theoretical house design and turn it into a possible house. And now they're turning our possible house into a real house that exists in the world. Concrete!
 
 ![Aster Pines — Render vs Reality](https://assets.warpspire.com/images/now/asterpines-render-reality.jpg)
 
