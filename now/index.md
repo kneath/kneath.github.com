@@ -23,7 +23,7 @@ Writing has always brought me solace, but I've often been pretty shit at publish
 
 ## Giving
 
-Since Microsoft acquired GitHub, I found myself in an unexpected situation: wealthy. I don't care about legacy or turning my too-large a pile money into an even larger pile. So I'm trying to give money away to people and <a href="/giving">organizations</a> that can put it to good use. My goal is to donate more money than I spend each year, and give away my [lifetime gift tax exemption](https://www.schwab.com/resource-center/insights/content/giving-while-living-do-you-understand-gift-tax) to friends & family while I’m still alive.
+Since Microsoft acquired GitHub, I found myself in an unexpected situation: wealthy. I don't care about legacy or turning my too-large pile money into an even larger pile. So I'm trying to give money away to people and <a href="/giving">organizations</a> that can put it to good use. My goal is to donate more money than I spend each year, and give away my [lifetime gift tax exemption](https://www.schwab.com/resource-center/insights/content/giving-while-living-do-you-understand-gift-tax) to friends & family while I’m still alive.
 
 ## Enjoying Retirement
 
@@ -31,4 +31,6 @@ Truth be told, I am not pushing that hard. I'm not interested in [cranking](http
 
 ![Mountain bike on Lily Lake, camping with the 4runner, and relaxing in Palm Springs](https://assets.warpspire.com/images/now/retirement.jpg)
 
-Then again, sometimes I'm just enjoying the pool in Palm Springs, my home-away-from-home. I did tell you I was retired, didn't I?
+Then again, sometimes I'm just enjoying the pool in Palm Springs, my home-away-from-home.
+
+I did tell you I was retired, didn't I?
