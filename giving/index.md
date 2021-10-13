@@ -83,7 +83,7 @@ The planet isn't doing so good as of late. These are a few organizations I think
   </li>
   <li>
   <h3><a href="https://trees.org">Trees for the Future</a></h3>
-  <p>Trees for the Future give farmers the tools (and trees) to implement their Forest Garden Approach to grow fruits and vegetables while building nutrients back into their soil.</p>
+  <p>TREES works with farmers around the world to implement their Forest Garden Approach to combat deforestation from agriculture. Their system uses trees to grow fruits and vegetables while adding nutrients back into the soil — a win for carbon sequestration and agricultural productivity.</p>
   </li>
   <li>
   <h3><a href="https://www.sierraclub.org/">Sierra Club</a></h3>
