@@ -15,9 +15,13 @@ layout: phasetwo/default
   
   <div class="mini-archive">
     <h2>Previously</h2>
-    {% for post in site.posts offset: 1 limit: 2 %}
-      <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
-      <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% for post in site.posts offset: 1 %}
+      {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+      {% assign yearnum = year | plus: 0 %}
+      {% if yearnum > 2019 %}
+        <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+        <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      {% endif %}
     {% endfor %}
   </div>
 
