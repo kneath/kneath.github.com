@@ -39,7 +39,7 @@ I have high confidence these projects permanently prevent greenhouse gasses from
 <ul class="nonprofits">
   <li>
   <h3><a href="https://tradewater.us">Tradewater</a> $500/mo for 36.7 tons</h3>
-  <p>Tradewater searches out refrigerants (like say and old refrigerator in a dump), collects the chemicals, and destroys them before the refrigerants (which are powerful greenhouse gasses) can be released into the atmosphere. [Refrigerant Management](https://drawdown.org/solutions/refrigerant-management) has long been a staple of Project Drawdown.</p>
+  <p>Tradewater searches out refrigerants (like say and old refrigerator in a dump), collects the chemicals, and destroys them before the powerful greenhouse gasses can be released into the atmosphere. <a href="https://drawdown.org/solutions/refrigerant-management">Refrigerant Management</a> has long been a staple of Project Drawdown.</p>
   </li>
 </ul>
 
