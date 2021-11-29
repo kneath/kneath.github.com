@@ -24,7 +24,7 @@ I have high confidence these projects permanently remove carbon dioxide from the
 <ul class="nonprofits">
   <li>
   <h3><a href="https://climeworks.com/invitation/Jy04DG0A">Climeworks</a> $500/mo for 0.5 tons</h3>
-  <p>Climeworks is the most robust carbon offset project out there. Their DAC (Direct Air Capture) machines use geothermal energy to suck carbon dioxide out of the air and store it the bedrock below. These are by far the most robust and effective offsets available, however they are extremely costly and the technology is only effective in very specific geographic areas.</p>
+  <p>Climeworks builds DAC (Direct Air Capture) machines that use geothermal energy to suck carbon dioxide out of the air and store it the bedrock below. These are by far the most robust and effective offsets available, however they are extremely costly and the technology is only effective in very specific geographic areas.</p>
   </li>
   <li>
   <h3><a href="https://charmindustrial.com/">Charm Industrial</a> $500/mo for 0.9 tons</h3>
