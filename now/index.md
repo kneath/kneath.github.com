@@ -23,7 +23,7 @@ Writing has always brought me solace, but I've often been pretty shit at publish
 
 ## Giving
 
-Since Microsoft acquired GitHub, I found myself in an unexpected situation: wealthy. I don't care about legacy or turning my too-large pile money into an even larger pile. So I'm trying to give money away to people and <a href="/giving">organizations</a> that can put it to good use. My goal is to donate more money than I spend each year, and give away my [lifetime gift tax exemption](https://www.schwab.com/resource-center/insights/content/giving-while-living-do-you-understand-gift-tax) to friends & family while I’m still alive.
+Some weird shit happened and as a result I've found myself in an unexpected situation: wealthy. I don't care about legacy or turning my too-large pile money into an even larger pile — so every year I give a bunch of money to people and [organizations](/giving) that can put it to good use. My goal is to donate more money than I spend each year, and use up my [lifetime gift tax exemption](https://www.schwab.com/resource-center/insights/content/giving-while-living-do-you-understand-gift-tax) (at minimum) while I’m still alive.
 
 ## Enjoying Retirement
 
