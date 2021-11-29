@@ -45,7 +45,7 @@ I have high confidence these projects permanently prevent greenhouse gasses from
 
 ## Promising Projects
 
-I have hopes that these projects either temporarily prevent greenhouse gasses from being released, or provide a framework toward a carbon-negative process. I have either invested or otherwise donated to these organizations in the past.
+I have hopes that these projects either temporarily prevent greenhouse gasses from being released, or provide a framework toward a carbon-negative process. I have invested or otherwise donated to these organizations, and I like what they're doing.
 
 <ul class="nonprofits">
   <li>
