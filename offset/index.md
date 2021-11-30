@@ -1,6 +1,6 @@
 ---
 layout: phasetwo/page
-title: Offsets
+title: Carbon Offsets
 ---
 
 I often oscillate between blissful ignorance and being consumed by the idea that the world is ending as a result of human-caused climate change. Admittedly, it's not exactly ending. But it is becoming quite uncomfortable for humans. One thing I do is try to offset my personal carbon emissions.
