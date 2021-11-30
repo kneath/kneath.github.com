@@ -62,3 +62,7 @@ I have hopes that these projects either temporarily prevent greenhouse gasses fr
   </li>
 </ul>
 
+## In Conclusion
+
+Effectively offsetting your carbon emissions is definitely possible! But it's also so costly as to only be reasonable for the ultra-wealthy. We have a long way to go.
+
