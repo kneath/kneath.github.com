@@ -54,3 +54,18 @@ I have hopes that these projects either temporarily prevent greenhouse gasses fr
   </li>
 </ul>
 
+## Emissions Breakdown
+
+Some Assumptions:
+
+- From birth to 2019 (when I was 35), my emissions averaged 2 tons / mo
+- From years 2020 onward (because of [this thing](https://news.microsoft.com/announcement/microsoft-acquires-github/)), my emissions average 4 tons / mo
+- Building my new house will emit 75 tons
+
+| **Source** | **Total Debt** | **Type of Offset** | **Total Paid** |
+| 1984-2020 | 936 ton | Avoidance | 293.6 ton (31%) |
+| 2021+ Debt | 106.2 ton | Removal | 0 (0%) |
+| Tahoe House Build | 75 ton | Removal | 0 (0%) |
+| Recurring | 4 ton/mo | Removal | 1.4 ton/mo (35%) |
+
+_Last updated December 2021_

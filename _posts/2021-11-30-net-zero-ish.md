@@ -58,7 +58,7 @@ Now, how about lifetime emissions? There are some things I would definitely say 
 = 1,111 tons
 ```
 
-**Final Answer: 1,111 tons + 4 tons/mo**
+**Final Answer: 1,011 tons + 4 tons/mo**
 
 ## Problem 2: Offsets Are Different Types of Negative
 
