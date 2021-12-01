@@ -94,6 +94,12 @@ h2 {
   font-size: 20px;
 }
 
+h3 {
+    margin: 2em 0 -0.5em;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
 p {
   margin: 1.5em 0;
 }
@@ -122,10 +128,13 @@ ul {
   list-style-type: none;
 }
 ul>li {
-
+  position: relative;
 }
 ul>li:before {
   display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
   color: #cccccc;
   content: '-';
   text-indent: -20px;
@@ -258,3 +267,58 @@ ul.nonprofits p a {
   max-width: 100%;
   min-width: 100%;
 }
+
+code{
+    padding: 0 4px;
+    font-family: "Source Code Pro", "Courier New", Courier, sans-serif;
+    font-size: 0.9em;
+    color: #556270;
+    background: #F4FAFF;
+    border-radius: 3px;
+  }
+  pre code {
+    padding: 0;
+    color: inherit;
+    background: inherit;
+    border-radius: 0;
+  }
+  code span.global {
+    color: #3388DD;
+  }
+  code span.brackets {
+    color: #777777;
+  }
+  code span.string {
+    color: #BC6710;
+  }
+  code span.symbol, code span.selectors {
+    color: #1199EE;
+  }
+  code span.properties {
+    color: #BB4411;
+  }
+  code span.keywords {
+    color: #44BB22;
+  }
+  code span.comment {
+    color: #BCBCBC;
+  }
+  code span.shell {
+    background:#f1f1f1;
+  }
+  
+  code.html span.tag, code.xaml span.tag {
+    color: #BB4411;
+  }
+  code.html span.attribute, code.xaml span.attribute {
+    color: #44BB22;
+  }
+  code.html span.string, code.xaml span.string {
+    color: blue;
+  }
+  code.html span.comment, code.xaml span.comment {
+    color: #999999;
+  }
+  code.html span.doctype {
+    color: #D7FF80;
+  }
