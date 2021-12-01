@@ -3,11 +3,11 @@ layout: phasetwo/page
 title: My Carbon Offsets
 ---
 
-As of November 2021, I estimate my carbon footprint to be roughly **4 tons of C02/mo** plus **106 tons of one-time C02 debt** and **642 tons of historical CO2 debt**. Every month, I spend **$1,500.00** on carbon offsets that remove **1.4 tons of CO2** and prevent **36.7 tons of CO2-equivalent** from being released.
+As of November 2021, I [estimate](#emissions-breakdown) my carbon footprint to be roughly **4 tons of C02/mo** plus **106 tons of one-time C02 debt** and **642 tons of historical CO2 debt**. Every month, I spend **$1,500.00** on carbon offsets that remove **1.4 tons of CO2** and prevent **36.7 tons of CO2-equivalent** from being released.
 
 I am currently offsetting **35% of my monthly emissions**, have paid down **31% of my historical emissions**, and have a balance of **106 tons of one-time emissions debt**.
 
-You can read more about these calculations in [Net Zero Ish](/posts/net-zero-ish). This is where it goes.
+This is where it goes.
 
 ## High Quality Removal Projects
 
@@ -68,4 +68,5 @@ Some Assumptions:
 | Tahoe House Build | 75 ton | Removal | 0 (0%) |
 | Recurring | 4 ton/mo | Removal | 1.4 ton/mo (35%) |
 
-_Last updated December 2021_
+You can read more about these calculations in [Net Zero Ish](/posts/net-zero-ish). _Last updated December 2021_
+
