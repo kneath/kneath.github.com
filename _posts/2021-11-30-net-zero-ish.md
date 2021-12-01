@@ -14,7 +14,7 @@ It’s a wonderfully simple idea.
 
 Committing to net zero by purchasing carbon offsets is very easy and relatively cheap!
 
-## Step 1: Estimate My Carbon Footprint
+## Step 1: Estimate Your Carbon Footprint
 
 The average American’s footprint is roughly 2 tons per month, but you can always find a more detailed calculator tailored to your specific lifestyle habits. [Tradewater’s calculator](https://tradewater.us/offsetnow/#household/location) is a good example here. It estimates that my household (my wife & I) emit around 2.7 tons/mo.
 
