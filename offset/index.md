@@ -1,9 +1,9 @@
 ---
 layout: phasetwo/page
-title: Carbon Offsets
+title: My Carbon Offsets
 ---
 
-As of November 2021, I estimate my carbon footprint to be roughly **4 tons of C02/mo** plus **106 tons of modern C02 debt** and **642 tons of historical CO2 debt**. Every month, I spend **$1,500.00** on carbon offsets that remove **1.4 tons of CO2** and prevent **36.7 tons of CO2-equivalent** from being released.
+As of November 2021, I estimate my carbon footprint to be roughly **4 tons of C02/mo** plus **106 tons of one-time C02 debt** and **642 tons of historical CO2 debt**. Every month, I spend **$1,500.00** on carbon offsets that remove **1.4 tons of CO2** and prevent **36.7 tons of CO2-equivalent** from being released.
 
 I am currently offsetting **35% of my monthly emissions**, have paid down **31% of my historical emissions**, and have a balance of **106 tons of one-time emissions debt**.
 
