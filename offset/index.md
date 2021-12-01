@@ -64,7 +64,7 @@ Some Assumptions:
 
 | **Source** | **Total Debt** | **Type of Offset** | **Total Paid** |
 | 1984-2020 | 936 ton | Avoidance | 293.6 ton (31%) |
-| 2021+ Debt | 106.2 ton | Removal | 0 (0%) |
+| 2021+ Debt | 31.2 ton | Removal | 0 (0%) |
 | Tahoe House Build | 75 ton | Removal | 0 (0%) |
 | Recurring | 4 ton/mo | Removal | 1.4 ton/mo (35%) |
 
