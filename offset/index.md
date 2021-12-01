@@ -70,5 +70,7 @@ Some Assumptions:
 
 At current prices, it would cost an additional **$9,630.00** to pay off my historical carbon emissions through avoidance offsets, **$45,000** to pay off my one-time debt in removal offsets, and I would need to increase my monthly subscriptions by **$1,560/mo** to reach net zero.
 
-You can read more about these calculations in [Net Zero Ish](/posts/net-zero-ish). _Last updated December 2021_
+You can read more about these calculations in [Net Zero Ish](/posts/net-zero-ish). 
+
+_Last updated December 2021_.
 
