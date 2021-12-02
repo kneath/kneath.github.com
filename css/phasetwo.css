@@ -81,7 +81,7 @@ h1{
   position: relative;
   z-index: 2;
   margin: 0 auto;
-  padding: 50px 50px;
+  padding: 50px 50px 20px 50px;
   max-width: 660px;
   background: rgb(255, 255, 255);
   box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.05), 4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
@@ -104,10 +104,13 @@ h2 {
 }
 
 h3 {
-    margin: 2em 0 -0.5em;
-    font-weight: bold;
-    font-size: 20px;
-  }
+  margin: 2em 0 -0.5em;
+  font-weight: 400;
+  font-size: 22px;
+}
+h3 a {
+  font-weight: 400;
+}
 
 p {
   margin: 1.5em 0;
@@ -122,7 +125,9 @@ strong {
 }
 
 a {
-  color: #4A90E2
+  color: rgb(71, 118, 171);
+  font-weight: 600;
+  text-decoration: underline;
 }
 
 ol {
@@ -144,7 +149,7 @@ ul>li:before {
   position: absolute;
   top: 0;
   left: 0;
-  color: #cccccc;
+  color: rgba(0, 0, 0, 0.3);
   content: '-';
   text-indent: -20px;
 }
@@ -153,9 +158,9 @@ hr {
   margin: 30px 0 35px 0;
   text-align: center;
   letter-spacing: 3px;
-  font-size: 19px;
+  font-size: 16px;
   font-family: monospace;
-  color: rgba(0, 0, 0, 0.1);
+  color: rgba(0, 0, 0, 0.2);
   border: none;
 }
 hr:before {
@@ -199,8 +204,24 @@ footer {
   margin-top: -900px;
   z-index: 1;
 }
-
+footer p.tagline {
+  z-index: 1;
+  width: 100%;
+  position: absolute;
+  bottom: 40px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.25);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.07);
+}
+footer p.tagline .inner {
+  display: block;
+  margin: 0 auto;
+  max-width: 760px;
+}
 footer .shape {
+  z-index: 0;
   position: absolute;
   bottom: -1000px;
   left: -100%;
@@ -209,6 +230,7 @@ footer .shape {
   background: rgb(71, 118, 171);
   transform-origin: top right;
   transform: rotate(30deg);
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 
