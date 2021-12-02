@@ -4,8 +4,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Warpspire</title>
- <link href="http://warpspire.com/feed/" rel="self"/>
- <link href="http://warpspire.com/"/>
+ <link href="https://warpspire.com/feed/" rel="self"/>
+ <link href="https://warpspire.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://warpspire.com/</id>
  <author>
