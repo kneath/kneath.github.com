@@ -46,52 +46,61 @@ table {
 
 /*
    Phase Two Styles
+   
+   I am sorry 
+   These are my variables
+   It is just
+   That I hate webpack
+   So much
+   So very much
+   And I cannot
+   
+   Background Color: rgb(247, 247, 247)
+   Main Text Color: rgb(0, 0, 0)
+   Page Background: rgb(255, 255, 255)
+   Sub Text Color: rgba(0, 0, 0, 0.3)
+   
+   Accent Orange: rgb(237, 147, 50)
+   Accent Blue: rgb(71, 118, 171)
 */
 
 body {
-  background: #FFFFFF;
-  color: #333333;
+  background: rgb(247, 247, 247);
+  color: rgb(0, 0, 0);
   font-family: 'Nunito Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 400;
-  font-size: 20px;
-  line-height: 1.4;
-  padding: 10px 50px 50px;
-}
-@media only screen and (max-width: 520px) {
-  body {
-    padding: 10px 20px 30px;
-  }
+  font-size: 17px;
+  line-height: 1.5;
 }
 
-h1, h2 {
-  color: #000000;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-weight: 800;
+h1{
+  font-weight: 200;
 }
 
 .container {
+  position: relative;
+  z-index: 2;
   margin: 0 auto;
-  max-width: 800px;
+  padding: 50px 50px;
+  max-width: 660px;
+  background: rgb(255, 255, 255);
+  box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.05), 4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
 
 h1.title {
-  margin: 0 0 0.75em 0;
-  font-size: 42px;
-}
-
-h1.title + p {
-  margin-top: 0;
+  margin: -0.3em 0 0 0;
+  font-size: 36px;
 }
 
 p.date {
-  margin: 0;
-  font-size: 17px;
-  color: #BBBBBB;
+  margin: -0.25em 0 0 0;
+  color: rgba(0, 0, 0, 0.3);
 }
 
 h2 {
   margin: 3em 0 0.5em;
-  font-size: 20px;
+  font-weight: 700;
+  font-size: 22px;
 }
 
 h3 {
@@ -145,7 +154,8 @@ hr {
   text-align: center;
   letter-spacing: 3px;
   font-size: 19px;
-  color: #cccccc;
+  font-family: monospace;
+  color: rgba(0, 0, 0, 0.1);
   border: none;
 }
 hr:before {
@@ -164,24 +174,41 @@ blockquote p {
 }
 
 header {
-  margin: 0 0 40px;
-  padding: 10px 0 30px;
-  text-align: center;
-  border-bottom: 1px solid #DDD;
+  position: relative;
+  overflow: hidden;
+  height: 500px;
+  margin-bottom: -400px;
+  z-index: 1;
 }
 
-header a.logo {
-  display: inline-block;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  text-decoration: none;
-  color: #000;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-weight: 900;
-  font-size: 15px;
-  border: 1px solid #000;
-  border-radius: 50px;
+header .shape {
+  position: absolute;
+  top: -500px;
+  width: 200%;
+  height: 500px;
+  transform-origin: bottom left;
+  transform: rotate(10deg) translate(0, 0);
+  background: rgb(237, 147, 50);
+  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
+}
+
+footer {
+  position: relative;
+  overflow: hidden;
+  height: 1000px;
+  margin-top: -900px;
+  z-index: 1;
+}
+
+footer .shape {
+  position: absolute;
+  bottom: -1000px;
+  left: -100%;
+  width: 200%;
+  height: 1000px;
+  background: rgb(71, 118, 171);
+  transform-origin: top right;
+  transform: rotate(30deg);
 }
 
 
@@ -269,79 +296,79 @@ ul.nonprofits p a {
 }
 
 code{
-    padding: 0 4px;
-    font-family: "Source Code Pro", "Courier New", Courier, sans-serif;
-    font-size: 0.9em;
-    color: #556270;
-    background: #F4FAFF;
-    border-radius: 3px;
-  }
-  pre code {
-    padding: 0;
-    color: inherit;
-    background: inherit;
-    border-radius: 0;
-  }
-  code span.global {
-    color: #3388DD;
-  }
-  code span.brackets {
-    color: #777777;
-  }
-  code span.string {
-    color: #BC6710;
-  }
-  code span.symbol, code span.selectors {
-    color: #1199EE;
-  }
-  code span.properties {
-    color: #BB4411;
-  }
-  code span.keywords {
-    color: #44BB22;
-  }
-  code span.comment {
-    color: #BCBCBC;
-  }
-  code span.shell {
-    background:#f1f1f1;
-  }
-  
-  code.html span.tag, code.xaml span.tag {
-    color: #BB4411;
-  }
-  code.html span.attribute, code.xaml span.attribute {
-    color: #44BB22;
-  }
-  code.html span.string, code.xaml span.string {
-    color: blue;
-  }
-  code.html span.comment, code.xaml span.comment {
-    color: #999999;
-  }
-  code.html span.doctype {
-    color: #D7FF80;
-  }
-  
-  table {
-    width: 100%;
-    border-top: 1px solid #CCCCCC;
-    border-bottom: 2px solid #CCC;
-    color: #000;
-    background: #fff;
-    border-collapse: separate;
-    font-size: 16px;
-  }
-  
-  th {
-    text-align: center;
-    padding: 5px;
-  }
-  
-  td {
-    text-align: left;
-    padding: 5px 8px;
-  }
-  tr:nth-child(odd) td {
-    background: #F5F5F5;
-  }
+  padding: 0 4px;
+  font-family: "Source Code Pro", "Courier New", Courier, sans-serif;
+  font-size: 0.9em;
+  color: #556270;
+  background: #F4FAFF;
+  border-radius: 3px;
+}
+pre code {
+  padding: 0;
+  color: inherit;
+  background: inherit;
+  border-radius: 0;
+}
+code span.global {
+  color: #3388DD;
+}
+code span.brackets {
+  color: #777777;
+}
+code span.string {
+  color: #BC6710;
+}
+code span.symbol, code span.selectors {
+  color: #1199EE;
+}
+code span.properties {
+  color: #BB4411;
+}
+code span.keywords {
+  color: #44BB22;
+}
+code span.comment {
+  color: #BCBCBC;
+}
+code span.shell {
+  background:#f1f1f1;
+}
+
+code.html span.tag, code.xaml span.tag {
+  color: #BB4411;
+}
+code.html span.attribute, code.xaml span.attribute {
+  color: #44BB22;
+}
+code.html span.string, code.xaml span.string {
+  color: blue;
+}
+code.html span.comment, code.xaml span.comment {
+  color: #999999;
+}
+code.html span.doctype {
+  color: #D7FF80;
+}
+
+table {
+  width: 100%;
+  border-top: 1px solid #CCCCCC;
+  border-bottom: 2px solid #CCC;
+  color: #000;
+  background: #fff;
+  border-collapse: separate;
+  font-size: 16px;
+}
+
+th {
+  text-align: center;
+  padding: 5px;
+}
+
+td {
+  text-align: left;
+  padding: 5px 8px;
+}
+tr:nth-child(odd) td {
+  background: #F5F5F5;
+}
