@@ -1,11 +1,10 @@
 ---
-layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Warpspire</title>
- <link href="http://warpspire.com/feed" rel="self"/>
+ <link href="http://warpspire.com/feed/" rel="self"/>
  <link href="http://warpspire.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://warpspire.com/</id>
@@ -14,7 +13,7 @@ layout: nil
    <email>kneath+warpspire@gmail.com</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit: 10 %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
    {% if post.type == 'link' %}
