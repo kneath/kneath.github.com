@@ -8,65 +8,69 @@ layout: phasetwo/default
   <p>If you're feeling nostalgic, you can still browse the <a href="/proxima">older version of this site</a> and read all those old posts about software.</p>
   
   <div class="latest">
-    <h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
+    <h2>Latest Essay</h2>
+    
     <p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
+    <h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
     <p>{{ site.posts.first.summary }}</p>
     <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
-  </div>
-  
-  <div class="mini-archive">
-    <h2>Previously</h2>
-    {% for post in site.posts offset: 1 %}
-      {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-      {% assign yearnum = year | plus: 0 %}
-      {% if yearnum > 2019 %}
-        <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
-        <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
-      {% endif %}
-    {% endfor %}
+    
+    <div class="mini-archive">
+      <h2>Previously</h2>
+      {% for post in site.posts offset: 1 %}
+        {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+        {% assign yearnum = year | plus: 0 %}
+        {% if yearnum > 2019 %}
+          <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 
   <div class="library">
-    <h2>From the Library: Non Fiction</h2>
-    <p>Ten books off the top of my head that have changed my mind, advanced my worldview, or otherwise are worth reading.</p>
+    <h2>Books of Note</h2>
+    <p>Ten books off the top of my head that have changed my mind or taught me something that I use every day. You should read them! If you want.</p>
     <ul class="books">
       <li>
+        <img src="https://assets.warpspire.com/images/books/after-geoengineering.jpg" />
         <h3>After Geoengineering: Climate Tragedy, Repair, and Restoration</h3>
         <p class="author">Holly Jean Buck</p>
       </li>
       <li>
+        <img src="https://assets.warpspire.com/images/books/one-straw-revolution.jpg" />
         <h3>One-Straw Revolution</h3>
         <p class="author">Masanobu Fukuoka</p>
       </li>
       <li>
+        <img src="https://assets.warpspire.com/images/books/patterns-of-home.jpg" />
         <h3>Patterns of Home</h3>
         <p class="author">Max Jacobson, Murray Silverstein, and Barbara Winslow</p>
       </li>
       <li>
+        <img src="https://assets.warpspire.com/images/books/getting-things-done.jpg" />
         <h3>Getting Things Done</h3>
         <p class="author">David Allen</p>
       </li>
+    </ul>
+    <ul class="books">
       <li>
+        <img src="https://assets.warpspire.com/images/books/quiet.jpg" />
         <h3>Quiet: The Power of Introverts in a World That Can't Stop Talking</h3>
         <p class="author">Susan Cain</p>
       </li>
       <li>
+        <img src="https://assets.warpspire.com/images/books/1491.jpg" />
         <h3>1491: New Revelations of the Americas Before Columbus</h3>
         <p class="author">Charles C. Mann</p>
       </li>
       <li>
-        <h3>The Idea Factory: Bell Labs and the Great Ages of American Innovation</h3>
-        <p class="author"> Jon Gertner</p>
-      </li>
-      <li>
-        <h3><a href="https://www.regenerativeagriculture.co/">Regenerative Agriculture</a></h3>
-        <p class="author">Richard Perkins</p>
-      </li>
-      <li>
+        <img src="https://assets.warpspire.com/images/books/predictably-irrational.jpg" />
         <h3>Predictably Irrational</h3>
         <p class="author">Dan Ariely</p>
       </li>
       <li>
+        <img src="https://assets.warpspire.com/images/books/a-place-of-my-own.jpg" />
         <h3>A Place of My Own</h3>
         <p class="author">Michael Pollan</p>
       </li>
