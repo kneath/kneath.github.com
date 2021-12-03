@@ -89,6 +89,17 @@ h1{
   background: rgb(255, 255, 255);
   box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.05), 4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
+@media only screen and (max-width: 825px) {
+  .container {
+    margin: 0;
+    max-width: 100%;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .container {
+    padding: 25px 25px 10px 25px;
+  }
+}
 
 h1.title {
   margin: -0.3em 0 0 0;
@@ -125,6 +136,10 @@ em {
   font-style: italic;
   background: rgba(229, 189, 94, 0.3);
   border-radius: 2px;
+}
+
+strike {
+  color: rgba(95, 79, 24, 0.25);
 }
 
 strong {
@@ -239,12 +254,19 @@ header .shape {
   }
 }
 
+@media only screen and (max-width: 400px) {
+  header .shape {
+    left: -70px;
+  }
+}
+
 .logo-wrap {
   z-index: 2;
   position: relative;
   left: -96px;
   width: 760px;
   margin: 0 auto;
+  transition: left 0.25s;
 }
 .logo {
   z-index: 2;
@@ -272,6 +294,58 @@ header .shape {
   transform-origin: top left;
   transform: rotate(-90deg);
 }
+#logo-svg {
+  fill: rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 1015px) {
+  .logo-wrap {
+    position: absolute;
+    left: -800px;
+    top: 20px;
+  }
+  .logo {
+    position: relative;
+    width: 1000px;
+    height: 56px;
+    padding: 0;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.85);
+  }
+  .logo:hover {
+    background: rgba(255, 255, 255, 1.0);
+  }
+  .logo a{
+    float: right;
+    transform: rotate(0deg);
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .logo-wrap {
+    position: absolute;
+    left: -850px;
+    top: 20px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .logo-wrap {
+    position: absolute;
+    left: -740px;
+    top: 20px;
+    transform: scale(0.75);
+  }
+}
+@media only screen and (max-width: 450px) {
+  .logo-wrap {
+    position: absolute;
+    left: -600px;
+    top: -10px;
+    transform: scale(0.5);
+  }
+}
 
 nav {
   position: relative;
@@ -296,7 +370,7 @@ nav ul.nav {
 nav ul.nav>li {
   float: left;
   margin: 0;
-  padding: 20px 30px 0 0;
+  padding: 0;
   border-top: 15px solid black;
 }
 nav ul.nav>li:before {
@@ -315,12 +389,21 @@ nav ul li:nth-child(4) {
   border-color: rgb(146, 169, 169);
 }
 nav a {
+  display: block;
+  padding-top: 25px;
+  padding-right: 30px;
   color: rgb(255, 255, 255);
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.07);
+}
+nav a:hover {
+  box-shadow: 0 -4px 0 rgba(0, 0, 0, 0.25);
+}
+nav li:first-child a:hover {
+  box-shadow: 0 -4px 0 rgba(255, 255, 255, 0.35);
 }
 
 footer {
@@ -345,6 +428,7 @@ footer p.tagline .inner {
   display: block;
   margin: 0 auto;
   max-width: 760px;
+  transition: padding 0.5s, font-size 0.5s;
 }
 footer .shape {
   z-index: 0;
@@ -359,6 +443,9 @@ footer .shape {
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 @media only screen and (max-width: 750px) {
+  footer p.tagline .inner {
+    padding: 0 10px;
+  }
   footer .shape {
     transform: rotate(30deg);
   }
@@ -369,13 +456,27 @@ footer .shape {
   }
 }
 @media only screen and (max-width: 550px) {
+  footer {
+    height: 1000px;
+    margin-top: -950px;
+  }
+  footer p.tagline {
+    bottom: 5px;
+  }
+  footer p.tagline .inner {
+    font-size: 11px;
+  }
   footer .shape {
     transform: rotate(60deg);
   }
 }
 @media only screen and (max-width: 450px) {
+  footer p.tagline .inner {
+    font-size: 8px;
+  }
   footer .shape {
-    transform: rotate(90deg);
+    margin-left: -20px;
+    margin-bottom: -5px;
   }
 }
 
