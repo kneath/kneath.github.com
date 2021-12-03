@@ -3,7 +3,11 @@ layout: phasetwo/page
 title: "Hi. I'm Kyle."
 ---
 
-Hi, my name is **Kyle Aster** (previously _Kyle Neath_) and I use _Warpspire_ to collect my thoughts on the world. A long time ago it used to be a blog about [product design and development](/proxima) when I did that professionally. But now I'm somewhere between retired and a property developer. I'm not sure yet!
+Hi, my name is **Kyle Aster** (previously Kyle Neath) and I use Warpspire as my playground on the internet. A long time ago it used to be a blog about [product design and development](/proxima) when I did that professionally, but I don't really write about that any longer. Right now I'm somewhere between retired and a property developer. Check back next week for a new answer.
+
+<div class="about-image">
+  <img src="https://assets.warpspire.com/images/site/dubious-kyle.jpg" />
+</div>
 
 If you're looking to read something I've written, here's some of my favorite articles:
 
@@ -68,9 +72,5 @@ I learned more than I ever could have imagined from my time at WA, and I owe eve
 * * * *
 
 And that's a lot to read. I really hope you skimmed most of it. Just in case you didn't and still want to know more, feel free to hit me up at <kyle@warpspire.com>.
-
-<div class="about-image">
-  <img src="https://assets.warpspire.com/images/site/dubious-kyle.jpg" />
-</div>
 
 If you suffer social media, you can usually find me as <strong>@kneath</strong>.

@@ -59,9 +59,12 @@ table {
    Main Text Color: rgb(0, 0, 0)
    Page Background: rgb(255, 255, 255)
    Sub Text Color: rgba(0, 0, 0, 0.3)
+   Highlight Color: rgba(229, 189, 94, 0.5)
    
    Accent Orange: rgb(237, 147, 50)
    Accent Blue: rgb(71, 118, 171)
+   Accent Yellow: rgb(229, 189, 94)
+   Accent Brown: rgb(95, 79, 24)
 */
 
 body {
@@ -79,7 +82,7 @@ h1{
 
 .container {
   position: relative;
-  z-index: 2;
+  z-index: 4;
   margin: 0 auto;
   padding: 50px 50px 20px 50px;
   max-width: 660px;
@@ -110,6 +113,7 @@ h3 {
 }
 h3 a {
   font-weight: 400;
+  color: rgb(0, 0, 0);
 }
 
 p {
@@ -117,7 +121,10 @@ p {
 }
 
 em {
+  padding: 0 5px;
   font-style: italic;
+  background: rgba(229, 189, 94, 0.3);
+  border-radius: 2px;
 }
 
 strong {
@@ -158,13 +165,16 @@ hr {
   margin: 30px 0 35px 0;
   text-align: center;
   letter-spacing: 3px;
-  font-size: 16px;
+  font-size: 13px;
   font-family: monospace;
   color: rgba(0, 0, 0, 0.2);
   border: none;
 }
 hr:before {
   content: '* * * * * *';
+}
+hr + h2 {
+  margin-top: 0;
 }
 
 blockquote {
@@ -191,10 +201,126 @@ header .shape {
   top: -500px;
   width: 200%;
   height: 500px;
+  z-index: 0;
   transform-origin: bottom left;
-  transform: rotate(10deg) translate(0, 0);
+  transform: rotate(10deg);
   background: rgb(237, 147, 50);
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
+  transition: transform 0.5s;
+}
+@media only screen and (max-width: 950px) {
+  header .shape {
+    transform: rotate(12.5deg);
+  }
+}
+@media only screen and (max-width: 850px) {
+  header .shape {
+    transform: rotate(15deg);
+  }
+}
+@media only screen and (max-width: 750px) {
+  header .shape {
+    transform: rotate(17.5deg);
+  }
+}
+@media only screen and (max-width: 650px) {
+  header .shape {
+    transform: rotate(20deg);
+  }
+}
+@media only screen and (max-width: 550px) {
+  header .shape {
+    transform: rotate(25deg);
+  }
+}
+@media only screen and (max-width: 450px) {
+  header .shape {
+    transform: rotate(30deg);
+  }
+}
+
+.logo-wrap {
+  z-index: 2;
+  position: relative;
+  left: -96px;
+  width: 760px;
+  margin: 0 auto;
+}
+.logo {
+  z-index: 2;
+  position: fixed;
+  top: 100px;
+  width: 56px;
+  padding-top: 165px;
+  height: 100%;
+  background: rgb(255, 255, 255);
+  box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.05), 4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
+}
+.logo:hover {
+  background: rgba(255, 255, 255, 0.5);
+  box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.1), 4px 4px 0 rgba(0, 0, 0, 0.1), 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+.logo a{
+  display: block;
+  width: 145px;
+  height: 56px;
+  padding: 0 20px 0 0;
+  overflow: hidden;
+  text-decoration: none; 
+  text-align: right;
+  text-shadow: none;
+  transform-origin: top left;
+  transform: rotate(-90deg);
+}
+
+nav {
+  position: relative;
+  z-index: 1;
+  margin: 0 auto;
+  max-width: 760px;
+}
+nav .bar {
+  display: block;
+  position: relative;
+  left: 760px;
+  width: 200000px;
+  height: 15px;
+  background: rgb(95, 79, 24);
+}
+nav ul.nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+}
+nav ul.nav>li {
+  float: left;
+  margin: 0;
+  padding: 20px 30px 0 0;
+  border-top: 15px solid black;
+}
+nav ul.nav>li:before {
+  content:'';
+}
+nav ul li:nth-child(1) {
+  border-color: rgb(229, 189, 94);
+}
+nav ul li:nth-child(2) {
+  border-color: rgb(178, 26, 23);
+}
+nav ul li:nth-child(3) {
+  border-color: rgb(126, 127, 74);
+}
+nav ul li:nth-child(4) {
+  border-color: rgb(146, 169, 169);
+}
+nav a {
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.07);
 }
 
 footer {
@@ -202,15 +328,15 @@ footer {
   overflow: hidden;
   height: 1000px;
   margin-top: -900px;
-  z-index: 1;
+  z-index: 3;
 }
 footer p.tagline {
-  z-index: 1;
+  z-index: 3;
   width: 100%;
   position: absolute;
   bottom: 40px;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 800;
   color: rgba(255, 255, 255, 0.25);
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.07);
@@ -232,22 +358,51 @@ footer .shape {
   transform: rotate(30deg);
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
+@media only screen and (max-width: 750px) {
+  footer .shape {
+    transform: rotate(30deg);
+  }
+}
+@media only screen and (max-width: 650px) {
+  footer .shape {
+    transform: rotate(45deg);
+  }
+}
+@media only screen and (max-width: 550px) {
+  footer .shape {
+    transform: rotate(60deg);
+  }
+}
+@media only screen and (max-width: 450px) {
+  footer .shape {
+    transform: rotate(90deg);
+  }
+}
 
 
+.homepage .latest h1 {
+  margin-top: 1em;
+}
 .homepage .latest h1 a {
-  color: #000;
+  color: rgb(0, 0, 0);
+  font-weight: 400;
   text-decoration: none;
+}
+.homepage h2 {
+  margin-top: 1em;
+}
+.homepage h2.first {
+  margin-top: 0;
 }
 .homepage .latest a.continue {
   font-weight: bold;
 }
 .homepage .latest p.date {
-  margin-top: 45px;
 }
 
 .homepage .latest, .homepage .mini-archive, .homepage .library, .homepage .charity {
   margin: 45px 0;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 .mini-archive .date {
@@ -313,8 +468,11 @@ ul.nonprofits p a {
 }
 
 .post-content img, .page-content img {
+  padding: 7px;
   max-width: 100%;
   min-width: 100%;
+  border: 1px solid rgb(0, 0, 0, 0.1);
+  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
 }
 
 code{
@@ -324,6 +482,12 @@ code{
   color: #556270;
   background: #F4FAFF;
   border-radius: 3px;
+}
+pre {
+  overflow: scroll;
+  padding: 5px 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
 }
 pre code {
   padding: 0;
@@ -373,13 +537,11 @@ code.html span.doctype {
 }
 
 table {
+  margin: 2em 0 1em;
   width: 100%;
-  border-top: 1px solid #CCCCCC;
-  border-bottom: 2px solid #CCC;
-  color: #000;
-  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.15);
   border-collapse: separate;
-  font-size: 16px;
+  box-shadow:  4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
 
 th {
@@ -392,5 +554,5 @@ td {
   padding: 5px 8px;
 }
 tr:nth-child(odd) td {
-  background: #F5F5F5;
+  background: rgba(0, 0, 0, 0.03);
 }

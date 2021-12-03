@@ -9,6 +9,8 @@ I am currently offsetting **35% of my monthly emissions**, have paid down **31% 
 
 This is where it goes.
 
+-----
+
 ## High Quality Removal Projects
 
 I have high confidence these projects permanently remove carbon dioxide from the atmosphere that otherwise would not have been removed without creating emissions elsewhere.

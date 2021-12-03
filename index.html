@@ -3,13 +3,13 @@ layout: phasetwo/default
 ---
 
 <div class="homepage">
-  <h2>It's me. Kyle <strike>Neath</strike> Aster.</h2>
-  <p>A long time ago, I used to build internet. Now I don't.</p>
-  I don't have navigation yet, so maybe read <a href="/about">about me</a>, <a href="/now">what I'm doing now</a>, <a href="/giving">where my giving goes</a>, and how I <a href="/offset">offset my carbon emissions</a>. If you're feeling nostalgic, you can even browse the <a href="/proxima">older version of this site</a>.</p>
+  <h2 class="first">It's me. Kyle <strike>Neath</strike> Aster.</h2>
+  <p>A long time ago, I used to build internet. Now I don't. <strong>Warpspire</strong> remains — my little home on the internet. These days I call it <em>fragments toward a more resilient future</em> for whatever that means. I'm not sure yet!</p>
+  <p>If you're feeling nostalgic, you can still browse the <a href="/proxima">older version of this site</a> and read all those old posts about software.</p>
   
   <div class="latest">
-    <p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
     <h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
+    <p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
     <p>{{ site.posts.first.summary }}</p>
     <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
   </div>

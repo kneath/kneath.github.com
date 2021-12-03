@@ -5,6 +5,8 @@ title: Giving
 
 These are the non-profits I regularly give to, and a little context for why I like them.
 
+-----
+
 ## Tahoe Local
 
 I'm a big believer in your local community, so a lot of the non-profits I give to are doing good things around Tahoe (and other places I frequent).
