@@ -15,9 +15,11 @@ If you're looking to read something I've written, here's some of my favorite art
 * [Taste and The Zen of GitHub](/posts/taste)
 * [Product](/posts/product)
 
-Work-wise, the last job I had was leading Product at GitHub where I spent five years growing the product and building out the design team. The remainder of this page is a sort of history of how I got there. If you're curious about what I'm doing now, head on over to [warpspire.com/now](/now).
+If you're curious about what I'm doing now, head on over to [warpspire.com/now](/now). If you are interested in keeping up with my personal life, I send out an occasional [newsletter](https://buttondown.email/kneath/) you're free to subscribe to.
 
 * * * *
+
+Work-wise, the last job I had was leading Product at GitHub where I spent five years growing the product and building out the design team. The remainder of this page is a sort of history of how I got there.
 
 I've been able to work with some seriously smart individuals throughout my career, and as a result, I've been able to be a part of some really exciting projects. These are some I'm most proud of.
 
