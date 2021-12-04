@@ -598,7 +598,6 @@ ul.itemized h3 a {
 }
 ul.itemized p {
   margin: 0;
-  font-weight: 200;
   color: rgba(0, 0, 0, 0.8);
 }
 ul.itemized p a {
