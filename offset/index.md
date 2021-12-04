@@ -15,13 +15,13 @@ This is where it goes.
 
 I have high confidence these projects permanently remove carbon dioxide from the atmosphere that otherwise would not have been removed without creating emissions elsewhere.
 
-<ul class="nonprofits">
+<ul class="itemized">
   <li>
-  <h3><a href="https://climeworks.com/invitation/Jy04DG0A">Climeworks</a> $500/mo for 0.5 tons</h3>
+  <h3><a href="https://climeworks.com/invitation/Jy04DG0A">Climeworks</a> <em>$500/mo for 0.5 tons</em></h3>
   <p>Climeworks builds DAC (Direct Air Capture) machines that use geothermal energy to suck carbon dioxide out of the air and store it the bedrock below. These are by far the most robust and effective offsets available, however they are extremely costly and the technology is only effective in very specific geographic areas.</p>
   </li>
   <li>
-  <h3><a href="https://charmindustrial.com/">Charm Industrial</a> $500/mo for 0.9 tons</h3>
+  <h3><a href="https://charmindustrial.com/">Charm Industrial</a> <em>$500/mo for 0.9 tons</em></h3>
   <p>Charm Industrial uses a process called BCCS (Biomass Carbon Capture and Storage) to turn plant residue into an oil which is then injected underground. This is one of the most promising technologies for scaling carbon offsets, but is still quite expensive.</p>
   </li>
 </ul>
@@ -30,9 +30,9 @@ I have high confidence these projects permanently remove carbon dioxide from the
 
 I have high confidence these projects permanently prevent greenhouse gasses from being released that otherwise would have been released due to inaction.
 
-<ul class="nonprofits">
+<ul class="itemized">
   <li>
-  <h3><a href="https://tradewater.us">Tradewater</a> $500/mo for 36.7 tons</h3>
+  <h3><a href="https://tradewater.us">Tradewater</a> <em>$500/mo for 36.7 tons</em></h3>
   <p>Tradewater searches out refrigerants (like say and old refrigerator in a dump), collects the chemicals, and destroys them before the powerful greenhouse gasses can be released into the atmosphere. <a href="https://drawdown.org/solutions/refrigerant-management">Refrigerant Management</a> has long been a staple of Project Drawdown.</p>
   </li>
 </ul>
@@ -41,7 +41,7 @@ I have high confidence these projects permanently prevent greenhouse gasses from
 
 I have hopes that these projects either temporarily prevent greenhouse gasses from being released, or provide a framework toward a carbon-negative process. I have invested or otherwise donated to these organizations, and I like what they're doing.
 
-<ul class="nonprofits">
+<ul class="itemized">
   <li>
   <h3><a href="https://www.worldtree.eco/">WorldTree / Eco-Tree</a></h3>
   <p>WorldTree has patented a specific variety of Empress Tree, notable for its extremely fast growth rate. They partner with farmers to grow these trees and harvest them for lumber and biomass sales. If combined with BECCS (Bioenergy and Carbon Capture and Sequestration), this could result in a durable market that continually sequesters carbon from the atmosphere. There are significant logistical challenges to make this process actually carbon negative.</p>

@@ -15,7 +15,7 @@ These are the non-profits I regularly support, and a little context for why I li
 
 I'm a big believer in your local community, so a lot of the non-profits I give to are doing good things around Tahoe (and other places I frequent).
 
-<ul class="nonprofits">
+<ul class="itemized">
   <li>
   <h3><a href="https://tamba.org/">Tahoe Area Mountain Bike Association</a></h3>
   <p>Have you ever heard of <strong>Toad's Wild Ride</strong> or <strong>Flume Trail</strong>? TAMBA is behind all of the incredible mountain biking trails we have around the lake. I'm happy to support any organization giving people more access the natural beauty of our mountains.</p>
@@ -66,13 +66,11 @@ I'm a big believer in your local community, so a lot of the non-profits I give t
   </li>  
 </ul>
 
-----
-
 ## Carbon Removal & Sequestration
 
 The planet isn't doing so good as of late. These are a few organizations I think are helping us prepare for a future where we'll take carbon removal seriously.
 
-<ul class="nonprofits">
+<ul class="itemized">
   <li>
   <h3><a href="https://carbon180.org/">Carbon 180</a></h3>
   <p>Carbon180 is dedicated to educating the public and policymakers on the best, most viable solutions for carbon removal. They are an incredible resource in everything climate — and the first place I'd direct anyone looking for how to help.</p>
@@ -107,13 +105,11 @@ The planet isn't doing so good as of late. These are a few organizations I think
   </li>
 </ul>
 
-----
-
 ## Social Good
 
 I don't really know what to call this category, but I've settled on _social good_. It's organizations that do things like combat global poverty, prevent people from dying, or builds some kind of super valuable free infrastructure for the world.
 
-<ul class="nonprofits">
+<ul class="itemized">
   <li>
   <h3><a href="https://www.givewell.org/">GiveWell</a></h3>
   <p>GiveWell is at the heart of the <a href="https://bookshop.org/books/doing-good-better-how-effective-altruism-can-help-you-help-others-do-work-that-matters-and-make-smarter-choices-about-giving-back/9781592409662?aid=613">Effective Altruism</a> movement in philanthropy, an evidence-based approach to pick effective charities around the world. I'm very far from an expert in poverty or global health, so I'm thankful GiveWell exists to maximize my impact without becoming an expert.</p>

@@ -409,8 +409,8 @@ nav li:first-child a:hover {
 footer {
   position: relative;
   overflow: hidden;
-  height: 10000px;
-  margin-top: -9900px;
+  height: 1000px;
+  margin-top: -900px;
   z-index: 3;
 }
 footer p.tagline {
@@ -527,6 +527,7 @@ ul.books{
   margin-top: 2em;
 }
 ul.books>li {
+  overflow: hidden;
   flex: 0 0 auto;
   flex-basis: 100%;
   max-width: 23%;
@@ -552,7 +553,7 @@ ul.books h3 {
   font-weight: 700;
   text-decoration: underline;
 }
-ul.books h3 a {
+ul.books a {
   color: inherit;
 }
 ul.books p.author {
@@ -561,30 +562,46 @@ ul.books p.author {
   font-style: italic;
 }
 
+@media only screen and (max-width: 450px) {
+ ul.books h3 {
+   font-size: 11px;
+ } 
+ ul.books p.author {
+   font-size: 10px;
+ }
+}
 
-ul.nonprofits{
-  padding-left: 20px;
+
+ul.itemized{
   margin-left: 0;
   margin-bottom: 45px;
-  border-left: 4px solid #ddd;
 }
-ul.nonprofits>li {
-  margin: 1em 0;
+ul.itemized>li {
+  margin: 1.5em 0 1em 0;
+  padding: 15px 20px;
   list-style-type: none;
+  box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.05), 4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
-ul.nonprofits>li:before {
+ul.itemized>li:before {
   display: none;
   content: ""
 }
-ul.nonprofits h3 {
-  margin: 0;
-  font-weight: bold;
+ul.itemized>li:first-child {
+  margin-top: 0;
 }
-ul.nonprofits p {
-  margin: 0;
-  font-style: italic;
+ul.itemized h3 {
+  margin: 0 0 0.5em 0;
+  font-size: 17px;
 }
-ul.nonprofits p a {
+ul.itemized h3 a {
+  font-weight: 700;
+}
+ul.itemized p {
+  margin: 0;
+  font-weight: 200;
+  color: rgba(0, 0, 0, 0.8);
+}
+ul.itemized p a {
   color: #000;
 }
 
