@@ -26,7 +26,7 @@ I kind of already spoiled this step with the screenshot above. As you can see, y
 
 ----
 
-Here’s the thing. None of that is *wrong* but it definitely isn't *right* either. Earnestly committing to net zero is incredibly complex, extremely expensive, and riddled with philosophical questions cannot be universally answered.
+Here’s the thing. None of that is *wrong* but it definitely isn't *right* either. Earnestly committing to net zero is incredibly complex, extremely expensive, and riddled with philosophical questions that cannot be universally answered.
 
 ## Problem 1: Calculating A Carbon Footprint
 
