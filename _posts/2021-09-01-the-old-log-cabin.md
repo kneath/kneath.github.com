@@ -6,31 +6,31 @@ summary: For those of you who don’t know, I own an old high elevation cow camp
 
 For those of you who don’t know, I own an old high elevation cow camp in the Sierra Nevadas with my friend David. It’s home to a 99 year old hand-hewn log cabin, a chainsaw milled post & beam horse barn, and a few smaller bunk houses. It’s been a source of great joy and fulfillment over the years. We call it Leaping Daisy, or sometimes just The Ranch.
 
-![The Cabin in Winter](http://assets.warpspire.com/images/the-old-log-cabin/cabin-in-winter.jpg)
+![The Cabin in Winter](https://assets.warpspire.com/images/the-old-log-cabin/cabin-in-winter.jpg)
 
 Now for the sad part: the rancher who grazes cattle around the ranch called yesterday, and let me know the old cabin and all the bunk houses burned down in the Caldor Fire.
 
-![The Cabin's Remains](http://assets.warpspire.com/images/the-old-log-cabin/cabin-remains.png)
+![The Cabin's Remains](https://assets.warpspire.com/images/the-old-log-cabin/cabin-remains.png)
 
 Jessica and I have put a lot of work into the cabin the past couple of years — it was a particularly good escape from the beginning months of the coronavirus lockdown. We cleaned it up, fixed the plumbing, replaced the chinking, put a fresh coat of stain on the old logs, and very nearly removed the resident mice.
 
 We may have owned the cabin, but it wasn’t really ours. It was a relic from the Old West, a place where the cowboys would come after a long day of rounding up cattle, start a fire in the wood stove, and fry up some chicken for dinner. It was a building that invited stories and encouraged the imagination. What did this place look like in 1922 when they cleared the land and built the cabin? What kinds of tools did they use? How did Bungie lift those roof rafters by himself when he replaced the roof at the age of 65?
 
-![Dog Spirals in Winter](http://assets.warpspire.com/images/the-old-log-cabin/dog-spirals.gif)
+![Dog Spirals in Winter](https://assets.warpspire.com/images/the-old-log-cabin/dog-spirals.gif)
 
 It’s sad, but it isn’t tragic — this is what living in the mountains means. To choose to live in the mountains means you choose to live in the midst of powers far beyond your control. It means preparing for the weather, respecting the terrain, wrapping your arms around trees five feet in diameter, and climbing boulders bigger than houses. And it also means living with wildfire. There is no fire-free option for our forests. We burn them, or we watch them burn. This time we watched them burn.
 
-![Jess in the Hammock in front  of the bath house](http://assets.warpspire.com/images/the-old-log-cabin/jess-in-hammock.jpg)
+![Jess in the Hammock in front  of the bath house](https://assets.warpspire.com/images/the-old-log-cabin/jess-in-hammock.jpg)
 
 I’m grateful for all the memories we made at the old cabin, and I’m glad so many of you were able to experience it while it was still around. Its story is finished. A hundred years ago someone cleared the forest to build a cabin, and yesterday the forest took it back.
 
 This is hardly the end for Leaping Daisy. For now, the old barn still stands, the UTV sits safely in its shed, and the solar shed is still up and running and providing WiFi for the embers. The underbrush has burned away and many healthy trees remain standing. The forest is resilient.
 
-![The Barn amoungst embers](http://assets.warpspire.com/images/the-old-log-cabin/barn-remains.png)
+![The Barn amoungst embers](https://assets.warpspire.com/images/the-old-log-cabin/barn-remains.png)
 
 The joy of the ranch has never been in the having — it's been in the doing. There’s a little less to have now, but there’s still plenty to do. We’ll have to buy some new chainsaws and dig a new outhouse. Then maybe we can get started on something to inspire stories for the years to come.
 
-![Wildflowers in the meadow](http://assets.warpspire.com/images/the-old-log-cabin/meadow.jpg)
+![Wildflowers in the meadow](https://assets.warpspire.com/images/the-old-log-cabin/meadow.jpg)
 
 ----
 
