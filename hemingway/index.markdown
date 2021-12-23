@@ -14,4 +14,6 @@ If you're looking for Hemingway support, [check out the support forums](http://s
 <div class="figure"><a href="https://assets.warpspire.com/images/hemingway/home.png"><img src="https://assets.warpspire.com/images/hemingway/home_preview.gif" alt="Preview of Hemingway's Home Page Template" /></a></div>
 <div class="figure"><a href="https://assets.warpspire.com/images/hemingway/hemingway.png"><img src="https://assets.warpspire.com/images/hemingway/preview.gif" alt="Preview of Hemingway's Post Template" /></a></div>
 
-If you'd like to help contribute to Hemingway I'd be more than delighted to accept patches though GitHub: <http://github.com/kneath/hemingway>.
+If you'd like to help contribute to Hemingway ~~I'd be more than delighted to accept patches~~ though GitHub: <http://github.com/kneath/hemingway> 
+
+_Holy mother of science I will not be accepting any patches. What is dead may never die. And yet, Hemingway is dead._
