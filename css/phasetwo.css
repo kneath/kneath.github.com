@@ -202,6 +202,16 @@ blockquote p {
   margin: 12px 0;
   color: #999;
 }
+blockquote.pull {
+  font-size: 28px;
+  font-family: Palatino, serif;
+  font-style: italic;
+  border-left: none;
+  text-align: center;
+}
+blockquote.pull p {
+  color: #000;
+}
 
 header {
   position: relative;
