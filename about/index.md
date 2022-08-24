@@ -63,11 +63,13 @@ In 2014, I left San Francisco and GitHub to help care for my dad who was sufferi
 
 Lucky for me — that whole GitHub thing ended up being [pretty financially lucrative](https://news.microsoft.com/announcement/microsoft-acquires-github/) and has allowed me to reach escape velocity from capitalism and ask myself _what exactly is it you want to do with your life?_ 
 
-I've slowly come to the realization that I kind of don't care about Building Stuff With Computers any longer. So I've turned my focuses more local and more physical — investing in local businesses and trying to make South Lake the best little mountain town it can be. Most recently, Jessica and I are trying something new: commercial property development. Planning department willing — we'll be turning an old gas station into a beautiful cafe built for people, not cars.
+![My mountain bike on the Lily Lake trail in South Lake Tahoe](https://assets.warpspire.com/images/about/mountain-biking.jpg)
+
+I've slowly come to the realization that I kind of don't care about Building Stuff With Computers any longer. I'm done [cranking](/posts/link-cranking). I spend a lot of my time enjoying the mountains and pursuing things that bring me joy. Professionally speaking, I've turned my focuses more local and more physical — investing in local businesses and trying to make South Lake the best little mountain town it can be. Most recently, Jessica and I are trying something new: commercial property development. Planning department willing — we'll be turning an old gas station into a beautiful cafe built for people, bikes, and all manners of electrified not-just-bikes.
 
 ![Aster Station](https://assets.warpspire.com/images/about/aster-station.jpg)
 
-We're calling it _A Gas Station For The Future_. It'll be a while.
+We're calling it _A Gas Station For The Future_.
 
 * * * *
 
