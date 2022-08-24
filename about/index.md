@@ -51,7 +51,11 @@ By the time I graduated with my degree in Civil Engineering in 2007, I had alrea
 
 In the end, big agency life wasn't for me. I left Web Associates in 2008 and worked at a small consultancy named [ENTP](http://entp.com/) led by [@court3nay](https://twitter.com/court3nay) (who I'd met through `#caboose`). I worked on a mix of client work and product development during my time there, most notably working with [@technoweenie](http://techno-weenie.net/) to design, build out, and grow the first version of [Tender](https://tenderapp.com).
 
+![Tender Homepage I designed](https://assets.warpspire.com/images/about/tenderapp.jpg)
+
 In 2009, I moved to San Francisco and through old 9Rules and `#caboose` connections I ended up getting a job offer from [GitHub](https://github.com) as the first design hire. That kind of set the tone for the rest of my professional career. It was the epitome of what I wanted to work on: full time on a product funded by subscriptions, not ad revenue. And so the next five years of my life got absorbed in building out the company and the product that everyone now knows as GitHub.
+
+![A piece of the GitHub Zen: Anything added dillutes everything else](https://assets.warpspire.com/images/about/github-zen.jpg)
 
 In 2014, I left San Francisco and GitHub to help care for my dad who was suffering from cerebellar ataxia. It wasn't how I expected to leave, but in the end I think it was good for me. I loved GitHub, but I just wasn't built to thrive in large organizations.
 
