@@ -9,7 +9,7 @@ Hi, my name is **Kyle Aster** (previously Kyle Neath) and this is my home on the
   <img src="https://assets.warpspire.com/images/site/dubious-kyle.jpg" />
 </div>
 
-Professionally, I'm a retired digital product designer. But I'm only retired in the sense that I don't work for other people any longer. I'm mostly focused on investing in my local community: nonprofits, businesses, and most recently — commercial property development.
+Professionally, it's easiest to say I'm a retired digital product designer. I shouldn't need to work for anyone ever again. But I keep busy — right now I'm focused on investing in my local community: nonprofits, businesses, and most recently — commercial property development.
 
 If you are interested in keeping up with my personal life, I send out an occasional newsletter I call [_Seasons of Kyle_](https://buttondown.email/kneath/).
 
@@ -17,11 +17,21 @@ If you are interested in keeping up with my personal life, I send out an occasio
 
 ## I used to do a lot with computers
 
-I don't remember a lot about how I became interested in computers — I just remember them always being around. My elementary school had a computer lab full of Apple IIs that I remember playing [Number Munchers](https://en.wikipedia.org/wiki/Number_Munchers) and [Pizza to Go](https://www.mobygames.com/game/pizza-to-go) on. I also remember the school getting a special grant to have an internet lab around 1993 where we downloaded recipes from [Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol)) and spent hours downloading images from Hubble on Mosaic later in the year.
+I don't remember a lot about how I became interested in computers — I just remember them always being around. My elementary school had a computer lab full of Apple IIs that I remember playing [Number Munchers](https://en.wikipedia.org/wiki/Number_Munchers), [Pizza to Go](https://www.mobygames.com/game/pizza-to-go) and all sorts of funny little "educational" games on. I also remember the school getting a special grant to have an internet lab around 1993 where we downloaded recipes from [Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol)), and more notably — spent hours very slowly downloading images from Hubble with Mosaic. Space! It's a hell of a drug.
 
-By the time I was in middle school, I was building websites for Warcraft II on Tripod and [Angelfire](https://www.angelfire.com/ak/locher/) — Made with Mac GIFS, keyword stuffing and all. By high school (~2000) I was building websites for a couple non-profits and my Dad's construction business and finally landed my first paid gig: photographs and a website for [poisonous lizards](https://www.helodermahorridum.com/).
+By the time I was in middle school, I was building websites for Warcraft II on Tripod and [Angelfire](https://www.angelfire.com/ak/locher/) — Made with Mac GIFS, keyword stuffing and all. By high school (~2000) I was building websites for a couple non-profits and my Dad's construction business and finally landed my first paid gig: photographs and a website for [poisonous lizards](https://www.helodermahorridum.com/). Yes, they tried to bite me.
 
-In 2001, I became obsessed with [Utopia](http://dominion.opendominion.net/) and [Dominion](http://dominion.opendominion.net/) — online turn-based strategy games that required you to log in every hour to play your turn in real time. Because of this, I picked up my first programming language — ASP 3.0 — and started to build my own game with a couple of friends: [Nightfire](https://github.com/kneath/nightfire/). _Fun fact: Nightfire was actually the origin of this domain, warpspire.com._
+<div class="inline-img">
+<img src="https://assets.warpspire.com/images/about/madewithmac.gif" width="64" height="80" />
+</div>
+
+In 2001, I became obsessed with [Utopia](http://dominion.opendominion.net/) and [Dominion](http://dominion.opendominion.net/) — online turn-based strategy games that required you to log in every hour to play your turn in real time. Because of this, I picked up my first programming language — ASP 3.0 — and started to build my own game with a couple of friends: [Nightfire](https://github.com/kneath/nightfire/). We never finished the game, but it was the motivator to learn all about databases, server-side programming, and HTML & CSS.
+
+<div class="inline-img">
+<img src="https://assets.warpspire.com/images/about/nightfire.gif" />
+</div>
+
+**Fun fact:** Nightfire was actually the origin of this domain, warpspire.com — blame 13 year old Kyle for why it doesn't make any sense.
 
 * * * *
 
@@ -30,6 +40,8 @@ In 2002, I graduated high school and went off to [Cal Poly](https://www.calpoly.
 By 2004, my tuition had quadrupled and Arnold Schwarzenegger was now my governor.  Cool.
 
 So when I wasn't in class, I just kept building websites. I built websites on contract. I maintained websites for hourly wages. I built Amazon and Zzounds affiliate websites. I built [Wordpress themes](https://warpspire.com/hemingway/) and made money off Dreamhost affiliate links. I built and re-built my blog a dozen times. And along the way I learned all manners of web technologies. I had a firm grasp on HTML, CSS and web standards. I could write enough PHP to do just about anything I could imagine. And I was almost making enough money to pay my ever-increasing tuition (and books, and rent, and…). So I also got a job at Subway.
+
+![Warpspire through the years](https://assets.warpspire.com/images/about/warpspirethroughtheyears.png)
 
 This is all to say, I never really had a plan. I just wanted to make rent and stay in school. So when [Web Associates](https://www.crunchbase.com/organization/web-associates) called me up for an interview in 2004 and offered me $12/hr for as many hours as I could work, I was ecstatic. I spent the next 4 years there working on projects for Apple, RIM, Oakley, Disney, Motorola, and Hewlett-Packard. I built things in ColdFusion, in Java, in ASP.NET — with XSL and WPF and probably a handful of technologies I've erased from my brain.
 
@@ -47,7 +59,11 @@ In 2014, I left San Francisco and GitHub to help care for my dad who was sufferi
 
 Lucky for me — that whole GitHub thing ended up being [pretty financially lucrative](https://news.microsoft.com/announcement/microsoft-acquires-github/) and has allowed me to reach escape velocity from capitalism and ask myself _what exactly is it you want to do with your life?_ 
 
-I've slowly come to the realization that I kind of don't care about Building Stuff With Computers any longer. So I've turned my focuses more local and more physical — trying to invest in local businesses and infrastructure.
+I've slowly come to the realization that I kind of don't care about Building Stuff With Computers any longer. So I've turned my focuses more local and more physical — investing in local businesses and trying to make South Lake the best little mountain town it can be. Most recently, Jessica and I are trying something new: commercial property development. Planning department willing — we'll be turning an old gas station into a beautiful cafe built for people, not cars.
+
+![Aster Station](https://assets.warpspire.com/images/about/aster-station.jpg)
+
+We're calling it _A Gas Station For The Future_. It'll be a while.
 
 * * * *
 

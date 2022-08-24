@@ -621,6 +621,14 @@ ul.itemized p a {
   border: 1px solid rgb(0, 0, 0, 0.1);
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
 }
+.post-content .inline-img, .page-content .inline-img {
+  text-align: center;
+}
+.post-content .inline-img img, .page-content .inline-img img {
+  min-width: 0;
+  border: none;
+  box-shadow: none;
+}
 
 code{
   padding: 0 4px;
