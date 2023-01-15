@@ -132,8 +132,10 @@ p {
 }
 
 em {
-  padding: 0 5px;
   font-style: italic;
+}
+em.highlight {
+  padding: 0 5px;
   background: rgba(229, 189, 94, 0.3);
   border-radius: 2px;
 }
