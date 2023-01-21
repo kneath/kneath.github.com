@@ -39,7 +39,7 @@ In 2001, I became obsessed with [Utopia](http://dominion.opendominion.net/) and 
 
 In 2002, I graduated high school and went off to [Cal Poly](https://www.calpoly.edu/) as a Civil Engineering major. To pay the bills, I kept working on Stepmom's gallery site and maintained the Civil Engineering department's site.
 
-By 2004, my tuition had quadrupled and Arnold Schwarzenegger was now my governor. Cool.
+By 2004, my tuition had quadrupled and Arnold Schwarzenegger was now my governor. So it goes.
 
 So when I wasn't in class, I kept building websites. I built websites on contract. I maintained websites for hourly wages. I built Amazon, Musician's Friend, and Zzounds affiliate websites. I built [Wordpress themes](https://warpspire.com/hemingway/) and made money off Dreamhost affiliate links. I _made money online_. I built and re-built my blog a dozen times. And along the way I learned all manners of web technologies. I had a firm grasp on HTML, CSS and web standards. I could write enough PHP to do just about anything I could imagine. And I was almost making enough money to pay my ever-increasing tuition (and books, and rent, and…). I also got a job at Subway. So it goes.
 
