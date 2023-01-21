@@ -71,7 +71,9 @@ Lucky for me — that whole GitHub thing ended up being [pretty financially lucr
 
 ![My mountain bike on the Lily Lake trail in South Lake Tahoe](https://assets.warpspire.com/images/about/mountain-biking.jpg)
 
-I've slowly come to the realization that I kind of don't care about Building Stuff With Computers any longer. I'm done [cranking](/posts/link-cranking). I spend a lot of my time enjoying the mountains and pursuing things that bring me joy. Professionally speaking, I've turned my focuses more local and more physical — investing in local businesses and trying to make South Lake the best little mountain town it can be. Jessica and I are also trying something new: commercial property development. Planning department willing — we'll be turning an old gas station into a beautiful cafe built for people, bikes, and all manners not-just-bikes.
+I've slowly come to the realization that I kind of don't care about Building Stuff With Computers any longer. I'm done [cranking](/posts/link-cranking). I spend a lot of my time enjoying the mountains and pursuing things that bring me joy. Professionally speaking, I've turned my focuses more local and more physical — investing in local businesses and trying to make South Lake the best little mountain town it can be.
+
+Jessica and I are also trying something new: commercial property development. Planning department willing — we'll be turning an old gas station into a beautiful cafe built for people, bikes, and all manners not-just-bikes.
 
 ![Aster Station](https://assets.warpspire.com/images/about/aster-station.jpg)
 
