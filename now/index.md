@@ -5,32 +5,33 @@ title: What I'm Doing Now
 
 This is what I’m doing now. In the style of [nownownow.com](https://nownownow.com/about).
 
-***Last updated:** October 12, 2021 from Palm Springs, CA.*
+***Last updated:** January 21, 2023 from South Lake Tahoe, CA.*
 
 ## Building A House
 
-In 2019, I bought an empty plot of land in South Lake Tahoe to build a house. And then I dove into books about functional architecture like [Patterns of Home](https://www.amazon.com/Patterns-Home-Essentials-Enduring-Design/dp/156158696X), picked up [SketchUp](https://sketchup.com/) and started coming up with ideas. And then I kind of couldn't stop. Since then I partnered up with [Sierra Sustainable Builders](https://www.sierrasustainable.com/) to take this theoretical house design and turn it into a possible house. And now they're turning our possible house into a real house that exists in the world. Concrete!
+In 2019, I bought an empty plot of land in South Lake Tahoe to build a house. And then I dove into books about functional architecture like [Patterns of Home](https://www.amazon.com/Patterns-Home-Essentials-Enduring-Design/dp/156158696X), picked up [SketchUp](https://sketchup.com/) and started coming up with ideas. And then I kind of couldn't stop.
 
-![Aster Pines — Render vs Reality](https://assets.warpspire.com/images/now/asterpines-render-reality.jpg)
+![Aster Pines — Render](https://assets.warpspire.com/images/now/asterpines-render.jpg) 
 
-## Investing Local
+Since then, we partnered up with [Sierra Sustainable Builders](https://www.sierrasustainable.com/) to take this theoretical house design and turn it into a possible house. And now they're turning our possible house into a real house that exists in the world. Concrete!
 
-While most of my peers have chosen to invest in technology startups, my interests have pushed me toward local businesses: I want to see fewer franchises, and more locally owned & operated small businesses. In 2020, I invested in [Refuge Coffee](https://refugecoffee.com/). In 2021, Jessica & I bought an [old gas station](https://www.google.com/maps/place/986+Emerald+Bay+Rd,+South+Lake+Tahoe,+CA+96150/@38.9136127,-120.0072509,17z/data=!3m1!4b1!4m5!3m4!1s0x80998fba6f69437f:0x716634f92ce30e3d!8m2!3d38.9136085!4d-120.0050569) with plans to develop into what I'm calling a *Gas Station of the Future*. I hope to share more on what that means soon.
+![Aster Pines — Reality](https://assets.warpspire.com/images/now/asterpines-exterior.jpg)
 
-## Writing
+## Redeveloping an Old Gas Station
 
-Writing has always brought me solace, but I've often been pretty shit at publishing it. I'm trying to work on that. I've been pretty successful in my occasional personal newsletter, [Seasons of Kyle](https://buttondown.email/kneath). And of course: [Warpspire](https://warpspire.com/). 
+A little while ago, Jessica and I bought an old gas station here in town. We want to turn it into a cafe — and more importantly, a place for people. For bikes. And one-wheels. And scooters. And all kinds of things that aren't cars.
 
-## Giving
+![Aster Station - Sketch](https://assets.warpspire.com/images/asterstation/elevation-sketch.jpg)
 
-Some weird shit happened and as a result I've found myself in an unexpected situation: wealthy. I don't care about legacy or turning my too-large pile money into an even larger pile — so every year I give a bunch of money to people and [organizations](/giving) that can put it to good use. My goal is to donate more money than I spend each year, and use up my [lifetime gift tax exemption](https://www.schwab.com/resource-center/insights/content/giving-while-living-do-you-understand-gift-tax) (at minimum) while I’m still alive.
+Right now, we're still in the thick parking minimums and consultants to make the planning department happy. It'll be a while.
 
-## Enjoying Retirement
+## Adventure
 
-Truth be told, I am not pushing that hard. I'm not interested in [cranking](https://www.43folders.com/2011/04/22/cranking) any longer. I'd rather spend my time with friends and family. Maybe reading. Or just enjoying the mountains with [Jessica](https://twitter.com/jlsuttles/). Some days that's felling trees at my off-grid property, [Leaping Daisy](https://www.instagram.com/explore/locations/1739674376255530/united-states/pioneer-california/leaping-daisy-meadows/). Other times it's snowboarding at [Kirkwood](https://www.kirkwood.com/). Or riding my [Nomad](https://www.santacruzbicycles.com/en-US/bikes/nomad) up Tahoe Mountain. And occasionally backpacking in my back yard, [Desolation Wilderness](https://en.wikipedia.org/wiki/Desolation_Wilderness).
+I'm a big fan of exploring the outdoors and enjoying our public lands. In my 4Runner, on my bike, on my snowboard, and by foot. Get outside. It's good for you.
 
-![Mountain bike on Lily Lake, camping with the 4runner, and relaxing in Palm Springs](https://assets.warpspire.com/images/now/retirement.jpg)
+![Sedona, Kirkwood, Moab](https://assets.warpspire.com/images/now/adventure.jpg)
 
-Then again, sometimes I'm just enjoying the pool in Palm Springs, my home-away-from-home.
 
-I did tell you I was retired, didn't I?
+## Seasons of Kyle
+
+Writing has always brought me solace, but I've often been pretty shit at publishing it. I'm trying to work on that. I've been pretty successful in my occasional personal newsletter, [Seasons of Kyle](https://buttondown.email/kneath).
