@@ -348,7 +348,7 @@ nav ul.nav>li:before {
 }
 nav a {
   display: block;
-  padding-top: 15px;
+  padding-top: 14px;
   color: rgb(255, 255, 255);
   font-size: 15px;
   font-weight: 700;
