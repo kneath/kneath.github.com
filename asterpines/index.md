@@ -9,7 +9,7 @@ _Aster Pines_ is the custom home I designed and [Sierra Sustainable Builders](ht
 
 ![Aster Pines — Reality](https://assets.warpspire.com/images/now/asterpines-exterior.jpg)
 
-The house itself is a 4 bedroom (although two are offices) / 3.5 bath making up a little over 3,800sqft.It consists of two primary masses connected with an entry way, and a separated master suite. Each primary mass is two stories, with the main structure housing a basement for a music room, root cellar, and mechanical room.
+The house itself is a 4 bedroom (although two are offices) / 3.5 bath making up a little over 3,800sqft. It consists of two primary masses connected with an entry way, and a separated master suite. Each primary mass is two stories, with the main structure housing a basement for a music room, root cellar, and mechanical room.
 
 ![Floor Plan](https://assets.warpspire.com/images/asterpines/floor-plan.jpg)
 
