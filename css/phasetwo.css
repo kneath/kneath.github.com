@@ -218,64 +218,25 @@ blockquote.pull p {
 header {
   position: relative;
   overflow: hidden;
-  height: 500px;
-  margin-bottom: -400px;
+  height: 300px;
+  margin-bottom: -250px;
   z-index: 1;
+}
+@media only screen and (max-width: 1015px) {
+  header {
+    height: 330px; 
+  }
 }
 
 header .shape {
   position: absolute;
-  top: -350px;
+  top: 0;
   width: 200%;
-  height: 500px;
+  height: 120px;
   z-index: 0;
   background: rgb(237, 147, 50);
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
-  /*
-  transform-origin: bottom left;
-  transform: rotate(10deg);
-  transition: transform 0.5s;
-  top: -500px;
-  */
 }
-/* 
-@media only screen and (max-width: 950px) {
-  header .shape {
-    transform: rotate(12.5deg);
-  }
-}
-@media only screen and (max-width: 850px) {
-  header .shape {
-    transform: rotate(15deg);
-  }
-}
-@media only screen and (max-width: 750px) {
-  header .shape {
-    transform: rotate(17.5deg);
-  }
-}
-@media only screen and (max-width: 650px) {
-  header .shape {
-    transform: rotate(20deg);
-  }
-}
-@media only screen and (max-width: 550px) {
-  header .shape {
-    transform: rotate(25deg);
-  }
-}
-@media only screen and (max-width: 450px) {
-  header .shape {
-    transform: rotate(30deg);
-  }
-}
-
-@media only screen and (max-width: 400px) {
-  header .shape {
-    left: -70px;
-  }
-} 
-*/
 
 .logo-wrap {
   z-index: 2;
@@ -288,7 +249,7 @@ header .shape {
 .logo {
   z-index: 2;
   position: fixed;
-  top: 190px;
+  top: 155px;
   width: 56px;
   padding-top: 168px;
   height: 1000%;
@@ -318,8 +279,9 @@ header .shape {
 @media only screen and (max-width: 1015px) {
   .logo-wrap {
     position: absolute;
-    left: -800px;
-    top: 20px;
+    left: -690px;
+    top: 10px;
+    transform: scale(0.75);
   }
   .logo {
     position: relative;
@@ -339,28 +301,9 @@ header .shape {
   }
 }
 
-@media only screen and (max-width: 550px) {
-  .logo-wrap {
-    position: absolute;
-    left: -850px;
-    top: 20px;
-  }
-}
-
-@media only screen and (max-width: 550px) {
-  .logo-wrap {
-    position: absolute;
-    left: -740px;
-    top: 20px;
-    transform: scale(0.75);
-  }
-}
 @media only screen and (max-width: 450px) {
   .logo-wrap {
-    position: absolute;
-    left: -640px;
-    top: 20px;
-    transform: scale(0.6);
+    left: -740px;
   }
 }
 
@@ -405,13 +348,18 @@ nav ul.nav>li:before {
 }
 nav a {
   display: block;
-  padding-top: 35px;
+  padding-top: 15px;
   color: rgb(255, 255, 255);
   font-size: 15px;
   font-weight: 700;
   text-transform: none;
   text-decoration: none;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.07);
+}
+@media only screen and (max-width: 1015px) {
+  nav a {
+    padding-top: 25px;
+  }
 }
 @media only screen and (max-width: 450px) {
   nav a {
