@@ -60,13 +60,25 @@ Here are a couple of videos from December 2022 showing the state of things:
 
 ## Renders
 
-I kind of fell into a rabbit hole of 3D modeling and rendering as a part of this project. Here are some of my favorite results.
+I kind of fell into a rabbit hole of 3D modeling and rendering as a part of this project. It's been useful! But since I'm my own client, the renders aren't cohesive or comprehensive. One might even call them haphazard. Here are some of my favorite results.
 
 ![Kitchen / Great Room Render](https://assets.warpspire.com/images/now/asterpines-render.jpg)
 
 ![Stove Closeup](https://assets.warpspire.com/images/asterpines/stove-closeup.jpg)
 
 ![Fireplace Render](https://assets.warpspire.com/images/asterpines/fireplace.jpg)
+
+<video width="100%" controls>
+  <source src="https://assets.warpspire.com/images/asterpines/master-suite.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+![Master Bath Render](https://assets.warpspire.com/images/asterpines/master-bathroom.jpg)
+
+<video width="100%" controls>
+  <source src="https://assets.warpspire.com/images/asterpines/guest-suite.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Construction Photos
