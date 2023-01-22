@@ -3,8 +3,64 @@ layout: phasetwo/page
 title: Aster Pines
 ---
 
-A work in progress.
+_Last updated January 2023_.
 
-![A rendering of the living room](https://assets.warpspire.com/images/asterpines/render-2022-03-17.jpg)
+_Aster Pines_ is the custom home I designed and [Sierra Sustainable Builders](https://www.sierrasustainable.com/) is building here in South Lake Tahoe. It's currently under construction (started Aug 2021) and should hopefully be done by this winter. So let's call it mid 2024.
 
-![The living room under construction](https://assets.warpspire.com/images/asterpines/reality-2022-03-17.jpg)
+![Aster Pines — Reality](https://assets.warpspire.com/images/now/asterpines-exterior.jpg)
+
+While I hope the house will be beautiful, I am primarily excited about having a well-built, resilient home. What's that mean?
+
+- **This will be a "tight" house** — Zip System sheathing with liquid flashing for vapor barrier, high efficiency windows & doors from Lowen, exterior Rockwool insulation, and interior spray foam insulation. The goal is to be highly insulated and control the air that comes in and out of the house.
+
+- Most of the heating will come from a **geothermal heat pump**. This will supply our radiant floor heating, cool air, hot water, and even produce most of the heat for our hot tub.
+
+- Taking advantage of the **solar potential**. In addition to a rooftop solar, the house is designed to harvest sunlight from its southern exposure — including an attached greenhouse that can pull warm air inside if we want.
+
+- Extremely high **indoor air quality**. This is achieved through having a tight house, our HRV with a HEPA filter, strategic windows to produce a stack effect, and real honest to science kitchen vents. Yes, even for induction. Don't believe downdraft propaganda.
+
+
+
+## Posts
+
+**[My Very Own Money Pit](/posts/money-pit)**  
+An introduction to Aster Pines, why I didn't hire an architect, and an introduction to how I used SketchUp and v•ray to visualize the project.
+
+## Now
+
+- [x] Foundation, Drainage & BMPs
+- [x] Primary Framing
+- [x] Exterior Envelope (vapor barrier, exterior insulation, rain screen, windows)
+- [x] Roofing
+- [ ] Siding
+- [ ] MEP (mechanical, electrical plumbing)\*
+- [ ] Interior Trim\*
+- [ ] Flooring\*
+- [ ] Drywall & Wood Paneling
+- [ ] Tile
+- [ ] Cabinetry
+- [ ] Appliances
+- [ ] Lighting
+
+Here are a couple of videos from December 2022 showing the state of things:
+
+[![YouTube - Interior Walkthrough](https://assets.warpspire.com/images/asterpines/interior-walkthrough-youtube.jpg)](https://www.youtube.com/watch?v=0tHbVTxdbjs)
+
+[![YouTube - Exterior Walkthrough](https://assets.warpspire.com/images/asterpines/exterior-walkthrough-youtube.jpg)](https://www.youtube.com/watch?v=FIQ9AZAZngc) 
+
+----
+
+## Renders
+
+I kind of fell into a rabbit hole of 3D modeling and rendering as a part of this project. Here are some of my favorite results.
+
+![Kitchen / Great Room Render](https://assets.warpspire.com/images/now/asterpines-render.jpg)
+
+![Stove Closeup](https://assets.warpspire.com/images/asterpines/stove-closeup.jpg)
+
+![Fireplace Render](https://assets.warpspire.com/images/asterpines/fireplace.jpg)
+
+
+## Construction Photos
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/kneath/albums/72177720305416767" title="Aster Pines Construction"><img src="https://live.staticflickr.com/65535/52640490357_99abf867e8_b.jpg" width="1024" height="600" alt="Aster Pines Construction"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
