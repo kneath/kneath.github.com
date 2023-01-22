@@ -9,22 +9,28 @@ _Aster Pines_ is the custom home I designed and [Sierra Sustainable Builders](ht
 
 ![Aster Pines — Reality](https://assets.warpspire.com/images/now/asterpines-exterior.jpg)
 
-While I hope the house will be beautiful, I am primarily excited about having a well-built, resilient home. What's that mean?
+The house itself is a 4 bedroom (although two are offices) / 3.5 bath making up a little over 3,800sqft.It consists of two primary masses connected with an entry way, and a separated master suite. Each primary mass is two stories, with the main structure housing a basement for a music room, root cellar, and mechanical room.
+
+![Floor Plan](https://assets.warpspire.com/images/asterpines/floor-plan.jpg)
+
+While I hope the house will be beautiful, I am primarily excited about having a well-built, resilient home. What's that mean to me?
 
 - **This will be a "tight" house** — Zip System sheathing with liquid flashing for vapor barrier, high efficiency windows & doors from Lowen, exterior Rockwool insulation, and interior spray foam insulation. The goal is to be highly insulated and control the air that comes in and out of the house.
 
 - Most of the heating will come from a **geothermal heat pump**. This will supply our radiant floor heating, cool air, hot water, and even produce most of the heat for our hot tub.
 
-- Taking advantage of the **solar potential**. In addition to a rooftop solar, the house is designed to harvest sunlight from its southern exposure — including an attached greenhouse that can pull warm air inside if we want.
+- Taking advantage of the **solar potential**. In addition to a rooftop solar, the house is designed to harvest sunlight from its southern exposure — including an attached greenhouse that can pull warm air inside.
 
 - Extremely high **indoor air quality**. This is achieved through having a tight house, our HRV with a HEPA filter, strategic windows to produce a stack effect, and real honest to science kitchen vents. Yes, even for induction. Don't believe downdraft propaganda.
+
+- It will have multiple **resilient energy systems**. Most of the house will be electric, and it will have a beefy battery backup system and maxed out rooftop solar. All loads will go through a [Span.io](https://span.io) smart panel. In addition to the induction cooktop, it will also have a singular gas burner. And if all else fails, we will have a high-efficiency wood stove to keep warm.
 
 
 
 ## Posts
 
 **[My Very Own Money Pit](/posts/money-pit)**  
-An introduction to Aster Pines, why I didn't hire an architect, and an introduction to how I used SketchUp and v•ray to visualize the project.
+An introduction to Aster Pines, why I didn't hire an architect, and an explanation of how I used SketchUp and v•ray to visualize the project.
 
 ## Now
 
@@ -41,6 +47,8 @@ An introduction to Aster Pines, why I didn't hire an architect, and an introduct
 - [ ] Cabinetry
 - [ ] Appliances
 - [ ] Lighting
+
+\* In progress
 
 Here are a couple of videos from December 2022 showing the state of things:
 
