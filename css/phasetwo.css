@@ -225,16 +225,20 @@ header {
 
 header .shape {
   position: absolute;
-  top: -500px;
+  top: -350px;
   width: 200%;
   height: 500px;
   z-index: 0;
-  transform-origin: bottom left;
-  transform: rotate(10deg);
   background: rgb(237, 147, 50);
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
+  /*
+  transform-origin: bottom left;
+  transform: rotate(10deg);
   transition: transform 0.5s;
+  top: -500px;
+  */
 }
+/* 
 @media only screen and (max-width: 950px) {
   header .shape {
     transform: rotate(12.5deg);
@@ -270,7 +274,8 @@ header .shape {
   header .shape {
     left: -70px;
   }
-}
+} 
+*/
 
 .logo-wrap {
   z-index: 2;
@@ -283,7 +288,7 @@ header .shape {
 .logo {
   z-index: 2;
   position: fixed;
-  top: 100px;
+  top: 190px;
   width: 56px;
   padding-top: 168px;
   height: 1000%;
@@ -353,9 +358,9 @@ header .shape {
 @media only screen and (max-width: 450px) {
   .logo-wrap {
     position: absolute;
-    left: -600px;
-    top: -10px;
-    transform: scale(0.5);
+    left: -640px;
+    top: 20px;
+    transform: scale(0.6);
   }
 }
 
@@ -379,50 +384,49 @@ nav ul.nav {
   right: 0;
   margin: 0;
 }
+@media only screen and (max-width: 825px) {
+  nav ul.nav {
+    top: 2px;
+    right: 15px;
+  }
+}
 nav ul.nav>li {
   float: left;
-  margin: 0;
+  margin: 0 0 0 25px;
   padding: 0;
-  border-top: 15px solid black;
+}
+@media only screen and (max-width: 450px) {
+  nav ul.nav>li {
+    margin-left: 15px;
+  }
 }
 nav ul.nav>li:before {
   content:'';
 }
-nav ul li:nth-child(1) {
-  border-color: rgb(229, 189, 94);
-}
-nav ul li:nth-child(2) {
-  border-color: rgb(178, 26, 23);
-}
-nav ul li:nth-child(3) {
-  border-color: rgb(126, 127, 74);
-}
-nav ul li:nth-child(4) {
-  border-color: rgb(146, 169, 169);
-}
 nav a {
   display: block;
-  padding-top: 25px;
-  padding-right: 30px;
+  padding-top: 35px;
   color: rgb(255, 255, 255);
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: none;
   text-decoration: none;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.07);
 }
-nav a:hover {
-  box-shadow: 0 -4px 0 rgba(0, 0, 0, 0.25);
+@media only screen and (max-width: 450px) {
+  nav a {
+    font-size: 13px;
+  }
 }
-nav li:first-child a:hover {
-  box-shadow: 0 -4px 0 rgba(255, 255, 255, 0.35);
+nav a:hover {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.6);
 }
 
 footer {
   position: relative;
   overflow: hidden;
-  height: 1000px;
-  margin-top: -900px;
+  height: 150px;
+  margin-top: -50px;
   z-index: 3;
 }
 footer p.tagline {
@@ -430,7 +434,7 @@ footer p.tagline {
   width: 100%;
   position: absolute;
   bottom: 40px;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 13px;
   font-weight: 800;
   color: rgba(255, 255, 255, 0.25);
@@ -445,50 +449,36 @@ footer p.tagline .inner {
 footer .shape {
   z-index: 0;
   position: absolute;
-  bottom: -10000px;
+  bottom: 0;
   left: -900%;
   width: 1000%;
-  height: 10000px;
+  height: 150px;
   background: rgb(71, 118, 171);
-  transform-origin: top right;
-  transform: rotate(30deg);
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 @media only screen and (max-width: 750px) {
+  footer {
+    height: 100px;
+  }
+  footer p.tagline {
+    bottom: -3px;
+  }
   footer p.tagline .inner {
-    padding: 0 10px;
-  }
-  footer .shape {
-    transform: rotate(30deg);
-  }
-}
-@media only screen and (max-width: 650px) {
-  footer .shape {
-    transform: rotate(45deg);
+    padding-left: 50px;
   }
 }
 @media only screen and (max-width: 550px) {
-  footer {
-    height: 1000px;
-    margin-top: -950px;
-  }
-  footer p.tagline {
-    bottom: 5px;
-  }
   footer p.tagline .inner {
+    padding-left: 25px;
     font-size: 11px;
-  }
-  footer .shape {
-    transform: rotate(60deg);
   }
 }
 @media only screen and (max-width: 450px) {
+  footer p.tagline {
+    bottom: 0;
+  }
   footer p.tagline .inner {
     font-size: 8px;
-  }
-  footer .shape {
-    margin-left: -20px;
-    margin-bottom: -5px;
   }
 }
 
