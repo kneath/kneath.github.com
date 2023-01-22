@@ -9,7 +9,7 @@ This is what I’m doing now. In the style of [nownownow.com](https://nownownow.
 
 ## Building A House
 
-In 2019, I bought an empty plot of land in South Lake Tahoe to build a house. And then I dove into books about functional architecture like [Patterns of Home](https://www.amazon.com/Patterns-Home-Essentials-Enduring-Design/dp/156158696X), picked up [SketchUp](https://sketchup.com/) and started coming up with ideas. And then I kind of couldn't stop.
+In 2019, I bought an empty plot of land in South Lake Tahoe to build a house. And then I dove into books about functional architecture like [Patterns of Home](https://www.amazon.com/Patterns-Home-Essentials-Enduring-Design/dp/156158696X), picked up [SketchUp](https://sketchup.com/) and started coming up with ideas. And then I kind of couldn't stop. We're calling it [Aster Pines](/asterpines).
 
 ![Aster Pines — Render](https://assets.warpspire.com/images/now/asterpines-render.jpg) 
 
@@ -23,7 +23,7 @@ A little while ago, Jessica and I bought an old gas station here in town. We wan
 
 ![Aster Station - Sketch](https://assets.warpspire.com/images/asterstation/elevation-sketch.jpg)
 
-Right now, we're still in the thick parking minimums and consultants to make the planning department happy. It'll be a while.
+Right now, we're still in the thick of parking minimums and consultants to make the planning department happy. It'll be a while.
 
 ## Adventure
 
