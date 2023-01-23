@@ -31,6 +31,8 @@ I'm a big fan of exploring the outdoors and enjoying our public lands. In my 4Ru
 
 ![Sedona, Kirkwood, Moab](https://assets.warpspire.com/images/now/adventure.jpg)
 
+As of lately? [Flagstaff](https://www.instagram.com/p/Ci80XO3p5Qr/), [Sedona](https://www.instagram.com/p/Ci-8N2BPRyd/) (I mean, [SEDONA](https://www.instagram.com/p/ClmaMGpvhSY/)), [Durango](https://www.instagram.com/p/CjREtmWP-eq/), [Moab](https://www.instagram.com/p/Cjl3mUyPiVC/), and [Mexico City](https://www.instagram.com/p/CncfaLKvMFi/).
+
 
 ## Seasons of Kyle
 
