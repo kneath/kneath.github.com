@@ -5,7 +5,7 @@ title: Giving
 
 When I first started donating to charities, I didn't really know what I was doing and gave random amounts of money away to organizations that happened to float into my attention. That's a good way to start! But it didn't work well for me longer term.
 
-So now I sit down once a year and make a plan: a list of the charities and amounts I will give to throughout the year. I take 1% of my net worth at the beginning of the year and distribute it across local, carbon, and social good charities from my [donor advised fund](vanguardcharitable.org). I'll probably change this strategy in the future, but right now it works well for me.
+So now I sit down once a year and make a plan: a list of the charities and amounts I will give to throughout the year. I take 1% of my net worth at the beginning of the year and distribute it across local, carbon, and social good charities from my [donor advised fund](https://vanguardcharitable.org). I'll probably change this strategy in the future, but right now it works well for me.
 
 These are the non-profits I regularly support, and a little context for why I like them.
 
