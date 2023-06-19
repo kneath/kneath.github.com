@@ -3,7 +3,7 @@ layout: phasetwo/page
 title: Against Increasing the Speed Limit Inside South Lake Tahoe
 ---
 
-> This is a public comment submitted to the City of South Lake Tahoe regarding Item 15 on the [June 20th agenda](https://docs.google.com/gview?url=https%3A%2F%2Fgranicus_production_attachments.s3.amazonaws.com%2Fslt%2F5089f58293d6312485eca9123d20a9a40.pdf&embedded=true).
+> This is a public comment submitted to the City of South Lake Tahoe regarding Item 15 on the [June 20th agenda](https://docs.google.com/gview?url=https%3A%2F%2Fgranicus_production_attachments.s3.amazonaws.com%2Fslt%2F5089f58293d6312485eca9123d20a9a40.pdf&embedded=true). You can submit public comment to the City of South Lake by email at <PublicComment@cityofslt.us> by 3pm Monday June 19th.
 
 I'm writing in to comment on Item 15 — Caltrans' suggestion to increase the speed limit along the Highway 50/89 corridor in South Lake Tahoe.
 
