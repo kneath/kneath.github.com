@@ -230,10 +230,10 @@ header {
 
 header .shape {
   position: absolute;
-  top: 0;
+  top: -50px;
   width: 200%;
   left: -100px;
-  height: 150px;
+  height: 200px;
   z-index: 0;
   rotate: 3deg;
   background: rgb(237, 147, 50);
