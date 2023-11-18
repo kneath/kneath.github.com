@@ -7,11 +7,13 @@ layout: phasetwo/default
   <p>In a previous life, I <a href="/proxima">used to build internet</a> and go by Kyle Neath. These days I spend my time on creative pursuits and go by <a href="https://www.instagram.com/p/CRFaaXlpzGo/">Kyle Aster</a> (after the Sierra Nevada wildflower).</p>
   
   <p>For me, that's looks like <a href="https://www.instagram.com/p/CSLVBzYrTjP/">mountain biking</a> around my home of <a href="https://en.wikipedia.org/wiki/South_Lake_Tahoe,_California">South Lake Tahoe</a>, stuck behind my computer making SketchUp renderings for <a href="/asterpines/">my new house</a>, throwin' chips at my <a href="https://www.instagram.com/p/CPuLNyAJRVV/">off-grid ranch</a>, and even a little bit of <a href="https://www.google.com/maps/place/986+Emerald+Bay+Rd,+South+Lake+Tahoe,+CA+96150/@38.9136127,-120.0072509,17z/data=!3m1!4b1!4m5!3m4!1s0x80998fba6f69437f:0x716634f92ce30e3d!8m2!3d38.9136085!4d-120.0050569">commercial property development</a>.</p>
-  
+</div>
+</div>
+
+<div class="container">
+<div class="homepage">
   <div class="latest">
-    <h2>Latest Essay</h2>
-    
-    <p class="date">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
+    <p class="date first">{{ site.posts.first.date | date: "%B %e, %Y" }}</p>
     <h1 class="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
     <p>{{ site.posts.first.summary }}</p>
     <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
@@ -29,8 +31,13 @@ layout: phasetwo/default
     </div>
   </div>
 
+</div>
+</div>
+
+<div class="container">
+<div class="homepage">
   <div class="library">
-    <h2>Books of Note</h2>
+    <h2 class="first">Books of Note</h2>
     <p>Eight books that have changed my mind or taught me something that I use every day. You should read them! If you want.</p>
     <ul class="books">
       <li>
@@ -92,13 +99,5 @@ layout: phasetwo/default
         </a>
       </li>
     </ul>
-  </div>
-
-  <div class="profit">
-    <h2>For Profit</h2>
-    <p>I do a little bit of angel investing.</p>
-    <p>Regenerative Food Production. Tahoe Businesses. Carbon Removal. Are you starting a company focused on any of these topics?</p>
-    <p>Email me at <a href="mailto:kyle@warpspire.com">kyle@warpspire.com</a>.</p>
-    <p>Advance warning: I am a terrible correspondent. I'm sorry.</p>
   </div>
 </div>

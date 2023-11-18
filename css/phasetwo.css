@@ -89,16 +89,24 @@ h1{
   background: rgb(255, 255, 255);
   box-shadow: -1px -1px 0 rgba(0, 0, 0, 0.05), 4px 4px 0 rgba(0, 0, 0, 0.05), 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
+.container + .container {
+  margin-top: 50px;
+}
 @media only screen and (max-width: 825px) {
   .container {
     margin: 0;
     max-width: 100%;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .container + .container {
+    margin-top: 0;
   }
 }
 @media only screen and (max-width: 500px) {
   .container {
     padding: 25px 25px 10px 25px;
   }
+  
 }
 
 h1.title {
@@ -457,7 +465,7 @@ footer .shape {
 .homepage .latest p.date {
 }
 
-.homepage .latest, .homepage .mini-archive, .homepage .library, .homepage .charity {
+.homepage .mini-archive, .homepage .charity {
   margin: 45px 0;
   border-top: 1px solid rgba(0, 0, 0, 0.15);
 }
@@ -467,6 +475,9 @@ footer .shape {
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
+}
+.latest .date.first {
+  margin-top: 0;
 }
 .mini-archive .title {
   margin: 0;
