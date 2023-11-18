@@ -232,8 +232,10 @@ header .shape {
   position: absolute;
   top: 0;
   width: 200%;
-  height: 120px;
+  left: -100px;
+  height: 150px;
   z-index: 0;
+  rotate: 3deg;
   background: rgb(237, 147, 50);
   box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.05);
 }
@@ -373,8 +375,8 @@ nav a:hover {
 footer {
   position: relative;
   overflow: hidden;
-  height: 150px;
-  margin-top: -50px;
+  height: 300px;
+  margin-top: -200px;
   z-index: 3;
 }
 footer p.tagline {
@@ -390,6 +392,7 @@ footer p.tagline {
 }
 footer p.tagline .inner {
   display: block;
+  text-align: center;
   margin: 0 auto;
   max-width: 760px;
   transition: padding 0.5s, font-size 0.5s;
@@ -397,16 +400,17 @@ footer p.tagline .inner {
 footer .shape {
   z-index: 0;
   position: absolute;
-  bottom: 0;
-  left: -900%;
-  width: 1000%;
-  height: 150px;
+  bottom: -100px;
+  left: -100px;
+  width: 200%;
+  height: 300px;
+  rotate: -3deg;
   background: rgb(71, 118, 171);
   border-top: 1px solid rgba(0, 0, 0, 0.05);
 }
 @media only screen and (max-width: 750px) {
   footer {
-    height: 100px;
+    height: 250px;
   }
   footer p.tagline {
     bottom: -3px;
