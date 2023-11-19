@@ -173,6 +173,9 @@ ul {
   margin: 1em 0 1em 1.5em;
   list-style-type: none;
 }
+ul ul {
+  margin-top: 0.5em;
+}
 ul>li {
   position: relative;
 }
@@ -184,6 +187,10 @@ ul>li:before {
   color: rgba(0, 0, 0, 0.3);
   content: '-';
   text-indent: -20px;
+}
+.task-list-item-checkbox {
+  margin-left: -0.5em;
+  margin-right: 0.5em;
 }
 
 hr {
