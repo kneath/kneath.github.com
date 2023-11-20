@@ -2,6 +2,7 @@
 layout: phasetwo/post
 title: The Old Log Cabin
 summary: For those of you who don’t know, I own an old high elevation cow camp in the Sierra Nevadas with my friend David. It’s home to a 99 year old hand-hewn log cabin, a chainsaw milled post & beam horse barn, and a few smaller bunk houses. It’s been a source of great joy and fulfillment over the years. We call it Leaping Daisy, or sometimes just The Ranch.
+short: A eulogy for my old log cabin that burned down in the Caldor Fire.
 ---
 
 For those of you who don’t know, I own an old high elevation cow camp in the Sierra Nevadas with my friend David. It’s home to a 99 year old hand-hewn log cabin, a chainsaw milled post & beam horse barn, and a few smaller bunk houses. It’s been a source of great joy and fulfillment over the years. We call it Leaping Daisy, or sometimes just The Ranch.

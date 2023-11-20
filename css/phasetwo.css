@@ -499,6 +499,9 @@ footer .shape {
   margin: 0;
   font-weight: bold;
 }
+.mini-archive .summary {
+  margin: 0;
+}
 
 ul.books{
   display: flex;

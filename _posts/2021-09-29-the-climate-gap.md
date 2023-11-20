@@ -2,6 +2,7 @@
 layout: phasetwo/post
 title: The Climate Gap
 summary: We aren't going to limit warming to 2.0˚C through emissions reduction, and there isn't a credible reason to believe we have a path to reduce emissions <em>at all</em> over the next few decades. The gap between what is necessary and what is feasible is so large as to be effectively meaningless. So where does that leave us?
+short: Does it even make sense to believe we can limit global warming to 2.0˚C?
 ---
 
 If you've spent any time looking into climate change, you’ve heard a lot about emissions. Climate change is fueled by our emissions of greenhouse gasses and we must reduce our emissions to avoid disaster. Disaster is usually spelled out in some degrees of warming, usually 1.5˚C or 2.0˚C. In order to avoid this disaster, we are given two actionable items:

@@ -2,6 +2,7 @@
 layout: phasetwo/post
 title: Net Zero Ish
 summary: What if you didn't want to ignore human-caused climate change? How can you use money to offset your emissions? What am I doing about it?
+short: Figuring out my way with carbon offsets.
 ---
 
 On the one hand, Earth is rapidly becoming uninhabitable for humans as a result of human-caused climate change. On the other hand, it’s pretty easy to ignore the cascading disaster most days. Climate change isn’t really a personal thing for most of us, especially if you live in North America or Western Europe. Sure — we have more wildfires, more droughts, more hurricanes, more floods, and a sort of ominous feeling of dread hanging over our heads — but it’s honestly not that big of a deal to crank up the air conditioner and book a flight to somewhere more comfortable.

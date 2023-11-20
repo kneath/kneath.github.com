@@ -19,13 +19,13 @@ layout: phasetwo/default
     <p><a href="{{ site.posts.first.url }}" class="continue">Continue Reading</a></p>
     
     <div class="mini-archive">
-      <h2>Previously</h2>
       {% for post in site.posts offset: 1 %}
         {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
         {% assign yearnum = year | plus: 0 %}
         {% if yearnum > 2019 %}
           <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
           <p class="title"><a href="{{ post.url }}">{{ post.title }}</a></p>
+          <p class="summary">{{ post.short }} </p>
         {% endif %}
       {% endfor %}
     </div>
@@ -38,7 +38,7 @@ layout: phasetwo/default
 <div class="homepage">
   <div class="library">
     <h2 class="first">Books of Note</h2>
-    <p>Eight books that have changed my mind or taught me something that I use every day. You should read them! If you want.</p>
+    <p>I love books, and I love recommending books. But I never know where to start. Here's eight books that have changed my mind or taught me something that I use every day. You should read them! If you want.</p>
     <ul class="books">
       <li>
         <a href="https://bookshop.org/books/after-geoengineering-climate-tragedy-repair-and-restoration/9781788730365">
