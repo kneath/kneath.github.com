@@ -467,7 +467,16 @@ footer .shape {
   margin-top: 0;
 }
 .homepage .latest a.continue {
+  display: inline-block;
+  padding: 5px 15px;
   font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+  background: rgb(71, 118, 171);
+  border-radius: 3px;
+}
+.homepage .latest a.continue:after {
+  content: ' →';
 }
 .homepage .latest p.date {
 }
