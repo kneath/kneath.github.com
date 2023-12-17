@@ -42,15 +42,15 @@ An introduction to Aster Pines, why I didn't hire an architect, and an explanati
 - [ ] MEP (mechanical, electrical, plumbing)
   - [ ] Boiler / Hydronic Heating\*
   - [ ] Ground Source Heat-Pump
-  - [ ] Fresh Air System (HRV)
-  - [ ] Grid Tie-In\*
+  - [x] Fresh Air System (HRV)
+  - [x] Grid Tie-In
   - [ ] Lighting Keypads
   - [x] Solar Panels
   - [ ] Battery Backup
   - [ ] Networking Cabinet
 - [x] Interior Trim
 - [ ] Flooring
-- [ ] Drywall\*
+- [x] Drywall
 - [ ] Ceiling & Wall Cladding\*
 - [ ] Tile
 - [ ] Cabinetry
@@ -65,7 +65,7 @@ An introduction to Aster Pines, why I didn't hire an architect, and an explanati
   - [ ] Sauna
 - [x] Driveway
 - [ ] Garage Doors
-- [ ] Fence
+- [x] Fence
 
 \* In progress
 
