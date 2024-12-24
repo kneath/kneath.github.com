@@ -3,22 +3,44 @@ layout: phasetwo/page
 title: Giving
 ---
 
-When I first started donating to charities, I didn't really know what I was doing and gave random amounts of money away to organizations that happened to float into my attention. That's a good way to start! But it didn't work well for me longer term.
+When I first started giving to charities, I didn't really know what I was doing. I gave random amounts of money away to organizations that happened to float into my attention. That's a good way to start! Giving money to others is always better than hoarding it for some perfect some day when you've <em>figured it all out</em>.
 
-So now I sit down once a year and make a plan: a list of the charities and amounts I will give to throughout the year. I take 1% of my net worth at the beginning of the year and distribute it across local, carbon, and social good charities from my [donor advised fund](https://vanguardcharitable.org). I'll probably change this strategy in the future, but right now it works well for me.
+Now I sit down once a year and make a plan. I list out charities and amounts I will give to throughout the year. I take 1% of my net worth at the beginning of the year and distribute it across local, carbon, and social good charities from my [donor advised fund](https://vanguardcharitable.org). I'll probably change this strategy in the future, but right now it works well for me. It's allowed me to give away 6% of my net worth so far, with an additional 21% set aside for future giving. That's <strong>27%</strong> of my net worth set aside for charity, which I feel is pretty good!
 
-These are the non-profits I regularly support, and a little context for why I like them.
+These are the non-profits I regularly support, and a little context for why I like them. They're not all perfect, but I think they're doing good.
 
 -----
 
 ## Tahoe Local
 
-I'm a big believer in your local community, so a lot of the non-profits I give to are doing good things around Tahoe (and other places I frequent).
+I'm a big believer in your local community, so a lot of the non-profits I give to are doing good things around Tahoe (and other places I frequent). You'll see a lot of the charities align with access to wilderness and getting kids opportunities to explore the outdoors. I was fortunate enough that my Dad brought me to the Sierra a lot when I was a kid (camping used to be a cheap vacation), and I'm constantly thankful for growing up knowing how much joy is found in our public lands. Public lands are what make the West magical.
 
 <ul class="itemized">
   <li>
+  <h3><a href="https://www.strongtowns.org/">Strong Towns</a></h3>
+  <p>Okay, this isn't strictly a <em>Tahoe</em> thing, but it's an <em>every town</em> thing. Strong Towns builds an actionable framework for making our towns more resilient and prosperous. Do you like downtowns? Bikes? Tree-lined streets? Outdoor dining? Small, locally owned shops? You'll probably like Strong Towns.</p>
+  </li>
+
+  <li>
+  <h3><a href="https://sosoutreach.org/">SOS Outreach</a></h3>
+  <p>SOS Outreach works to get kids out on the slopes who wouldn't otherwise be able to. They provide lift tickets, gear, and mentorship to a lot of kids here in South Lake that would not be able to get out on the slopes otherwise.</p>
+  </li>
+  <li>
+  <h3><a href="https://gatewaymountaincenter.org/">Gateway Mountain Center</a></h3>
+  <p>Similar to SOS, Gateway works to get kids out in the Sierra — hiking, climbing, and all kinds of activities to learn more about this beautiful place we live in.</p>
+  </li>
+  <li>
+  <h3><a href="https://bgclt.org/">Boys & Girls Club Lake Tahoe</a></h3>
+  <p>Our local chapter of the Boys & Girls Club provides all kinds of extra-curricular support for our local kids. They get to explore robotics, art, lake science, and most importantly — build community with the families that live here.</p>
+  </li>
+
+  <li>
   <h3><a href="https://tamba.org/">Tahoe Area Mountain Bike Association</a></h3>
   <p>Have you ever heard of <strong>Toad's Wild Ride</strong> or <strong>Flume Trail</strong>? TAMBA is behind all of the incredible mountain biking trails we have around the lake. I'm happy to support any organization giving people more access the natural beauty of our mountains.</p>
+  </li>
+  <li>
+  <h3><a href="https://sierratrails.org/">Sierra Buttes Trail Stewardship</a></h3>
+  <p>SBTS was crucial in helping TAMBA become the organization it is today. Their support in learning how to navigate relationships with land managers to actually build trail cannot be overstated. And of course, they build trail too. Their <a href="https://sierratrails.org/connected-communities/">connected communities</a> vision is one of the most ambitious trail-focused projects I've ever seen. As someone with a soft spot for California mountain towns, I look forward to seeing it to fruition.</p>
   </li>
   <li>
   <h3><a href="https://tahoerimtrail.org/">Tahoe Rim Trail Association</a></h3>
@@ -45,6 +67,33 @@ I'm a big believer in your local community, so a lot of the non-profits I give t
   <p>If you've ever seen a <strong>Keep Tahoe Blue</strong> sticker, these are the people behind it. The League is a scientist-led organization dedicated to preserving the clarity of Lake Tahoe.</p>
   </li>
   <li>
+  <h3><a href="https://chilelagoslimpios.cl/en/">Chile Lagos Limpios</a></h3>
+  <p>CLL is a sister organization to The League. Chile is facing a lot of the same challenges that Tahoe faces - climate change, industry, and increased development are threatening the clarity and health of their lakes. The hope is that we can learn from each other - trading science, tools, successes, and failures. Tahoe has spent over $2 billion to save our lake, and we still see yearly impacts from mistakes like Tahoe Keys. Hopefully we can help Chile learn from our mistakes – and make better decisions as more and more people move to this incredible part of their country.</p>
+  </li>
+  <li>
+  <h3><a href="https://www.clean-tahoe.org/">Clean Tahoe Program</a></h3>
+  <p>Clean Tahoe provides a fairly simple service: they make sure trash ends up at the dump (and not in our forests and neighborhoods). We live in a magnificently beautiful place, and Clean Tahoe helps maintain that.</p>
+  </li>
+
+  <li>
+  <h3><a href="https://savebears.org/">The BEAR League</a></h3>
+  <p>Almost every time I meet someone from out of town, they ask me: <em>do you ever see bears?</em> It's kind of a funny question, beacause of course I do. Almost every day. Bears are a part of live in the Sierra. Unfortunately, humans aren't always the best at co-existing with bears, and that's what The BEAR League works to improve.</p>
+  </li>
+  <li>
+  <h3><a href="https://ltwc.org/">Lake Tahoe Wildlife Care</a></h3>
+  <p>LTWC is our local wildlife care facility. They take in injured and at-risk wildlife, rehabilitate them, and release them back to the environment.</p>
+  </li>
+
+  <li>
+  <h3><a href="https://tahoebike.org/">Tahoe Bike Coalition</a></h3>
+  <p>The Tahoe Bike Coalition works to improve biking inside our cities around Tahoe. They advocate for bike friendly traffic design, offer bike valet at events, and help people fix their bikes through their bike kitchens. I've said it many times, and I'll say it again: biking by default is the best way to get around Tahoe.</p>
+  </li>
+  <li>
+  <h3><a href="https://www.guidestar.org/profile/30-0673247">Friends of Ski Run</a></h3>
+  <p>Shortly after I decided to make South Lake my forever home, I met <a href="https://chrismcnamara.com/">Chris McNamara</a> and <a href="https://www.coreyrich.com/">Corey Rich</a>. Friends of Ski Run is the organization they've used to enact tactical urbanism on Ski Run Blvd in South Lake. They've been able to carve out special zoning exemptions to allow <a href="http://www.skirunfarmersmarket.com/">farmer's markets</a>, <a href="https://tahoebrewfest.com/">brewfests</a>, <a href="https://www.longestdinnertabletahoe.com/">community dinners</a>, and just this year opened up a <a href="https://www.instagram.com/p/DB6Wp-xSxb4/?hl=en&img_index=1">community-built park</a>. It's hard to describe the community The Friends been able to foster in South Lake — it's truly something special to have a community interested in making their town better and <em>actually doing it</em>. We need more Friends of Ski Run in America.</p>
+  </li>
+
+  <li>
   <h3><a href="https://tahoehomeless.org/">Tahoe Coalition for the Homeless</a></h3>
   <p>Tahoe can be an especially difficult place for the unhoused, and The Coalition is the first organization there to help those experiencing homelessness in South Lake Tahoe.</p>
   </li>
@@ -59,11 +108,7 @@ I'm a big believer in your local community, so a lot of the non-profits I give t
   <li>
   <h3><a href="https://www.gnservices.org/">Great Northern Services</a></h3>
   <p>Same as above, but for Siskiyou County (where Dunsmuir is located).</p>
-  </li>
-  <li>
-  <h3><a href="https://findfoodbank.org/">FIND Food Bank</a></h3>
-  <p>Same as above, but for the desert communities around Palm Springs.</p>
-  </li>  
+  </li> 
 </ul>
 
 ## Carbon Removal & Sequestration
