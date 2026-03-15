@@ -33,7 +33,7 @@ There's lots of words for these agentic tools. Don't get too wrapped up in the d
 
 These tools offer up shortcuts for deeper thought. They aren't always right. Resist the temptation to look at these tools as a magical robot that can replace a human. Instead ask yourself: how can I use this tool to make me a smarter, better, more caring human?
 
-Don't ask it to solve algebra for you. Use it to help you learn algebra. Make the computer do drudgery.
+Don't ask it to solve algebra for you. Use it to help you learn algebra. Make the computer do drudgery while you become a better person.
 
 ### They Use Your Computer
 
