@@ -109,7 +109,7 @@ Now you have a webpage! But it's just on your computer. Let's get it on the inte
 
 ![Screenshot](https://assets.warpspire.com/images/handbook/handbook-5.png)
 
-If you have any problems during this, ask it questions. Give it a screenshot.
+If you have any problems during this, ask it questions. Give it a screenshot. Did you just build your first webpage just by describing something in your head? Maybe!
 
 ----
 
