@@ -5,7 +5,7 @@ title: Kyle's Handbook for the Future
 
 If you know me, you know I've always dabbled in computers. It's a lifelong passion of mine — I love building stuff with computers. All the while I've seen the good and bad that it's wrought on the world. I don't love the end result. And I'm rarely the person to tell you technology will fix all your problems. I still think more people need to spend time in our forests and lakes.
 
-But technology is a tool. And a new tool has come along that is really important. AI, LLMs, Chat GPT — the words not important — you know what they are. Recently there have been some breakthroughs that change the rules of the game. **I do not know where this is going.** This isn't some warning of coming apocalypse or impending nirvana. I just know tools create leverage, and this one is coming like nothing else before.
+But technology is a tool. And a new tool has come along that is really important. AI, LLMs, Chat GPT — the words aren't important — you know what they are. Recently there have been some breakthroughs that change the rules of the game. **I do not know where this is going.** This isn't some warning of coming apocalypse or impending nirvana. I just know tools create leverage, and this one is coming like nothing else before.
 
 Here's something that feels like a moral imperative for me to communicate: <em class="highlight">the time is now to learn how to use these tools, or you will be used by them</em>. If you do any kind of knowledge work (research, spreadsheets, anything done on a computer) you need to learn to use these tools. You can also learn how to weld, wire up homes, be a good mother, run an excavator, or be a good therapist. My point is that powerful, greedy people _will_ be using these tools. Fight fire with fire. Learn these tools and wrap your head around them.
 
@@ -18,8 +18,8 @@ I've created this handbook to help you learn how to use these tools. This isn't 
 This will take about an hour or two of your time to get set up and run through my example projects.
 
 1. Do this on your computer. It doesn't matter if it's Mac or Windows. Do it on something with a web browser and a filesystem.
-2. Download the [Claude Desktop Application](https://claude.ai/).
-3. Subscribe to the [Claude Pro plan ($20/mo)](https://claude.com/pricing)
+2. Download the [Claude Desktop Application](https://claude.ai/download).
+3. Subscribe to the [Claude Pro plan ($20/mo)](https://claude.ai/pricing)
 
 Spend all of your time in **Claude Cowork**.
 
@@ -37,7 +37,7 @@ Don't ask it to solve algebra for you. Use it to help you learn algebra. Make th
 
 ### They Use Your Computer
 
-This is one of the key breakthroughs. These new tools use your computer. They can open applications and use them. They can use your browser and use your Facebook account. They can create files and run programs just like you.
+This is one of the key breakthroughs. These new tools use your computer. They can open applications and use them. They can use your browser and Facebook account. They can create files and run programs just like you.
 
 Keep that in mind, eh? When it asks you for permission to do something, think about it for a moment. I probably wouldn't give it access to your email until you understand it.
 
@@ -55,7 +55,7 @@ Okay. That's about it. Here are some sample projects to get you started.
 
 ## Calculate Your Taxes
 
-If you're reading this and you live in the United States, it's likely you have to pay estimated taxes. It's a pain to calculate these with all kinds of byzantine rules that don't make sense.
+If you're reading this and you live in the United States, it's likely you have to pay estimated taxes. It's a pain to calculate with all kinds of byzantine rules that don't make sense.
 
 - Open up Claude Cowork
 - Click "Work in a Folder" and create a new folder on your desktop.
