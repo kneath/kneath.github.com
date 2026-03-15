@@ -9,7 +9,7 @@ But technology is a tool. And a new tool has come along that is really important
 
 Here's something that feels like a moral imperative for me to communicate: <em class="highlight">the time is now to learn how to use these tools, or you will be used by them</em>. If you do any kind of knowledge work (research, spreadsheets, anything done on a computer) you need to learn to use these tools. You can also learn how to weld, wire up homes, be a good mother, run an excavator, or be a good therapist. My point is that powerful, greedy people _will_ be using these tools. Fight fire with fire. Learn these tools and wrap your head around them.
 
-I've created this handbook to help you learn how to use these tools. This isn't a handbook for automating your job or how to put these tools to work. I want you to wrap your head around this new technology and learn how to use it for yourself.
+I've created this handbook to help you learn how to use these tools. This isn't about automating your job or any specific end result. I want you to wrap your head around this new technology and learn how to use it for yourself. _Learn how to learn_.
 
 ----
 
