@@ -55,7 +55,7 @@ Okay. That's about it. Here are some sample projects to get you started.
 
 ## Calculate Your Taxes
 
-If you're reading this and you live in the United States, it's likely you have to pay estimated taxes. It's a pain to calculate with all kinds of byzantine rules that don't make sense.
+If you're reading this and you live in the United States, it's likely you have to pay estimated taxes (what can I say, I have a lot of talented friends who hate payroll jobs). It's a pain to calculate with all kinds of byzantine rules that don't make sense.
 
 - Open up Claude Cowork
 - Click "Work in a Folder" and create a new folder on your desktop.
