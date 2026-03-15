@@ -113,8 +113,8 @@ If you have any problems during this, ask it questions. Give it a screenshot. Di
 
 ----
 
-## On Your Own
+## Go Forth and Do Good
 
 Now I want you to play with it more on your own. Ask it questions about something you've been curious about. Create some silly webpages to share with friends. Make an iPhone app (I'm not kidding). You might just surprise yourself what this thing can do.
 
-And keep in mind that we still live in a world full of human meatbags. Try and do good.
+And keep in mind that we still live in a world full of human meatbags. Try and do good. I'm here if you have questions. Let's grab a beer and talk about it.
