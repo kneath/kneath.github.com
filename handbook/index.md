@@ -35,7 +35,7 @@ These tools offer up shortcuts for deeper thought. They aren't always right. Res
 
 Don't ask it to solve algebra for you. Use it to help you learn algebra. Make the computer do drudgery while you become a better person.
 
-### They Use Your Computer
+### The Tool Uses Your Computer
 
 This is one of the key breakthroughs. These new tools use your computer. They can open applications and use them. They can use your browser and Facebook account. They can create files and run programs just like you.
 
