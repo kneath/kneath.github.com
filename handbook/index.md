@@ -5,7 +5,7 @@ title: Kyle's Handbook for the Future
 
 ![Handbook](https://assets.warpspire.com/images/handbook/cover-alt.png)
 
-If you know me, you know I've always dabbled in computers. It's a lifelong passion of mine — I love building stuff with computers. All the while I've seen the good and bad that it's wrought on the world. I don't love the end result. And I'm rarely the person to tell you technology will fix all your problems. I still think more people need to spend time in our forests and lakes.
+If you know me, you know I've always dabbled in computers. It's a lifelong passion of mine — I love building stuff with computers. All the while I've seen the good and bad that it's wrought on the world. I don't love the end result. I'm rarely the person to tell you technology will fix all your problems. I still think more people need to spend time in our forests and lakes.
 
 But technology is a tool. And a new tool has come along that is really important. AI, LLMs, Chat GPT — the words aren't important — you know what they are. Recently there have been some breakthroughs that change the rules of the game. **I do not know where this is going.** This isn't some warning of coming apocalypse or impending nirvana. I just know tools create leverage, and this one is coming like nothing else before.
 
