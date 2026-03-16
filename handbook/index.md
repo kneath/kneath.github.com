@@ -92,20 +92,20 @@ Okay, remember again: none of this is perfect. But I want you to think about how
 
 ## Build a Webpage
 
-Next, we're going to learn more about how this tool can be a little research assistant. I love wildflowers (it's why I changed my name to Aster). Again, we'll start with the same setup.
+Next, we're going to learn more about how this tool can be a little research assistant. I love wildflowers. It's why I changed my name to Aster, after all. Again, we'll start with the same setup.
 
 - Open up Claude Cowork
 - Click "Work in a Folder" and create a new folder on your desktop.
 - Make sure you have **Opus 4.6** selected with **Extended thinking** enabled.
 - It will ask you permission to edit files in this folder, give it access (make sure this folder is empty!)
 
-This time we are going to have a little fun with it. Taxes suck anyway, we need something that brings us joy.
+This time we are going to have a little fun. Taxes suck anyway, we need something that brings us joy.
 
 ![Screenshot](https://assets.warpspire.com/images/handbook/handbook-4.png)
 
 Some things to watch for:
 
-- It might ask you some questions about running a Chrome plugin. Install the plugin and do what it says.
+- It might ask you some questions about running a Chrome plugin. Install the plugin and do what it says. This allows the tool to use your browser.
 - It's going to make a TODO list and check things off as it goes along
 - It's going to be searching the web, just like you would use Google
 
