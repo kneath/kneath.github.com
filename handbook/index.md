@@ -117,6 +117,29 @@ If you have any problems during this, ask it questions. Give it a screenshot. Di
 
 ----
 
+## Build a Trebuchet
+
+You know the drill now.
+
+- Open up Claude Cowork
+- Click "Work in a Folder" and create a new folder on your desktop.
+- Make sure you have **Opus 4.6** selected with **Extended thinking** enabled.
+
+Let's be real: we all want to go out in the mountains and build a trebuchet that can huck a piece of granite across a meadow. No? Just me? It's a good exercise in getting this tool to help you plan a big project.
+
+![Screenshot](https://assets.warpspire.com/images/handbook/handbook-6.png)
+
+Pay attention:
+
+- The more **context** you give the tool (like what you have in your garage), the better it works
+- Tell the tool what you want to get back — ask fo a PDF, webpage, image, or spreadsheet
+
+This PDF it created? It kind of sucks. But it's also kind of amazing? If you want to build a trebuchet you probably should find an old timer who can help you out. This tool is happy to give you very detailed, poorly thought out plans. But look at how this tool thought about the task and broke it down to steps. Are you struggling with how to approach a big problem in life? Could this help you?
+
+The more context you feed the tool, the better answers it gives.
+
+----
+
 ## Go Forth and Do Good
 
 Now I want you to play with it more on your own. Ask it questions about something you've been curious about. Create some silly webpages to share with friends. Make an iPhone app (I'm not kidding). You might just surprise yourself what this thing can do, and how far you can go with it. You might find yourself able to do things with computers you always thought were reserved for the tech bros who understood that weird maze of riddles known as programming.
