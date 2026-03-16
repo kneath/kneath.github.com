@@ -15,6 +15,25 @@
 	<link rel="stylesheet" href="/css/proxima.css" type="text/css" />
 	<link rel="alternate" href="http://warpspire.com/feed/" type="application/rss+xml" />
   
+	{% assign page_title = page.title | default: site.title %}
+	{% assign page_description = page.summary | default: page.description | default: site.description %}
+	{% assign page_image = page.image | default: site.image %}
+	{% assign page_url = page.url | prepend: site.url %}
+
+	<meta name="description" content="{{ page_description }}" />
+
+	<meta property="og:title" content="{{ page_title }}" />
+	<meta property="og:description" content="{{ page_description }}" />
+	<meta property="og:url" content="{{ page_url }}" />
+	<meta property="og:site_name" content="{{ site.title }}" />
+	<meta property="og:image" content="{{ page_image }}" />
+	<meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="{{ page_title }}" />
+	<meta name="twitter:description" content="{{ page_description }}" />
+	<meta name="twitter:image" content="{{ page_image }}" />
+
   <script src="https://cdn.usefathom.com/script.js" data-site="ASWRNHKL" defer></script>
 </head>
 <body>

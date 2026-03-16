@@ -1,2 +1,8 @@
 highlighter: rouge
 permalink: /posts/:title
+
+url: https://warpspire.com
+title: Warpspire
+description: Fragments toward a more resilient future
+author: Kyle Aster
+image: https://assets.warpspire.com/images/handbook/cover-alt.png
