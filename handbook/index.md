@@ -132,6 +132,7 @@ Let's be real: we all want to go out in the mountains and build a trebuchet that
 Pay attention:
 
 - The more **context** you give the tool (like what you have in your garage), the better it works
+- You can be the bridge between the computer and what exists in the real world. Give it photos of your toolchest or describe what's in the back of your truck.
 - Tell the tool what you want to get back — ask fo a PDF, webpage, image, or spreadsheet
 
 This PDF it created? It kind of sucks. But it's also kind of amazing? If you want to build a trebuchet you probably should find an old timer who can help you out. This tool is happy to give you very detailed, poorly thought out plans. But look at how this tool thought about the task and broke it down to steps. Are you struggling with how to approach a big problem in life? Could this help you?
