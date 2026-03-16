@@ -1,7 +1,7 @@
 ---
 layout: phasetwo/page
 title: Kyle's Handbook for the Future
-description: Kyle's Handbook to learn how to use AI before it uses you.
+description: Learn how to use AI before someone uses it on you.
 image: https://assets.warpspire.com/images/handbook/cover-alt.png
 ---
 
