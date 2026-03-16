@@ -19,7 +19,7 @@ I've created this handbook to help you learn how to use these tools. This isn't 
 
 This will take about an hour or two of your time to get set up and run through my example projects.
 
-1. Do this on your computer. It doesn't matter if it's Mac or Windows. Do it on something with Google Chrome (specifically) installed and a filesystem.
+1. Do this on your computer. It doesn't matter if it's Mac or Windows. Do it on something with Google Chrome (specifically) and a filesystem.
 2. Download the [Claude Desktop Application](https://claude.ai/download).
 3. Subscribe to the [Claude Pro plan ($20/mo)](https://claude.ai/pricing)
 
