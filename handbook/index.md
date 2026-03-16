@@ -27,7 +27,7 @@ This will take about an hour or two of your time to get set up and run through m
 
 Spend all of your time in **Claude Cowork**.
 
-For the purposes of learning these tools, always use the newest models and highest levels of 'thinking'. Right now that means choose **Opus 4.6** and click the checkbox for **Extended thinking**.
+For the purposes of learning these tools, always use the newest models and highest levels of "thinking". Right now that means choose **Opus 4.6** and click the checkbox for **Extended thinking**.
 
 ## Basic Concepts
 
