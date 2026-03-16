@@ -1,7 +1,7 @@
 ---
 layout: phasetwo/page
 title: Kyle's Handbook for the Future
-description: The time is now to learn how to use AI tools. A practical guide to get started with Claude and build real things.
+description: Kyle's Handbook to learn how to use AI before it uses you.
 image: https://assets.warpspire.com/images/handbook/cover-alt.png
 ---
 
