@@ -49,7 +49,7 @@ Keep that in mind, eh? When it asks you for permission to do something, think ab
 
 If at any time you are confused at what just happened or don't know how to proceed, ask the tool. You can say things like _Why did you do that?_ and it will explain itself back to you.
 
-### The Tool Can Understand Everything
+### It Can Understand Anything
 
 Most people are familiar with using a keyboard to chat with ChatGPT. But these tools can also read images. You can drag and drop a PDF or an Excel spreadsheet or record a sound with your microphone and have it listen. It can interpret just about anything. In any language.
 
