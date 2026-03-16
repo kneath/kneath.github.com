@@ -3,13 +3,13 @@ layout: phasetwo/page
 title: Kyle's Handbook for the Future
 ---
 
-![Handbook](https://assets.warpspire.com/images/handbook/cover.png)
+![Handbook](https://assets.warpspire.com/images/handbook/cover-alt.png)
 
 If you know me, you know I've always dabbled in computers. It's a lifelong passion of mine — I love building stuff with computers. All the while I've seen the good and bad that it's wrought on the world. I don't love the end result. And I'm rarely the person to tell you technology will fix all your problems. I still think more people need to spend time in our forests and lakes.
 
 But technology is a tool. And a new tool has come along that is really important. AI, LLMs, Chat GPT — the words aren't important — you know what they are. Recently there have been some breakthroughs that change the rules of the game. **I do not know where this is going.** This isn't some warning of coming apocalypse or impending nirvana. I just know tools create leverage, and this one is coming like nothing else before.
 
-Here's something that feels like a moral imperative for me to communicate: <em class="highlight">the time is now to learn how to use these tools, or you will be used by them</em>. If you do any kind of knowledge work (research, spreadsheets, anything done on a computer) you need to learn to use these tools. You can also learn how to weld, wire up homes, be a good mother, run an excavator, or be a good therapist. My point is that powerful, greedy people _will_ be using these tools. Fight fire with fire. Learn these tools and wrap your head around them.
+Here's something that feels like a moral imperative for me to communicate: <em class="highlight">the time is now to learn how to use these tools</em>. Your other option is to be used by them — there is no opposition position possible. If you do any kind of knowledge work (research, spreadsheets, anything done on a computer) you need to learn to use these tools. You can also learn how to weld, wire up homes, be a good mother, run an excavator, or be a good therapist. My point is that powerful, greedy people _will_ be using these tools. Fight fire with fire. Learn these tools and wrap your head around them.
 
 I've created this handbook to help you learn how to use these tools. This isn't about automating your job or any specific end result. I want you to wrap your head around this new technology and learn how to use it for yourself. _Learn how to learn_.
 
