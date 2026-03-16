@@ -76,7 +76,7 @@ Some things to watch for:
 - Notice how it asks you questions to fill in what it doesn't know.
 - Watch how it shows itself working and what it's doing. It probably wrote some python scripts. You don't even know python. But now you've used it.
 
-Okay, now you have a spreadsheet that probably describes things better than your CPA ever did. But it's not very specific. We asked it to be not specific. Let's **refine the work**. Don't always rely on the first pass.
+**Open that folder on your desktop, there are files there.** Now you have a spreadsheet that probably describes things better than your CPA ever did. But it's not very specific. We asked it to be not specific. Let's **refine the work**. Don't always rely on the first pass.
 
 ![Screenshot](https://assets.warpspire.com/images/handbook/handbook-2.png)
 
