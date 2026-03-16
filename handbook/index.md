@@ -115,6 +115,6 @@ If you have any problems during this, ask it questions. Give it a screenshot. Di
 
 ## Go Forth and Do Good
 
-Now I want you to play with it more on your own. Ask it questions about something you've been curious about. Create some silly webpages to share with friends. Make an iPhone app (I'm not kidding). You might just surprise yourself what this thing can do.
+Now I want you to play with it more on your own. Ask it questions about something you've been curious about. Create some silly webpages to share with friends. Make an iPhone app (I'm not kidding). You might just surprise yourself what this thing can do, and how far you can go with it. You might find yourself able to do things with computers you always thought were reserved for the tech bros who understood that weird maze of riddles known as programming.
 
 And keep in mind that we still live in a world full of human meatbags. Try and do good. I'm here if you have questions. Let's grab a beer and talk about it.
