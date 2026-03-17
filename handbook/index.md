@@ -19,7 +19,7 @@ I've created this handbook to help you learn how to use these tools. This isn't 
 
 ## Getting Started
 
-This will take about an hour or two of your time to get set up and run through my example projects.
+This will take about an hour or two of your time to get set up and run through my example projects. You will need a computer, but it doesn't need to be a new one. The complex calculating part all happens in datacenters.
 
 1. Do this on your computer. It doesn't matter if it's Mac or Windows. Do it on something with Google Chrome (specifically) and a filesystem.
 2. Download the [Claude Desktop Application](https://claude.ai/download).
