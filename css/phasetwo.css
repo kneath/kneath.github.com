@@ -584,6 +584,9 @@ ul.itemized p {
   margin: 0;
   color: rgba(0, 0, 0, 0.8);
 }
+ul.itemized p + p {
+  margin-top: 1em;
+}
 ul.itemized p a {
   color: #000;
 }
